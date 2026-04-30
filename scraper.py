@@ -19,6 +19,36 @@ def save_json(filename, data):
         json.dump(data, f, indent=2)
 
 
+def parse_price(price_raw):
+    """Extract numeric price from string like 'S$ 1,299,000'"""
+    if isinstance(price_raw, (int, float)):
+        return int(price_raw)
+    price_str = str(price_raw).replace('$', '').replace(',', '').replace('S', '').replace('RM', '').replace(' ', '')
+    try:
+        return int(float(price_str))
+    except:
+        return 0
+
+
+def parse_psf(psf_raw):
+    """Extract numeric PSF from string like 'S$ 1,183.06 psf'"""
+    if isinstance(psf_raw, (int, float)):
+        return float(psf_raw)
+    match = re.search(r'[\d,]+\.\d+|[\d,]+', str(psf_raw).replace(',', ''))
+    try:
+        return float(match.group(0)) if match else 0
+    except:
+        return 0
+
+
+def parse_size(size_raw):
+    """Extract numeric sqft from string like '1098 sqft'"""
+    if isinstance(size_raw, (int, float)):
+        return int(size_raw)
+    match = re.search(r'(\d+)', str(size_raw))
+    return int(match.group(1)) if match else 800
+
+
 def run_scrape():
     token = os.environ.get('APIFY_TOKEN', '')
     if not token:
@@ -40,8 +70,16 @@ def run_scrape():
         "&zoneIds=40051&zoneIds=40052"
     )
 
-    # Try multiple actors with correct input formats
     actors_to_try = [
+        {
+            "name": "shahidirfan/propertyguru-scraper",
+            "endpoint": "shahidirfan~propertyguru-scraper",
+            "input": {
+                "startUrl": search_url,
+                "results_wanted": 100,
+                "max_pages": 10
+            }
+        },
         {
             "name": "abotapi/propertyguru-sg-scraper",
             "endpoint": "abotapi~propertyguru-sg-scraper",
@@ -52,15 +90,6 @@ def run_scrape():
                 "property_type": "condo",
                 "max_properties": 0,
                 "max_pages": 20
-            }
-        },
-        {
-            "name": "shahidirfan/propertyguru-scraper",
-            "endpoint": "shahidirfan~propertyguru-scraper",
-            "input": {
-                "startUrl": search_url,
-                "results_wanted": 100,
-                "max_pages": 10
             }
         }
     ]
@@ -87,11 +116,10 @@ def run_scrape():
                     print(f"Got {len(raw_listings)} listings")
                     
                     if len(raw_listings) > 0:
-                        print(f"First listing keys: {list(raw_listings[0].keys())[:10]}")
+                        print(f"First: {json.dumps(raw_listings[0])[:300]}")
                         break
                 except Exception as e:
                     print(f"Parse error: {e}")
-                    print(f"Raw: {resp.text[:500]}")
             else:
                 print(f"Error {resp.status_code}: {resp.text[:500]}")
                 
@@ -99,13 +127,7 @@ def run_scrape():
             print(f"Request error: {e}")
     
     if not raw_listings:
-        print("\nWARNING: All actors returned 0 listings.")
-        print("This may mean:")
-        print("- Apify free tier is rate-limited")
-        print("- The actor needs different parameters")
-        print("- PropertyGuru is blocking the proxy")
-        print("\nUsing cached/previous data.")
-        # Don't generate fake data - just return True so workflow succeeds
+        print("\nWARNING: No listings from Apify. Keeping previous data.")
         return True
 
     print(f"\nProcessing {len(raw_listings)} listings...")
@@ -119,35 +141,19 @@ def run_scrape():
             pg_id = raw.get('listing_id', raw.get('external_id', str(idx)))
             l_id = f"pg-{pg_id}"
             
-            price_val = raw.get('price_value', 0)
-            if not price_val and raw.get('price'):
-                price_str = str(raw['price']).replace('$', '').replace(',', '').replace('S', '').replace('RM', '').replace(' ', '')
-                try:
-                    price_val = int(float(price_str))
-                except:
-                    price_val = 0
-            
+            price_val = parse_price(raw.get('price', raw.get('price_value', 0)))
             if price_val == 0:
                 continue
             
-            size_str = str(raw.get('size', ''))
-            size_sqft = 800
-            size_match = re.search(r'(\d+)', size_str)
-            if size_match:
-                size_sqft = int(size_match.group(1))
-            
-            psf_raw = str(raw.get('price_per_area', ''))
-psf_match = re.search(r'[\d,]+\.\d+|\d+', psf_raw.replace(',', ''))
-psf = float(psf_match.group(0)) if psf_match else 0
-            if not psf and price_val and size_sqft:
+            size_sqft = parse_size(raw.get('size', ''))
+            psf = parse_psf(raw.get('price_per_area', 0))
+            if psf == 0 and price_val and size_sqft:
                 psf = round(price_val / size_sqft, 2)
             
             beds = 2
             baths = 2
-            bed_str = str(raw.get('bedrooms', ''))
-            bath_str = str(raw.get('bathrooms', ''))
-            bed_match = re.search(r'(\d+)', bed_str)
-            bath_match = re.search(r'(\d+)', bath_str)
+            bed_match = re.search(r'(\d+)', str(raw.get('bedrooms', '')))
+            bath_match = re.search(r'(\d+)', str(raw.get('bathrooms', '')))
             if bed_match:
                 beds = int(bed_match.group(1))
             if bath_match:
@@ -230,7 +236,7 @@ psf = float(psf_match.group(0)) if psf_match else 0
     
     # Mark inactive
     scraped_ids = {l['id'] for l in listings}
-    for el in existing_listings:
+n    for el in existing_listings:
         if el['id'] not in scraped_ids and el.get('status') == 'active':
             el['status'] = 'inactive'
             el['last_seen'] = today
@@ -316,8 +322,8 @@ psf = float(psf_match.group(0)) if psf_match else 0
     save_json('data/snapshots.json', existing_snapshots)
     save_json('data/weekly_highlights.json', existing_weekly)
     
-    print(f"\nSaved: {len(existing_listings)} listings, {len(properties)} properties")
-    print(f"Snapshot: {snapshot['active_listings']} active, {snapshot['new_listings']} new")
+    print(f"\nSAVED: {len(existing_listings)} listings, {len(properties)} properties")
+    print(f"SNAPSHOT: {snapshot['active_listings']} active, {snapshot['new_listings']} new")
     return True
 
 

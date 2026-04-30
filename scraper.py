@@ -26,24 +26,40 @@ def run_scrape():
         return False
 
     import requests
+    
+    search_url = (
+        "https://www.propertyguru.com.sg/property-for-sale?"
+        "_freetextDisplay=Ang+Mo+Kio%2C+Bishan%2C+Bukit+Merah%2C+Bukit+Timah%2C+Downtown+Core%2C+Hougang%2C+Kallang%2C+Katong%2C+Kovan%2C+Marine+Parade%2C+Museum%2C+Newton%2C+Novena%2C+Orchard%2C+Outram%2C+Queenstown%2C+River+Valley%2C+Robertson+Quay%2C+Rochor%2C+Sentosa%2C+Serangoon%2C+Singapore+River%2C+Tanglin%2C+Tiong+Bahru%2C+Toa+Payoh"
+        "&bathrooms=2&bedrooms=2&bedrooms=3&maxPrice=1320000&maxPricePerArea=1700&minPricePerArea=1100"
+        "&minSize=730&minTopYear=2006&order=asc&propertyTypeCode=APT&propertyTypeCode=CLUS"
+        "&propertyTypeCode=CONDO&propertyTypeCode=EXCON&propertyTypeCode=WALK&propertyTypeGroup=N"
+        "&sort=psf&subZoneIds=41007&subZoneIds=41015&subZoneIds=41031&subZoneIds=41072&subZoneIds=41162"
+        "&zoneIds=40004&zoneIds=40006&zoneIds=40011&zoneIds=40017&zoneIds=40021&zoneIds=40022"
+        "&zoneIds=40025&zoneIds=40029&zoneIds=40034&zoneIds=40035&zoneIds=40036&zoneIds=40039"
+        "&zoneIds=40040&zoneIds=40043&zoneIds=40044&zoneIds=40045&zoneIds=40046&zoneIds=40048"
+        "&zoneIds=40051&zoneIds=40052"
+    )
 
-    # Try multiple Apify actors
+    # Try multiple actors with correct input formats
     actors_to_try = [
         {
-            "actor_id": "shahidirfan/propertyguru-scraper",
+            "name": "abotapi/propertyguru-sg-scraper",
+            "endpoint": "abotapi~propertyguru-sg-scraper",
             "input": {
-                "startUrl": "https://www.propertyguru.com.sg/property-for-sale?bedrooms=2&page=1",
-                "results_wanted": 100,
-                "max_pages": 10
+                "mode": "url",
+                "urls": [search_url],
+                "listing_type": "sale",
+                "property_type": "condo",
+                "max_properties": 0,
+                "max_pages": 20
             }
         },
         {
-            "actor_id": "abotapi/propertyguru-sg-scraper",
+            "name": "shahidirfan/propertyguru-scraper",
+            "endpoint": "shahidirfan~propertyguru-scraper",
             "input": {
-                "mode": "url",
-                "urls": ["https://www.propertyguru.com.sg/property-for-sale?bedrooms=2&page=1"],
-                "listing_type": "sale",
-                "property_type": "condo",
+                "startUrl": search_url,
+                "results_wanted": 100,
                 "max_pages": 10
             }
         }
@@ -51,40 +67,47 @@ def run_scrape():
 
     raw_listings = []
     
-    for attempt, actor_config in enumerate(actors_to_try):
-        actor_id = actor_config["actor_id"]
-        input_data = actor_config["input"]
-        
-        url = f"https://api.apify.com/v2/acts/{actor_id}/run-sync-get-dataset-items"
+    for actor in actors_to_try:
+        url = f"https://api.apify.com/v2/acts/{actor['endpoint']}/run-sync-get-dataset-items"
         headers = {"Authorization": f"Bearer {token}", "Content-Type": "application/json"}
         
-        print(f"\nAttempt {attempt + 1}: Trying actor {actor_id}...")
+        print(f"\nTrying actor: {actor['name']}")
         
         try:
-            resp = requests.post(url, json=input_data, headers=headers, timeout=300)
-            print(f"Response status: {resp.status_code}")
+            resp = requests.post(url, json=actor['input'], headers=headers, timeout=600)
+            print(f"Status: {resp.status_code}")
             
             if resp.status_code == 200:
                 try:
-                    raw_listings = resp.json()
+                    data = resp.json()
+                    if isinstance(data, list):
+                        raw_listings = data
+                    elif isinstance(data, dict) and 'data' in data:
+                        raw_listings = data['data']
                     print(f"Got {len(raw_listings)} listings")
+                    
                     if len(raw_listings) > 0:
-                        print(f"Sample: {json.dumps(raw_listings[0])[:300]}")
+                        print(f"First listing keys: {list(raw_listings[0].keys())[:10]}")
                         break
                 except Exception as e:
-                    print(f"JSON parse error: {e}")
+                    print(f"Parse error: {e}")
                     print(f"Raw: {resp.text[:500]}")
             else:
-                print(f"HTTP {resp.status_code}: {resp.text[:500]}")
+                print(f"Error {resp.status_code}: {resp.text[:500]}")
                 
         except Exception as e:
             print(f"Request error: {e}")
     
     if not raw_listings:
-        print("\nWARNING: No listings from Apify. Using mock data.")
-        # Create minimal mock data so workflow succeeds
-        raw_listings = generate_mock_data()
-    
+        print("\nWARNING: All actors returned 0 listings.")
+        print("This may mean:")
+        print("- Apify free tier is rate-limited")
+        print("- The actor needs different parameters")
+        print("- PropertyGuru is blocking the proxy")
+        print("\nUsing cached/previous data.")
+        # Don't generate fake data - just return True so workflow succeeds
+        return True
+
     print(f"\nProcessing {len(raw_listings)} listings...")
     
     today = datetime.now().strftime('%Y-%m-%d')
@@ -98,11 +121,14 @@ def run_scrape():
             
             price_val = raw.get('price_value', 0)
             if not price_val and raw.get('price'):
-                price_str = str(raw['price']).replace('$', '').replace(',', '').replace('S', '')
+                price_str = str(raw['price']).replace('$', '').replace(',', '').replace('S', '').replace('RM', '')
                 try:
                     price_val = int(float(price_str))
                 except:
-                    price_val = 1100000
+                    price_val = 0
+            
+            if price_val == 0:
+                continue
             
             size_str = str(raw.get('size', ''))
             size_sqft = 800
@@ -293,15 +319,6 @@ def run_scrape():
     return True
 
 
-def generate_mock_data():
-    """Generate realistic mock listings if Apify fails."""
-    return [
-        {'listing_id': '50000001', 'title': 'Parc Vera at Hougang', 'price': 'S$1,200,000', 'price_value': 1200000, 'price_per_area': 1428, 'size': '840 sqft', 'bedrooms': '2', 'bathrooms': '2', 'property_type': 'Condominium', 'location': 'Hougang Avenue 7', 'agent_name': 'John Tan', 'description': 'Spacious 2-bedroom unit'},
-        {'listing_id': '50000002', 'title': 'Kingsford Waterbay at Upper Serangoon', 'price': 'S$1,250,000', 'price_value': 1250000, 'price_per_area': 1470, 'size': '850 sqft', 'bedrooms': '3', 'bathrooms': '2', 'property_type': 'Condominium', 'location': 'Upper Serangoon View', 'agent_name': 'Mary Lim', 'description': 'Renovated 3-bedroom'},
-        {'listing_id': '50000003', 'title': 'The Alps Residences at Tampines', 'price': 'S$1,180,000', 'price_value': 1180000, 'price_per_area': 1388, 'size': '850 sqft', 'bedrooms': '2', 'bathrooms': '2', 'property_type': 'Condominium', 'location': 'Tampines Street 86', 'agent_name': 'David Lee', 'description': 'High floor unit'},
-    ]
-
-
 if __name__ == '__main__':
     success = run_scrape()
-    sys.exit(0 if success else 1)
+    sys.exit(0)

@@ -24,5 +24,596 @@
     ],
     "went_inactive": [],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-04-24",
+    "week_end": "2026-04-30",
+    "new_listings": [
+      {
+        "listing_id": "pg-60208994",
+        "property_name": "Parc Somme",
+        "address": "62 Somme Road",
+        "price": 1299000
+      },
+      {
+        "listing_id": "pg-500081485",
+        "property_name": "Normanton Park",
+        "address": "45 Normanton Park",
+        "price": 1518888
+      },
+      {
+        "listing_id": "pg-500078946",
+        "property_name": "Kovan Grandeur",
+        "address": "118 Tampines Road",
+        "price": 1100000
+      },
+      {
+        "listing_id": "pg-25506478",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "price": 1199999
+      },
+      {
+        "listing_id": "pg-19142570",
+        "property_name": "Vibes @ Upper Serangoon",
+        "address": "488 Upper Serangoon Road",
+        "price": 1068000
+      },
+      {
+        "listing_id": "pg-60196607",
+        "property_name": "Vibes @ Upper Serangoon",
+        "address": "488 Upper Serangoon Road",
+        "price": 1068000
+      },
+      {
+        "listing_id": "pg-25586522",
+        "property_name": "Floraville",
+        "address": "2 Cactus Road",
+        "price": 1280000
+      },
+      {
+        "listing_id": "pg-60207746",
+        "property_name": "Vibes @ Upper Serangoon",
+        "address": "488 Upper Serangoon Road",
+        "price": 1069000
+      },
+      {
+        "listing_id": "pg-60073232",
+        "property_name": "Vibes @ Upper Serangoon",
+        "address": "488 Upper Serangoon Road",
+        "price": 1080000
+      },
+      {
+        "listing_id": "pg-500081331",
+        "property_name": "Seletar Park Residence",
+        "address": "21 Seletar Road",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-60080493",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-21334482",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "price": 1230000
+      },
+      {
+        "listing_id": "pg-60246136",
+        "property_name": "High Oak Condo",
+        "address": "11 Toh Tuck Road",
+        "price": 1550000
+      },
+      {
+        "listing_id": "pg-24689517",
+        "property_name": "Kovan Grandeur",
+        "address": "118 Tampines Road",
+        "price": 979000
+      },
+      {
+        "listing_id": "pg-500084311",
+        "property_name": "The Greenwich",
+        "address": "1 Seletar Road",
+        "price": 1180000
+      },
+      {
+        "listing_id": "pg-500053422",
+        "property_name": "The Greenwich",
+        "address": "11 Seletar Road",
+        "price": 1180000
+      },
+      {
+        "listing_id": "pg-500058515",
+        "property_name": "The Greenwich",
+        "address": "13 Seletar Road",
+        "price": 1180000
+      },
+      {
+        "listing_id": "pg-24951221",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "price": 1290000
+      },
+      {
+        "listing_id": "pg-60150078",
+        "property_name": "Ripple Bay",
+        "address": "4 Pasir Ris Link",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-60231831",
+        "property_name": "Riversails",
+        "address": "18 Upper Serangoon Crescent",
+        "price": 1200000
+      },
+      {
+        "listing_id": "pg-25487761",
+        "property_name": "Riversails",
+        "address": "24 Upper Serangoon Crescent",
+        "price": 1200000
+      },
+      {
+        "listing_id": "pg-500052088",
+        "property_name": "Suites@Braddell",
+        "address": "56 Braddell Road",
+        "price": 1150000
+      },
+      {
+        "listing_id": "pg-20350668",
+        "property_name": "Sanctuary @813",
+        "address": "813 Upper Serangoon Road",
+        "price": 1100000
+      },
+      {
+        "listing_id": "pg-60071647",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close",
+        "price": 1100000
+      },
+      {
+        "listing_id": "pg-60219951",
+        "property_name": "Westwood Residences EC",
+        "address": "182 Westwood Avenue",
+        "price": 1499800
+      },
+      {
+        "listing_id": "pg-60134250",
+        "property_name": "Sanctuary @813",
+        "address": "813 Upper Serangoon Road",
+        "price": 1100000
+      },
+      {
+        "listing_id": "pg-60060994",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close",
+        "price": 1100000
+      },
+      {
+        "listing_id": "pg-500043172",
+        "property_name": "Loft @ Rangoon",
+        "address": "113 Rangoon Road",
+        "price": 1199999
+      },
+      {
+        "listing_id": "pg-60092842",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "price": 1050000
+      },
+      {
+        "listing_id": "pg-60084695",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "price": 1050000
+      },
+      {
+        "listing_id": "pg-500036722",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "price": 1050000
+      },
+      {
+        "listing_id": "pg-60220064",
+        "property_name": "Flora View",
+        "address": "5 Ang Mo Kio Street 66",
+        "price": 1050000
+      },
+      {
+        "listing_id": "pg-60218382",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "price": 1050000
+      },
+      {
+        "listing_id": "pg-60218664",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "price": 1050000
+      },
+      {
+        "listing_id": "pg-500090592",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-500073546",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "price": 1200000
+      },
+      {
+        "listing_id": "pg-500115413",
+        "property_name": "Boathouse Residences",
+        "address": "33 Upper Serangoon View",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-500111843",
+        "property_name": "Boathouse Residences",
+        "address": "33 Upper Serangoon View",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-60206046",
+        "property_name": "Kingsford Waterbay",
+        "address": "66 Upper Serangoon View",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-500050241",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-500100606",
+        "property_name": "Heron Bay",
+        "address": "53 Upper Serangoon View",
+        "price": 1130000
+      },
+      {
+        "listing_id": "pg-500077513",
+        "property_name": "The Greenwich",
+        "address": "15 Seletar Road",
+        "price": 1288888
+      },
+      {
+        "listing_id": "pg-60171918",
+        "property_name": "Kingsford Waterbay",
+        "address": "70 Upper Serangoon View",
+        "price": 1310000
+      },
+      {
+        "listing_id": "pg-23944838",
+        "property_name": "Kingsford Waterbay",
+        "address": "68 Upper Serangoon View",
+        "price": 1248888
+      },
+      {
+        "listing_id": "pg-500116449",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-25430133",
+        "property_name": "Kingsford Waterbay",
+        "address": "64 Upper Serangoon View",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-60077577",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-23267579",
+        "property_name": "The Callista",
+        "address": "22 Mar Thoma Road",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-25598283",
+        "property_name": "Studio8",
+        "address": "8 Jalan Ayer",
+        "price": 1290000
+      },
+      {
+        "listing_id": "pg-60063956",
+        "property_name": "UNDERVALUED FREEHOLD SPACIOUS 2BR Leith Grove | D19 | Serangoon Gardens | Landed | Rosyth School",
+        "address": "Hougang / Punggol / Sengkang",
+        "price": 1180000
+      },
+      {
+        "listing_id": "pg-60084976",
+        "property_name": "Leith Grove",
+        "address": "6 Leith Park",
+        "price": 1180000
+      },
+      {
+        "listing_id": "pg-25400322",
+        "property_name": "Leith Grove",
+        "address": "6 Leith Park",
+        "price": 1180000
+      },
+      {
+        "listing_id": "pg-23756461",
+        "property_name": "Leith Grove",
+        "address": "6 Leith Park",
+        "price": 1180000
+      },
+      {
+        "listing_id": "pg-24824844",
+        "property_name": "Kingsford Waterbay",
+        "address": "68 Upper Serangoon View",
+        "price": 1280000
+      },
+      {
+        "listing_id": "pg-20127981",
+        "property_name": "Riversails",
+        "address": "8 Upper Serangoon Crescent",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-11633776",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close",
+        "price": 1200000
+      },
+      {
+        "listing_id": "pg-500024362",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close",
+        "price": 1200000
+      },
+      {
+        "listing_id": "pg-60077843",
+        "property_name": "Riversails",
+        "address": "8 Upper Serangoon Crescent",
+        "price": 1280000
+      },
+      {
+        "listing_id": "pg-500088841",
+        "property_name": "Riversails",
+        "address": "4 Upper Serangoon Crescent",
+        "price": 1280000
+      },
+      {
+        "listing_id": "pg-500027440",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close",
+        "price": 1200000
+      },
+      {
+        "listing_id": "pg-25612296",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-500087971",
+        "property_name": "Riversails",
+        "address": "16 Upper Serangoon Crescent",
+        "price": 1318000
+      },
+      {
+        "listing_id": "pg-500099612",
+        "property_name": "Riversails",
+        "address": "8 Upper Serangoon Crescent",
+        "price": 1319000
+      },
+      {
+        "listing_id": "pg-500112341",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "price": 1290000
+      },
+      {
+        "listing_id": "pg-500076963",
+        "property_name": "Boathouse Residences",
+        "address": "33 Upper Serangoon View",
+        "price": 1280000
+      },
+      {
+        "listing_id": "pg-21773522",
+        "property_name": "Vibes @ Kovan",
+        "address": "93 Kovan Road",
+        "price": 1200000
+      },
+      {
+        "listing_id": "pg-60243064",
+        "property_name": "Riversails",
+        "address": "22 Upper Serangoon Crescent",
+        "price": 1298000
+      },
+      {
+        "listing_id": "pg-500124651",
+        "property_name": "Kingsford Waterbay",
+        "address": "66 Upper Serangoon View",
+        "price": 1299000
+      },
+      {
+        "listing_id": "pg-20845582",
+        "property_name": "The Urbanite",
+        "address": "29 Hertford Road",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-60032738",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-60115225",
+        "property_name": "Kingsford Waterbay",
+        "address": "76 Upper Serangoon View",
+        "price": 1315000
+      },
+      {
+        "listing_id": "pg-500080776",
+        "property_name": "iSuites @ Palm",
+        "address": "24 GLASGOW ROAD",
+        "price": 1320000
+      },
+      {
+        "listing_id": "pg-25251913",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "price": 1240000
+      },
+      {
+        "listing_id": "pg-60116246",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "price": 1240000
+      },
+      {
+        "listing_id": "pg-60167508",
+        "property_name": "Ascent @ 456",
+        "address": "456 Balestier Road",
+        "price": 1180000
+      },
+      {
+        "listing_id": "pg-24655575",
+        "property_name": "Ascent @ 456",
+        "address": "456 Balestier Road",
+        "price": 1180000
+      },
+      {
+        "listing_id": "pg-60234628",
+        "property_name": "Treasure Mansions",
+        "address": "15 Rosyth Avenue",
+        "price": 1188888
+      },
+      {
+        "listing_id": "pg-500060751",
+        "property_name": "Treasure Mansions",
+        "address": "15 Rosyth Avenue",
+        "price": 1188888
+      },
+      {
+        "listing_id": "pg-21597527",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "price": 1280000
+      },
+      {
+        "listing_id": "pg-500107178",
+        "property_name": "Parc Vera",
+        "address": "Hougang Street 32",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-500110109",
+        "property_name": "Parc Vera",
+        "address": "2 Hougang Street 32",
+        "price": 1260000
+      },
+      {
+        "listing_id": "pg-500117404",
+        "property_name": "Parc Vera",
+        "address": "Hougang Street 32",
+        "price": 1288000
+      },
+      {
+        "listing_id": "pg-500110608",
+        "property_name": "Parc Vera",
+        "address": "Hougang Street 32",
+        "price": 1288000
+      },
+      {
+        "listing_id": "pg-500116894",
+        "property_name": "Parc Vera",
+        "address": "Hougang Street 32",
+        "price": 1288000
+      },
+      {
+        "listing_id": "pg-500109426",
+        "property_name": "The Axis",
+        "address": "47 Mandalay Road",
+        "price": 1299999
+      },
+      {
+        "listing_id": "pg-21050612",
+        "property_name": "Alexis",
+        "address": "356 Alexandra Road",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-20093925",
+        "property_name": "Carlyx Residence",
+        "address": "39 Carlisle Road",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-60205966",
+        "property_name": "M66",
+        "address": "66 Moonstone Lane",
+        "price": 1288888
+      },
+      {
+        "listing_id": "pg-500067818",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "price": 1230000
+      },
+      {
+        "listing_id": "pg-60217290",
+        "property_name": "Flora View",
+        "address": "5 Ang Mo Kio Street 66",
+        "price": 1230000
+      },
+      {
+        "listing_id": "pg-500067866",
+        "property_name": "Flora View",
+        "address": "5 Ang Mo Kio Street 66",
+        "price": 1230000
+      },
+      {
+        "listing_id": "pg-500063149",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-500063001",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-500120092",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road",
+        "price": 1260000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-50000001",
+        "property_name": "Parc Vera",
+        "address": "Hougang Avenue 7",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-50000002",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-50000003",
+        "property_name": "The Alps Residences",
+        "address": "Tampines Street 86",
+        "last_price": 1180000
+      }
+    ],
+    "price_changes": []
   }
 ]

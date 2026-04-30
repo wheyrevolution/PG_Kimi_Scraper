@@ -615,5 +615,31 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-04-24",
+    "week_end": "2026-04-30",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-50000001",
+        "property_name": "Parc Vera",
+        "address": "Hougang Avenue 7",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-50000002",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-50000003",
+        "property_name": "The Alps Residences",
+        "address": "Tampines Street 86",
+        "last_price": 1180000
+      }
+    ],
+    "price_changes": []
   }
 ]

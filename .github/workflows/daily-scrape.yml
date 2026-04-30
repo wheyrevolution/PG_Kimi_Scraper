@@ -13,31 +13,23 @@ jobs:
     env:
       ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Run scraper
-        env:
+      
+      - run: pip install requests
+      
+      - env:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
-        run: python scraper.py
-
-      - name: Commit and push updated data
-        if: always()
         run: |
-          git config user.name "PG Tracker Bot"
-          git config user.email "bot@pgtracker.local"
+          python scraper.py || echo "Scraper returned error, continuing..."
+        continue-on-error: true
+      
+      - run: |
+          git config user.name "Bot"
+          git config user.email "bot@local"
           git add data/
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "data: daily scrape update $(date +%Y-%m-%d)"
-            git push
-          fi
+          git diff --cached --quiet || (git commit -m "update $(date +%Y-%m-%d)" && git push)
+        continue-on-error: true

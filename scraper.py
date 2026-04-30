@@ -77,7 +77,7 @@ def run_scrape():
             resp = requests.post(url, json=actor['input'], headers=headers, timeout=600)
             print(f"Status: {resp.status_code}")
             
-            if resp.status_code == 200:
+            if resp.status_code in [200, 201]:
                 try:
                     data = resp.json()
                     if isinstance(data, list):

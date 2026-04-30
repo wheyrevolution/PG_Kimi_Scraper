@@ -236,7 +236,7 @@ def run_scrape():
     
     # Mark inactive
     scraped_ids = {l['id'] for l in listings}
-n    for el in existing_listings:
+    for el in existing_listings:
         if el['id'] not in scraped_ids and el.get('status') == 'active':
             el['status'] = 'inactive'
             el['last_seen'] = today

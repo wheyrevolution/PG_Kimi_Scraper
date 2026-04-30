@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  scrape:
+  scrape-condos:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -14,22 +14,40 @@ jobs:
       ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
     steps:
       - uses: actions/checkout@v4
-      
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      
       - run: pip install requests
-      
       - env:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
-        run: |
-          python scraper.py || echo "Scraper returned error, continuing..."
-        continue-on-error: true
-      
+        run: python scraper.py
       - run: |
           git config user.name "Bot"
           git config user.email "bot@local"
           git add data/
-          git diff --cached --quiet || (git commit -m "update $(date +%Y-%m-%d)" && git push)
+          git diff --cached --quiet || (git commit -m "condos: $(date +%Y-%m-%d)" && git push)
+        continue-on-error: true
+
+  scrape-hdb:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          DATA_DIR: data/hdb
+          SEARCH_URL: "https://www.propertyguru.com.sg/property-for-sale?propertyTypeGroup=H&maxPrice=980000&minTopYear=2014&bedrooms=3&bedrooms=4&bathrooms=2&bathrooms=3&distanceToMRT=0.75"
+        run: python scraper.py
+      - run: |
+          git config user.name "Bot"
+          git config user.email "bot@local"
+          git add data/hdb/
+          git diff --cached --quiet || (git commit -m "hdb: $(date +%Y-%m-%d)" && git push)
         continue-on-error: true

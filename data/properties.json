@@ -1,0 +1,68 @@
+[
+  {
+    "id": "prop-2cd37e18",
+    "name": "Parc Vera",
+    "address": "Hougang Avenue 7",
+    "property_type": "Condominium",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 840,
+    "top_year": null,
+    "tenure": "",
+    "first_seen": "2026-04-30",
+    "last_seen": "2026-04-30",
+    "listing_ids": [
+      "pg-50000001"
+    ],
+    "current_price": 1200000,
+    "current_psf": 1428,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-50000001"
+  },
+  {
+    "id": "prop-a712d26d",
+    "name": "Kingsford Waterbay",
+    "address": "Upper Serangoon View",
+    "property_type": "Condominium",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 850,
+    "top_year": null,
+    "tenure": "",
+    "first_seen": "2026-04-30",
+    "last_seen": "2026-04-30",
+    "listing_ids": [
+      "pg-50000002"
+    ],
+    "current_price": 1250000,
+    "current_psf": 1470,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-50000002"
+  },
+  {
+    "id": "prop-4ba529d2",
+    "name": "The Alps Residences",
+    "address": "Tampines Street 86",
+    "property_type": "Condominium",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 850,
+    "top_year": null,
+    "tenure": "",
+    "first_seen": "2026-04-30",
+    "last_seen": "2026-04-30",
+    "listing_ids": [
+      "pg-50000003"
+    ],
+    "current_price": 1180000,
+    "current_psf": 1388,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-50000003"
+  }
+]

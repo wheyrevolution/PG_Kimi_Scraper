@@ -121,7 +121,7 @@ def run_scrape():
             
             price_val = raw.get('price_value', 0)
             if not price_val and raw.get('price'):
-                price_str = str(raw['price']).replace('$', '').replace(',', '').replace('S', '').replace('RM', '')
+                price_str = str(raw['price']).replace('$', '').replace(',', '').replace('S', '').replace('RM', '').replace(' ', '')
                 try:
                     price_val = int(float(price_str))
                 except:
@@ -136,7 +136,9 @@ def run_scrape():
             if size_match:
                 size_sqft = int(size_match.group(1))
             
-            psf = raw.get('price_per_area', 0)
+            psf_raw = str(raw.get('price_per_area', ''))
+psf_match = re.search(r'[\d,]+\.\d+|\d+', psf_raw.replace(',', ''))
+psf = float(psf_match.group(0)) if psf_match else 0
             if not psf and price_val and size_sqft:
                 psf = round(price_val / size_sqft, 2)
             

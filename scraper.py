@@ -20,7 +20,6 @@ def save_json(filename, data):
 
 
 def parse_price(price_raw):
-    """Extract numeric price from string like 'S$ 1,299,000'"""
     if isinstance(price_raw, (int, float)):
         return int(price_raw)
     price_str = str(price_raw).replace('$', '').replace(',', '').replace('S', '').replace('RM', '').replace(' ', '')
@@ -31,7 +30,6 @@ def parse_price(price_raw):
 
 
 def parse_psf(psf_raw):
-    """Extract numeric PSF from string like 'S$ 1,183.06 psf'"""
     if isinstance(psf_raw, (int, float)):
         return float(psf_raw)
     match = re.search(r'[\d,]+\.\d+|[\d,]+', str(psf_raw).replace(',', ''))
@@ -42,7 +40,6 @@ def parse_psf(psf_raw):
 
 
 def parse_size(size_raw):
-    """Extract numeric sqft from string like '1098 sqft'"""
     if isinstance(size_raw, (int, float)):
         return int(size_raw)
     match = re.search(r'(\d+)', str(size_raw))
@@ -57,80 +54,77 @@ def run_scrape():
 
     import requests
     
-    search_url = (
-        "https://www.propertyguru.com.sg/property-for-sale?"
-        "_freetextDisplay=Ang+Mo+Kio%2C+Bishan%2C+Bukit+Merah%2C+Bukit+Timah%2C+Downtown+Core%2C+Hougang%2C+Kallang%2C+Katong%2C+Kovan%2C+Marine+Parade%2C+Museum%2C+Newton%2C+Novena%2C+Orchard%2C+Outram%2C+Queenstown%2C+River+Valley%2C+Robertson+Quay%2C+Rochor%2C+Sentosa%2C+Serangoon%2C+Singapore+River%2C+Tanglin%2C+Tiong+Bahru%2C+Toa+Payoh"
-        "&bathrooms=2&bedrooms=2&bedrooms=3&maxPrice=1320000&maxPricePerArea=1700&minPricePerArea=1100"
-        "&minSize=730&minTopYear=2006&order=asc&propertyTypeCode=APT&propertyTypeCode=CLUS"
-        "&propertyTypeCode=CONDO&propertyTypeCode=EXCON&propertyTypeCode=WALK&propertyTypeGroup=N"
-        "&sort=psf&subZoneIds=41007&subZoneIds=41015&subZoneIds=41031&subZoneIds=41072&subZoneIds=41162"
-        "&zoneIds=40004&zoneIds=40006&zoneIds=40011&zoneIds=40017&zoneIds=40021&zoneIds=40022"
-        "&zoneIds=40025&zoneIds=40029&zoneIds=40034&zoneIds=40035&zoneIds=40036&zoneIds=40039"
-        "&zoneIds=40040&zoneIds=40043&zoneIds=40044&zoneIds=40045&zoneIds=40046&zoneIds=40048"
-        "&zoneIds=40051&zoneIds=40052"
-    )
+    # Configurable via env vars
+    data_dir = os.environ.get('DATA_DIR', 'data')
+    property_type = os.environ.get('PROPERTY_TYPE', 'condo')
+    search_url = os.environ.get('SEARCH_URL', '')
+    
+    if not search_url:
+        # Default condo search
+        search_url = (
+            "https://www.propertyguru.com.sg/property-for-sale?"
+            "_freetextDisplay=Ang+Mo+Kio%2C+Bishan%2C+Bukit+Merah%2C+Bukit+Timah%2C+Downtown+Core%2C+Hougang%2C+Kallang%2C+Katong%2C+Kovan%2C+Marine+Parade%2C+Museum%2C+Newton%2C+Novena%2C+Orchard%2C+Outram%2C+Queenstown%2C+River+Valley%2C+Robertson+Quay%2C+Rochor%2C+Sentosa%2C+Serangoon%2C+Singapore+River%2C+Tanglin%2C+Tiong+Bahru%2C+Toa+Payoh"
+            "&bathrooms=2&bedrooms=2&bedrooms=3&maxPrice=1320000&maxPricePerArea=1700&minPricePerArea=1100"
+            "&minSize=730&minTopYear=2006&order=asc&propertyTypeCode=APT&propertyTypeCode=CLUS"
+            "&propertyTypeCode=CONDO&propertyTypeCode=EXCON&propertyTypeCode=WALK&propertyTypeGroup=N"
+            "&sort=psf&subZoneIds=41007&subZoneIds=41015&subZoneIds=41031&subZoneIds=41072&subZoneIds=41162"
+            "&zoneIds=40004&zoneIds=40006&zoneIds=40011&zoneIds=40017&zoneIds=40021&zoneIds=40022"
+            "&zoneIds=40025&zoneIds=40029&zoneIds=40034&zoneIds=40035&zoneIds=40036&zoneIds=40039"
+            "&zoneIds=40040&zoneIds=40043&zoneIds=40044&zoneIds=40045&zoneIds=40046&zoneIds=40048"
+            "&zoneIds=40051&zoneIds=40052"
+        )
 
-    actors_to_try = [
-        {
-            "name": "shahidirfan/propertyguru-scraper",
-            "endpoint": "shahidirfan~propertyguru-scraper",
-            "input": {
-                "startUrl": search_url,
-                "results_wanted": 100,
-                "max_pages": 10
-            }
-        },
-        {
-            "name": "abotapi/propertyguru-sg-scraper",
-            "endpoint": "abotapi~propertyguru-sg-scraper",
-            "input": {
-                "mode": "url",
-                "urls": [search_url],
-                "listing_type": "sale",
-                "property_type": "condo",
-                "max_properties": 0,
-                "max_pages": 20
-            }
+    # Singapore actor - supports condo, hdb, landed
+    actor = {
+        "name": "abotapi/propertyguru-sg-scraper",
+        "endpoint": "abotapi~propertyguru-sg-scraper",
+        "input": {
+            "mode": "url",
+            "urls": [search_url],
+            "listing_type": "sale",
+            "property_type": property_type,
+            "max_properties": 0,
+            "max_pages": 20
         }
-    ]
+    }
 
+    url = f"https://api.apify.com/v2/acts/{actor['endpoint']}/run-sync-get-dataset-items"
+    headers = {"Authorization": f"Bearer {token}", "Content-Type": "application/json"}
+    
+    print(f"\nRunning Singapore actor: {actor['name']}")
+    print(f"Property type: {property_type}")
+    print(f"Data dir: {data_dir}")
+    
     raw_listings = []
     
-    for actor in actors_to_try:
-        url = f"https://api.apify.com/v2/acts/{actor['endpoint']}/run-sync-get-dataset-items"
-        headers = {"Authorization": f"Bearer {token}", "Content-Type": "application/json"}
+    try:
+        resp = requests.post(url, json=actor['input'], headers=headers, timeout=600)
+        print(f"Status: {resp.status_code}")
         
-        print(f"\nTrying actor: {actor['name']}")
-        
-        try:
-            resp = requests.post(url, json=actor['input'], headers=headers, timeout=600)
-            print(f"Status: {resp.status_code}")
-            
-            if resp.status_code in [200, 201]:
-                try:
-                    data = resp.json()
-                    if isinstance(data, list):
-                        raw_listings = data
-                    elif isinstance(data, dict) and 'data' in data:
-                        raw_listings = data['data']
-                    print(f"Got {len(raw_listings)} listings")
-                    
-                    if len(raw_listings) > 0:
-                        print(f"First: {json.dumps(raw_listings[0])[:300]}")
-                        break
-                except Exception as e:
-                    print(f"Parse error: {e}")
-            else:
-                print(f"Error {resp.status_code}: {resp.text[:500]}")
+        if resp.status_code in [200, 201]:
+            try:
+                data = resp.json()
+                if isinstance(data, list):
+                    raw_listings = data
+                elif isinstance(data, dict) and 'data' in data:
+                    raw_listings = data['data']
+                print(f"Got {len(raw_listings)} listings")
                 
-        except Exception as e:
-            print(f"Request error: {e}")
+                if len(raw_listings) > 0:
+                    print(f"First listing: {json.dumps(raw_listings[0])[:300]}")
+            except Exception as e:
+                print(f"Parse error: {e}")
+        else:
+            print(f"Error {resp.status_code}: {resp.text[:500]}")
+            
+    except Exception as e:
+        print(f"Request error: {e}")
     
     if not raw_listings:
-        print("\nWARNING: No listings from Apify. Keeping previous data.")
+        print(f"\nWARNING: No {property_type} listings from Apify. Keeping previous data.")
         return True
 
-    print(f"\nProcessing {len(raw_listings)} listings...")
+    print(f"\nProcessing {len(raw_listings)} {property_type} listings...")
     
     today = datetime.now().strftime('%Y-%m-%d')
     listings = []
@@ -180,7 +174,7 @@ def run_scrape():
                     'id': prop_id,
                     'name': prop_name,
                     'address': address,
-                    'property_type': raw.get('property_type', 'Condominium'),
+                    'property_type': raw.get('property_type', property_type),
                     'bedrooms': beds,
                     'bathrooms': baths,
                     'size_sqft': size_sqft,
@@ -209,7 +203,7 @@ def run_scrape():
                 'size_sqft': size_sqft,
                 'bedrooms': beds,
                 'bathrooms': baths,
-                'property_type': raw.get('property_type', 'Condominium'),
+                'property_type': raw.get('property_type', property_type),
                 'status': 'active',
                 'agent_name': raw.get('agent_name', ''),
                 'listing_date': today,
@@ -228,20 +222,17 @@ def run_scrape():
             print(f"Error parsing listing {idx}: {e}")
             continue
 
-    # Load existing data
-    existing_listings = load_json('data/listings.json')
-    existing_price_history = load_json('data/price_history.json')
-    existing_snapshots = load_json('data/snapshots.json')
-    existing_weekly = load_json('data/weekly_highlights.json')
+    existing_listings = load_json(f'{data_dir}/listings.json')
+    existing_price_history = load_json(f'{data_dir}/price_history.json')
+    existing_snapshots = load_json(f'{data_dir}/snapshots.json')
+    existing_weekly = load_json(f'{data_dir}/weekly_highlights.json')
     
-    # Mark inactive
     scraped_ids = {l['id'] for l in listings}
     for el in existing_listings:
         if el['id'] not in scraped_ids and el.get('status') == 'active':
             el['status'] = 'inactive'
             el['last_seen'] = today
     
-    # Merge listings
     existing_ids = {l['id'] for l in existing_listings}
     new_listings_only = []
     
@@ -274,16 +265,14 @@ def run_scrape():
             existing_listings.append(l)
             new_listings_only.append(l)
     
-    # Merge properties
     properties = list(properties_map.values())
-    existing_props = load_json('data/properties.json')
+    existing_props = load_json(f'{data_dir}/properties.json')
     existing_prop_ids = {p['id'] for p in properties}
     for ep in existing_props:
         if ep['id'] not in existing_prop_ids:
             ep['status'] = 'inactive'
             properties.append(ep)
     
-    # Snapshot
     active = [l for l in existing_listings if l.get('status') == 'active']
     snapshot = {
         'id': f"snap-{uuid.uuid4().hex[:8]}",
@@ -301,7 +290,6 @@ def run_scrape():
     }
     existing_snapshots.append(snapshot)
     
-    # Weekly highlights
     newly_inactive = [l for l in existing_listings if l.get('status') == 'inactive' and l.get('last_seen') == today]
     price_changes_today = [ph for ph in existing_price_history if ph.get('recorded_at') == today]
     
@@ -314,15 +302,14 @@ def run_scrape():
             'price_changes': [{'listing_id': ph['listing_id'], 'property_name': ph['property_name'], 'address': '', 'old_price': ph['price'] - ph['change_amount'], 'new_price': ph['price'], 'change_amount': ph['change_amount'], 'change_percent': ph['change_percent']} for ph in price_changes_today],
         })
     
-    # Save
-    os.makedirs('data', exist_ok=True)
-    save_json('data/listings.json', existing_listings)
-    save_json('data/properties.json', properties)
-    save_json('data/price_history.json', existing_price_history)
-    save_json('data/snapshots.json', existing_snapshots)
-    save_json('data/weekly_highlights.json', existing_weekly)
+    os.makedirs(data_dir, exist_ok=True)
+    save_json(f'{data_dir}/listings.json', existing_listings)
+    save_json(f'{data_dir}/properties.json', properties)
+    save_json(f'{data_dir}/price_history.json', existing_price_history)
+    save_json(f'{data_dir}/snapshots.json', existing_snapshots)
+    save_json(f'{data_dir}/weekly_highlights.json', existing_weekly)
     
-    print(f"\nSAVED: {len(existing_listings)} listings, {len(properties)} properties")
+    print(f"\nSAVED to {data_dir}: {len(existing_listings)} listings, {len(properties)} properties")
     print(f"SNAPSHOT: {snapshot['active_listings']} active, {snapshot['new_listings']} new")
     return True
 

@@ -20,6 +20,8 @@ jobs:
       - run: pip install requests
       - env:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          PROPERTY_TYPE: condo
+          DATA_DIR: data
         run: python scraper.py
       - run: |
           git config user.name "Bot"
@@ -42,8 +44,9 @@ jobs:
       - run: pip install requests
       - env:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          PROPERTY_TYPE: hdb
           DATA_DIR: data/hdb
-          SEARCH_URL: "https://www.propertyguru.com.sg/property-for-sale?propertyTypeGroup=H&maxPrice=980000&minTopYear=2014&bedrooms=3&bedrooms=4&bathrooms=2&bathrooms=3&distanceToMRT=0.75"
+          SEARCH_URL: "https://www.propertyguru.com.sg/property-for-sale?listingType=sale&page=1&propertyTypeGroup=H&propertyTypeCode=4A&propertyTypeCode=4I&propertyTypeCode=4NG&propertyTypeCode=4PA&propertyTypeCode=4S&propertyTypeCode=4STD&propertyTypeCode=5A&propertyTypeCode=5I&propertyTypeCode=5PA&propertyTypeCode=5S&isCommercial=false&maxPrice=980000&minTopYear=2014&bedrooms=3&bedrooms=4&bathrooms=2&bathrooms=3&zoneIds=40006&zoneIds=40011&zoneIds=40017&zoneIds=40021&zoneIds=40025&zoneIds=40029&zoneIds=40040&zoneIds=40044&zoneIds=40045&zoneIds=40046&zoneIds=40048&zoneIds=40051&zoneIds=40052&subZoneIds=41007&subZoneIds=41162&_freetextDisplay=Ang+Mo+Kio%2C+Bishan%2C+Bukit+Timah%2C+Downtown+Core%2C+Hougang%2C+Kovan%2C+Newton%2C+Novena%2C+Orchard%2C+Outram%2C+Queenstown%2C+Serangoon%2C+Tanglin%2C+Tiong+Bahru%2C+Toa+Payoh&distanceToMRT=0.75"
         run: python scraper.py
       - run: |
           git config user.name "Bot"

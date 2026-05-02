@@ -641,5 +641,50 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-04-26",
+    "week_end": "2026-05-02",
+    "new_listings": [
+      {
+        "listing_id": "pg-500126092",
+        "property_name": "Regentville",
+        "address": "2 Hougang Street 92",
+        "price": 1230000
+      },
+      {
+        "listing_id": "pg-500033241",
+        "property_name": "NV Residences",
+        "address": "91 Pasir Ris Grove",
+        "price": 1128000
+      },
+      {
+        "listing_id": "pg-500125974",
+        "property_name": "Regent Heights",
+        "address": "50 Bukit Batok East Avenue 5",
+        "price": 1220000
+      },
+      {
+        "listing_id": "pg-500126078",
+        "property_name": "Primo Residences",
+        "address": "203 Jalan Pelikat",
+        "price": 1299000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60219951",
+        "property_name": "Westwood Residences EC",
+        "address": "182 Westwood Avenue",
+        "last_price": 1499800
+      },
+      {
+        "listing_id": "pg-60134250",
+        "property_name": "Sanctuary @813",
+        "address": "813 Upper Serangoon Road",
+        "last_price": 1100000
+      }
+    ],
+    "price_changes": []
   }
 ]

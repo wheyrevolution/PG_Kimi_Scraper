@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "ph-25d7c4b7",
+    "listing_id": "pg-500073546",
+    "property_id": "prop-939eb064",
+    "property_name": "Kingsford Waterbay",
+    "price": 1268000,
+    "psf": 1491.76,
+    "change_amount": 68000,
+    "change_percent": 5.7,
+    "recorded_at": "2026-05-03",
+    "notes": "Price changed from S$1,200,000"
+  }
+]

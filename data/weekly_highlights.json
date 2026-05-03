@@ -686,5 +686,54 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-04-27",
+    "week_end": "2026-05-03",
+    "new_listings": [
+      {
+        "listing_id": "pg-500121148",
+        "property_name": "Vacanza @ East",
+        "address": "48 Lengkong Tujoh",
+        "price": 1400000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60246136",
+        "property_name": "High Oak Condo",
+        "address": "11 Toh Tuck Road",
+        "last_price": 1550000
+      },
+      {
+        "listing_id": "pg-500090592",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-23267579",
+        "property_name": "The Callista",
+        "address": "22 Mar Thoma Road",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500033241",
+        "property_name": "NV Residences",
+        "address": "91 Pasir Ris Grove",
+        "last_price": 1128000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500073546",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1200000,
+        "new_price": 1268000,
+        "change_amount": 68000,
+        "change_percent": 5.7
+      }
+    ]
   }
 ]

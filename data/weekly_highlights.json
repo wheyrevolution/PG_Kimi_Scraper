@@ -1188,5 +1188,56 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-04-29",
+    "week_end": "2026-05-05",
+    "new_listings": [
+      {
+        "listing_id": "pg-500045484",
+        "property_name": "RV Edge",
+        "address": "2 Shanghai Road",
+        "price": 1500000
+      },
+      {
+        "listing_id": "pg-500128248",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-24747153",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close",
+        "price": 1139000
+      },
+      {
+        "listing_id": "pg-23944833",
+        "property_name": "Kingsford Waterbay",
+        "address": "70 Upper Serangoon View",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-23947178",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close",
+        "price": 1200000
+      },
+      {
+        "listing_id": "pg-22062492",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "price": 1300000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500127053",
+        "property_name": "78 Moh Guan Terrace",
+        "address": "78 Moh Guan Terrace",
+        "last_price": 1288000
+      }
+    ],
+    "price_changes": []
   }
 ]

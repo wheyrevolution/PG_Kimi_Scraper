@@ -1704,5 +1704,44 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-05-01",
+    "week_end": "2026-05-07",
+    "new_listings": [
+      {
+        "listing_id": "pg-500123614",
+        "property_name": "View",
+        "address": "15 Lorong Kismis",
+        "price": 1460000
+      },
+      {
+        "listing_id": "pg-23327456",
+        "property_name": "My Manhattan",
+        "address": "27 Simei Street 3",
+        "price": 1460049
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-24689517",
+        "property_name": "Kovan Grandeur",
+        "address": "118 Tampines Road",
+        "last_price": 979000
+      },
+      {
+        "listing_id": "pg-60236920",
+        "property_name": "Stratum",
+        "address": "96 Elias Road",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500127053",
+        "property_name": "78 Moh Guan Terrace",
+        "address": "78 Moh Guan Terrace",
+        "last_price": 1288000
+      }
+    ],
+    "price_changes": []
   }
 ]

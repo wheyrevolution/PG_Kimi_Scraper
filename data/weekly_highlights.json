@@ -1743,5 +1743,25 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-05-02",
+    "week_end": "2026-05-08",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60032738",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500123614",
+        "property_name": "View",
+        "address": "15 Lorong Kismis",
+        "last_price": 1460000
+      }
+    ],
+    "price_changes": []
   }
 ]

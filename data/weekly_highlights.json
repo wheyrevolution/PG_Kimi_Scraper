@@ -1763,5 +1763,44 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-05-03",
+    "week_end": "2026-05-09",
+    "new_listings": [
+      {
+        "listing_id": "pg-500085690",
+        "property_name": "The Visionaire",
+        "address": "178 Canberra Drive",
+        "price": 1580000
+      },
+      {
+        "listing_id": "pg-500132618",
+        "property_name": "Coastal Cabana",
+        "address": "22 Jalan Loyang Besar",
+        "price": 1530000
+      },
+      {
+        "listing_id": "pg-500118309",
+        "property_name": "Casa Cambio",
+        "address": "9 Lim Tua Tow Road",
+        "price": 1280000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500126092",
+        "property_name": "Regentville",
+        "address": "2 Hougang Street 92",
+        "last_price": 1230000
+      },
+      {
+        "listing_id": "pg-23327456",
+        "property_name": "My Manhattan",
+        "address": "27 Simei Street 3",
+        "last_price": 1460049
+      }
+    ],
+    "price_changes": []
   }
 ]

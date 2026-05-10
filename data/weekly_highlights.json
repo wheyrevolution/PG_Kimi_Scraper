@@ -1802,5 +1802,44 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "new_listings": [
+      {
+        "listing_id": "pg-60053281",
+        "property_name": "The Verve",
+        "address": "23 Jalan Rajah Road",
+        "price": 1300000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-24951221",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "last_price": 1290000
+      },
+      {
+        "listing_id": "pg-500052088",
+        "property_name": "Suites@Braddell",
+        "address": "56 Braddell Road",
+        "last_price": 1150000
+      },
+      {
+        "listing_id": "pg-500127321",
+        "property_name": "D'Nest",
+        "address": "131 Pasir Ris Grove",
+        "last_price": 1499999
+      },
+      {
+        "listing_id": "pg-500085690",
+        "property_name": "The Visionaire",
+        "address": "178 Canberra Drive",
+        "last_price": 1580000
+      }
+    ],
+    "price_changes": []
   }
 ]

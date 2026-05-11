@@ -1841,5 +1841,74 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-05-05",
+    "week_end": "2026-05-11",
+    "new_listings": [
+      {
+        "listing_id": "pg-500118073",
+        "property_name": "Maysprings",
+        "address": "6 Petir Road",
+        "price": 1145000
+      },
+      {
+        "listing_id": "pg-500128526",
+        "property_name": "Foresque Residences",
+        "address": "101 Petir Road",
+        "price": 1195000
+      },
+      {
+        "listing_id": "pg-500135275",
+        "property_name": "Seletar Park Residence",
+        "address": "21 Seletar Road",
+        "price": 1180000
+      },
+      {
+        "listing_id": "pg-25630502",
+        "property_name": "Parc Botannia",
+        "address": "10 Fernvale Street",
+        "price": 1380000
+      },
+      {
+        "listing_id": "pg-500039855",
+        "property_name": "Sol Acres",
+        "address": "14 Choa Chu Kang Grove",
+        "price": 1145000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60206046",
+        "property_name": "Kingsford Waterbay",
+        "address": "66 Upper Serangoon View",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500127053",
+        "property_name": "78 Moh Guan Terrace",
+        "address": "78 Moh Guan Terrace",
+        "last_price": 1288000
+      },
+      {
+        "listing_id": "pg-500045484",
+        "property_name": "RV Edge",
+        "address": "2 Shanghai Road",
+        "last_price": 1500000
+      },
+      {
+        "listing_id": "pg-500130310",
+        "property_name": "5.2% rental yield near MRT! Fire Sale \ud83d\udd25 230k below value!",
+        "address": "Eunos / Geylang / Paya Lebar, Balestier / Geylang (D12-14)",
+        "last_price": 1265000
+      },
+      {
+        "listing_id": "pg-23327456",
+        "property_name": "My Manhattan",
+        "address": "27 Simei Street 3",
+        "last_price": 1460049
+      }
+    ],
+    "price_changes": []
   }
 ]

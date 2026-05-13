@@ -2369,5 +2369,86 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-05-07",
+    "week_end": "2026-05-13",
+    "new_listings": [
+      {
+        "listing_id": "pg-500041786",
+        "property_name": "The Brownstone",
+        "address": "160 Canberra Drive",
+        "price": 1180000
+      },
+      {
+        "listing_id": "pg-500136581",
+        "property_name": "Tre Residences",
+        "address": "7 Geylang East Avenue 1",
+        "price": 1480000
+      },
+      {
+        "listing_id": "pg-25488993",
+        "property_name": "Floraville",
+        "address": "2 Cactus Road",
+        "price": 1280000
+      },
+      {
+        "listing_id": "pg-500136309",
+        "property_name": "Gillenia",
+        "address": "35 Rosyth Road",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-25631137",
+        "property_name": "The Criterion",
+        "address": "7 Yishun Street 51",
+        "price": 1550000
+      },
+      {
+        "listing_id": "pg-21827849",
+        "property_name": "Kingsford Waterbay",
+        "address": "78 Upper Serangoon View",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-19989595",
+        "property_name": "Seastrand",
+        "address": "7 Pasir Ris Link",
+        "price": 1559999
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500130310",
+        "property_name": "5.2% rental yield near MRT! Fire Sale \ud83d\udd25 230k below value!",
+        "address": "Eunos / Geylang / Paya Lebar, Balestier / Geylang (D12-14)",
+        "last_price": 1265000
+      },
+      {
+        "listing_id": "pg-500130268",
+        "property_name": "Fire Sale! 230k below value - 5min to Paya Lebar MRT",
+        "address": "Eunos / Geylang / Paya Lebar, Balestier / Geylang (D12-14)",
+        "last_price": 1265000
+      },
+      {
+        "listing_id": "pg-500132618",
+        "property_name": "Coastal Cabana",
+        "address": "22 Jalan Loyang Besar",
+        "last_price": 1530000
+      },
+      {
+        "listing_id": "pg-25630502",
+        "property_name": "Parc Botannia",
+        "address": "10 Fernvale Street",
+        "last_price": 1380000
+      },
+      {
+        "listing_id": "pg-25370254",
+        "property_name": "Central View",
+        "address": "52 Hougang Street 11",
+        "last_price": 1300000
+      }
+    ],
+    "price_changes": []
   }
 ]

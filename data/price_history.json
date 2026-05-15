@@ -10,5 +10,17 @@
     "change_percent": 5.7,
     "recorded_at": "2026-05-03",
     "notes": "Price changed from S$1,200,000"
+  },
+  {
+    "id": "ph-a5241542",
+    "listing_id": "pg-25586522",
+    "property_id": "prop-21fe7943",
+    "property_name": "Floraville",
+    "price": 1250000,
+    "psf": 1568.38,
+    "change_amount": -30000,
+    "change_percent": -2.3,
+    "recorded_at": "2026-05-15",
+    "notes": "Price changed from S$1,280,000"
   }
 ]

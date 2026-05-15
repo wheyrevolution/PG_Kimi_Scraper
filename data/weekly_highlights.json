@@ -2915,5 +2915,35 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-05-09",
+    "week_end": "2026-05-15",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-25370254",
+        "property_name": "Central View",
+        "address": "52 Hougang Street 11",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500041786",
+        "property_name": "The Brownstone",
+        "address": "160 Canberra Drive",
+        "last_price": 1180000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-25586522",
+        "property_name": "Floraville",
+        "address": "",
+        "old_price": 1280000,
+        "new_price": 1250000,
+        "change_amount": -30000,
+        "change_percent": -2.3
+      }
+    ]
   }
 ]

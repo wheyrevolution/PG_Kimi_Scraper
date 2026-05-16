@@ -2945,5 +2945,63 @@
         "change_percent": -2.3
       }
     ]
+  },
+  {
+    "week_start": "2026-05-10",
+    "week_end": "2026-05-16",
+    "new_listings": [
+      {
+        "listing_id": "pg-500140978",
+        "property_name": "Jewel @ Buangkok",
+        "address": "81 Compassvale Bow",
+        "price": 1380000
+      },
+      {
+        "listing_id": "pg-500091978",
+        "property_name": "The Canopy",
+        "address": "77 Yishun Avenue 11",
+        "price": 1500000
+      },
+      {
+        "listing_id": "pg-60157753",
+        "property_name": "Regent Park",
+        "address": "Buona Vista / West Coast / Clementi New Town, City & South West (D01-08)",
+        "price": 1460000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500128526",
+        "property_name": "Foresque Residences",
+        "address": "101 Petir Road",
+        "last_price": 1195000
+      },
+      {
+        "listing_id": "pg-500124016",
+        "property_name": "The Palette",
+        "address": "103 Pasir Ris Grove",
+        "last_price": 1200000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-23944833",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1250000,
+        "new_price": 1280000,
+        "change_amount": 30000,
+        "change_percent": 2.4
+      },
+      {
+        "listing_id": "pg-500099612",
+        "property_name": "Riversails",
+        "address": "",
+        "old_price": 1319000,
+        "new_price": 1318000,
+        "change_amount": -1000,
+        "change_percent": -0.1
+      }
+    ]
   }
 ]

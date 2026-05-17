@@ -3003,5 +3003,81 @@
         "change_percent": -0.1
       }
     ]
+  },
+  {
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "new_listings": [
+      {
+        "listing_id": "pg-60109002",
+        "property_name": "Northoaks",
+        "address": "20 Woodlands Cresent",
+        "price": 1225000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60073232",
+        "property_name": "Vibes @ Upper Serangoon",
+        "address": "488 Upper Serangoon Road",
+        "last_price": 1080000
+      },
+      {
+        "listing_id": "pg-500024362",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-23327456",
+        "property_name": "My Manhattan",
+        "address": "27 Simei Street 3",
+        "last_price": 1460049
+      },
+      {
+        "listing_id": "pg-25630502",
+        "property_name": "Parc Botannia",
+        "address": "10 Fernvale Street",
+        "last_price": 1380000
+      },
+      {
+        "listing_id": "pg-25631137",
+        "property_name": "The Criterion",
+        "address": "7 Yishun Street 51",
+        "last_price": 1550000
+      },
+      {
+        "listing_id": "pg-500091978",
+        "property_name": "The Canopy",
+        "address": "77 Yishun Avenue 11",
+        "last_price": 1500000
+      },
+      {
+        "listing_id": "pg-60157753",
+        "property_name": "Regent Park",
+        "address": "Buona Vista / West Coast / Clementi New Town, City & South West (D01-08)",
+        "last_price": 1460000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-23944833",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1280000,
+        "new_price": 1288888,
+        "change_amount": 8888,
+        "change_percent": 0.7
+      },
+      {
+        "listing_id": "pg-23944838",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1248888,
+        "new_price": 1288888,
+        "change_amount": 40000,
+        "change_percent": 3.2
+      }
+    ]
   }
 ]

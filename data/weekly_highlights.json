@@ -3507,5 +3507,29 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-05-13",
+    "week_end": "2026-05-19",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500124016",
+        "property_name": "The Palette",
+        "address": "103 Pasir Ris Grove",
+        "last_price": 1200000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-60231831",
+        "property_name": "Riversails",
+        "address": "",
+        "old_price": 1200000,
+        "new_price": 1199999,
+        "change_amount": -1,
+        "change_percent": -0.0
+      }
+    ]
   }
 ]

@@ -70,5 +70,17 @@
     "change_percent": 3.2,
     "recorded_at": "2026-05-17",
     "notes": "Price changed from S$1,248,888"
+  },
+  {
+    "id": "ph-827c2365",
+    "listing_id": "pg-60231831",
+    "property_id": "prop-7ece55ca",
+    "property_name": "Riversails",
+    "price": 1199999,
+    "psf": 1359.0,
+    "change_amount": -1,
+    "change_percent": -0.0,
+    "recorded_at": "2026-05-19",
+    "notes": "Price changed from S$1,200,000"
   }
 ]

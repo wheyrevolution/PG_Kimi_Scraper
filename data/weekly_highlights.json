@@ -3531,5 +3531,62 @@
         "change_percent": -0.0
       }
     ]
+  },
+  {
+    "week_start": "2026-05-14",
+    "week_end": "2026-05-20",
+    "new_listings": [
+      {
+        "listing_id": "pg-500073333",
+        "property_name": "The Bayshore",
+        "address": "22 Bayshore Road",
+        "price": 1400000
+      },
+      {
+        "listing_id": "pg-60222117",
+        "property_name": "Sea Esta",
+        "address": "18 Pasir Ris Link",
+        "price": 1150000
+      },
+      {
+        "listing_id": "pg-500001645",
+        "property_name": "Prive",
+        "address": "37 Punggol Field",
+        "price": 1298880
+      },
+      {
+        "listing_id": "pg-500126178",
+        "property_name": "Sunshine Grove",
+        "address": "2 Jalan Labu Merah",
+        "price": 1550000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-23327456",
+        "property_name": "My Manhattan",
+        "address": "27 Simei Street 3",
+        "last_price": 1460049
+      },
+      {
+        "listing_id": "pg-500041786",
+        "property_name": "The Brownstone",
+        "address": "160 Canberra Drive",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-25631137",
+        "property_name": "The Criterion",
+        "address": "7 Yishun Street 51",
+        "last_price": 1550000
+      },
+      {
+        "listing_id": "pg-60109002",
+        "property_name": "Northoaks",
+        "address": "20 Woodlands Cresent",
+        "last_price": 1225000
+      }
+    ],
+    "price_changes": []
   }
 ]

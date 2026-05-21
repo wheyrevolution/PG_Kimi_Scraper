@@ -82,5 +82,17 @@
     "change_percent": -0.0,
     "recorded_at": "2026-05-19",
     "notes": "Price changed from S$1,200,000"
+  },
+  {
+    "id": "ph-ca88831c",
+    "listing_id": "pg-60219951",
+    "property_id": "prop-408900c9",
+    "property_name": "Westwood Residences EC",
+    "price": 1450000,
+    "psf": 1402.32,
+    "change_amount": -49800,
+    "change_percent": -3.3,
+    "recorded_at": "2026-05-21",
+    "notes": "Price changed from S$1,499,800"
   }
 ]

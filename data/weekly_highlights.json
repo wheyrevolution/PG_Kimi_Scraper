@@ -3588,5 +3588,84 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-05-15",
+    "week_end": "2026-05-21",
+    "new_listings": [
+      {
+        "listing_id": "pg-25512820",
+        "property_name": "462a upper Serangoon road",
+        "address": "Serangoon road",
+        "price": 1490000
+      },
+      {
+        "listing_id": "pg-500128564",
+        "property_name": "Kingsford Waterbay",
+        "address": "68 Upper Serangoon View",
+        "price": 1058888
+      },
+      {
+        "listing_id": "pg-60190077",
+        "property_name": "Seaside Residences",
+        "address": "10 Siglap Link",
+        "price": 1500000
+      },
+      {
+        "listing_id": "pg-60190398",
+        "property_name": "Mill Creek",
+        "address": "10 Lorong Marzuki",
+        "price": 1230000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-20350668",
+        "property_name": "Sanctuary @813",
+        "address": "813 Upper Serangoon Road",
+        "last_price": 1100000
+      },
+      {
+        "listing_id": "pg-25630502",
+        "property_name": "Parc Botannia",
+        "address": "10 Fernvale Street",
+        "last_price": 1380000
+      },
+      {
+        "listing_id": "pg-500073333",
+        "property_name": "The Bayshore",
+        "address": "22 Bayshore Road",
+        "last_price": 1400000
+      },
+      {
+        "listing_id": "pg-60222117",
+        "property_name": "Sea Esta",
+        "address": "18 Pasir Ris Link",
+        "last_price": 1150000
+      },
+      {
+        "listing_id": "pg-500001645",
+        "property_name": "Prive",
+        "address": "37 Punggol Field",
+        "last_price": 1298880
+      },
+      {
+        "listing_id": "pg-500126178",
+        "property_name": "Sunshine Grove",
+        "address": "2 Jalan Labu Merah",
+        "last_price": 1550000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-60219951",
+        "property_name": "Westwood Residences EC",
+        "address": "",
+        "old_price": 1499800,
+        "new_price": 1450000,
+        "change_amount": -49800,
+        "change_percent": -3.3
+      }
+    ]
   }
 ]

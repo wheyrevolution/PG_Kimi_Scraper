@@ -3667,5 +3667,44 @@
         "change_percent": -3.3
       }
     ]
+  },
+  {
+    "week_start": "2026-05-16",
+    "week_end": "2026-05-22",
+    "new_listings": [
+      {
+        "listing_id": "pg-25402646",
+        "property_name": "Normanton Park",
+        "address": "55 Normanton Park",
+        "price": 1380000
+      },
+      {
+        "listing_id": "pg-500043371",
+        "property_name": "The Minton",
+        "address": "147 Hougang Street 11",
+        "price": 1580000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60219951",
+        "property_name": "Westwood Residences EC",
+        "address": "182 Westwood Avenue",
+        "last_price": 1450000
+      },
+      {
+        "listing_id": "pg-500128564",
+        "property_name": "Kingsford Waterbay",
+        "address": "68 Upper Serangoon View",
+        "last_price": 1058888
+      },
+      {
+        "listing_id": "pg-60190398",
+        "property_name": "Mill Creek",
+        "address": "10 Lorong Marzuki",
+        "last_price": 1230000
+      }
+    ],
+    "price_changes": []
   }
 ]

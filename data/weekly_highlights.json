@@ -3706,5 +3706,54 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-05-17",
+    "week_end": "2026-05-23",
+    "new_listings": [
+      {
+        "listing_id": "pg-24428725",
+        "property_name": "Kingsford Waterbay",
+        "address": "50 Upper Serangoon View",
+        "price": 1299999
+      },
+      {
+        "listing_id": "pg-500090942",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "price": 1290000
+      },
+      {
+        "listing_id": "pg-500086592",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "price": 1290000
+      },
+      {
+        "listing_id": "pg-500143895",
+        "property_name": "Kingsford Waterbay",
+        "address": "70 Upper Serangoon View",
+        "price": 1298000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-25512820",
+        "property_name": "462a upper Serangoon road",
+        "address": "Serangoon road",
+        "last_price": 1490000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-60206046",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1299999,
+        "change_amount": -1,
+        "change_percent": -0.0
+      }
+    ]
   }
 ]

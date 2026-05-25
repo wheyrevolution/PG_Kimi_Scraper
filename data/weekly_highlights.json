@@ -4220,5 +4220,74 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-05-19",
+    "week_end": "2026-05-25",
+    "new_listings": [
+      {
+        "listing_id": "pg-500147942",
+        "property_name": "International Plaza",
+        "address": "10 Anson Road",
+        "price": 1500000
+      },
+      {
+        "listing_id": "pg-25204704",
+        "property_name": "Parc Komo",
+        "address": "963B Upper Changi Road North",
+        "price": 1150000
+      },
+      {
+        "listing_id": "pg-500016975",
+        "property_name": "Parc Botannia",
+        "address": "10 Fernvale Street",
+        "price": 1228880
+      },
+      {
+        "listing_id": "pg-500119981",
+        "property_name": "Affinity At Serangoon",
+        "address": "Hougang / Punggol / Sengkang, Serangoon / Thomson (D19-20)",
+        "price": 1490000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500078946",
+        "property_name": "Kovan Grandeur",
+        "address": "118 Tampines Road",
+        "last_price": 1100000
+      },
+      {
+        "listing_id": "pg-60219951",
+        "property_name": "Westwood Residences EC",
+        "address": "182 Westwood Avenue",
+        "last_price": 1450000
+      },
+      {
+        "listing_id": "pg-500135275",
+        "property_name": "Seletar Park Residence",
+        "address": "21 Seletar Road",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-60190077",
+        "property_name": "Seaside Residences",
+        "address": "10 Siglap Link",
+        "last_price": 1500000
+      },
+      {
+        "listing_id": "pg-25402646",
+        "property_name": "Normanton Park",
+        "address": "55 Normanton Park",
+        "last_price": 1380000
+      },
+      {
+        "listing_id": "pg-500102009",
+        "property_name": "Eight Courtyards",
+        "address": "10 Canberra Drive",
+        "last_price": 1580000
+      }
+    ],
+    "price_changes": []
   }
 ]

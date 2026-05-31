@@ -118,5 +118,17 @@
     "change_percent": -0.9,
     "recorded_at": "2026-05-30",
     "notes": "Price changed from S$1,180,000"
+  },
+  {
+    "id": "ph-b9914c45",
+    "listing_id": "pg-500091978",
+    "property_id": "prop-332e5e73",
+    "property_name": "The Canopy",
+    "price": 1499888,
+    "psf": 1191.33,
+    "change_amount": -112,
+    "change_percent": -0.0,
+    "recorded_at": "2026-05-31",
+    "notes": "Price changed from S$1,500,000"
   }
 ]

@@ -5289,5 +5289,54 @@
         "change_percent": -0.9
       }
     ]
+  },
+  {
+    "week_start": "2026-05-25",
+    "week_end": "2026-05-31",
+    "new_listings": [
+      {
+        "listing_id": "pg-60162342",
+        "property_name": "Hillview Regency",
+        "address": "26 Bukit Batok East Avenue 2",
+        "price": 1085000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60207746",
+        "property_name": "Vibes @ Upper Serangoon",
+        "address": "488 Upper Serangoon Road",
+        "last_price": 1069000
+      },
+      {
+        "listing_id": "pg-19989595",
+        "property_name": "Seastrand",
+        "address": "7 Pasir Ris Link",
+        "last_price": 1559999
+      },
+      {
+        "listing_id": "pg-500153713",
+        "property_name": "The Sen",
+        "address": "De Souza Avenue",
+        "last_price": 1530000
+      },
+      {
+        "listing_id": "pg-22859047",
+        "property_name": "Stars of Kovan",
+        "address": "988 Upper Serangoon Road",
+        "last_price": 1540000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500091978",
+        "property_name": "The Canopy",
+        "address": "",
+        "old_price": 1500000,
+        "new_price": 1499888,
+        "change_amount": -112,
+        "change_percent": -0.0
+      }
+    ]
   }
 ]

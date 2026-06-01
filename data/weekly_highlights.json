@@ -5338,5 +5338,26 @@
         "change_percent": -0.0
       }
     ]
+  },
+  {
+    "week_start": "2026-05-26",
+    "week_end": "2026-06-01",
+    "new_listings": [
+      {
+        "listing_id": "pg-500114185",
+        "property_name": "Mackenzie 88",
+        "address": "88 Mackenzie Road",
+        "price": 1450000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60225756",
+        "property_name": "Mackenzie 88",
+        "address": "88 Mackenzie Road",
+        "last_price": 1450000
+      }
+    ],
+    "price_changes": []
   }
 ]

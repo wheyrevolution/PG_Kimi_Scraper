@@ -5359,5 +5359,56 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-05-27",
+    "week_end": "2026-06-02",
+    "new_listings": [
+      {
+        "listing_id": "pg-500158334",
+        "property_name": "Mackenzie 88",
+        "address": "88 Mackenzie Road",
+        "price": 1450000
+      },
+      {
+        "listing_id": "pg-500116756",
+        "property_name": "Eight Courtyards",
+        "address": "18A Canberra Drive",
+        "price": 1499999
+      },
+      {
+        "listing_id": "pg-500075125",
+        "property_name": "Residences Botanique",
+        "address": "30 32 Yio Chu Kang Road",
+        "price": 1568888
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500085690",
+        "property_name": "The Visionaire",
+        "address": "178 Canberra Drive",
+        "last_price": 1580000
+      },
+      {
+        "listing_id": "pg-500091978",
+        "property_name": "The Canopy",
+        "address": "77 Yishun Avenue 11",
+        "last_price": 1499888
+      },
+      {
+        "listing_id": "pg-60162342",
+        "property_name": "Hillview Regency",
+        "address": "26 Bukit Batok East Avenue 2",
+        "last_price": 1085000
+      },
+      {
+        "listing_id": "pg-500114185",
+        "property_name": "Mackenzie 88",
+        "address": "88 Mackenzie Road",
+        "last_price": 1450000
+      }
+    ],
+    "price_changes": []
   }
 ]

@@ -130,5 +130,17 @@
     "change_percent": -0.0,
     "recorded_at": "2026-05-31",
     "notes": "Price changed from S$1,500,000"
+  },
+  {
+    "id": "ph-dd95010f",
+    "listing_id": "pg-500116756",
+    "property_id": "prop-affb86ea",
+    "property_name": "Eight Courtyards",
+    "price": 1499000,
+    "psf": 1379.02,
+    "change_amount": -999,
+    "change_percent": -0.1,
+    "recorded_at": "2026-06-03",
+    "notes": "Price changed from S$1,499,999"
   }
 ]

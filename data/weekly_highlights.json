@@ -5410,5 +5410,54 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-05-28",
+    "week_end": "2026-06-03",
+    "new_listings": [
+      {
+        "listing_id": "pg-500158867",
+        "property_name": "Melville Park",
+        "address": "28 Simei Street 1",
+        "price": 1458888
+      },
+      {
+        "listing_id": "pg-500159612",
+        "property_name": "The Tapestry",
+        "address": "59 Tampines Street 86",
+        "price": 1299999
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500150574",
+        "property_name": "Regent Grove",
+        "address": "50 Choa Chu Kang North 7",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-22859047",
+        "property_name": "Stars of Kovan",
+        "address": "988 Upper Serangoon Road",
+        "last_price": 1540000
+      },
+      {
+        "listing_id": "pg-500158334",
+        "property_name": "Mackenzie 88",
+        "address": "88 Mackenzie Road",
+        "last_price": 1450000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500116756",
+        "property_name": "Eight Courtyards",
+        "address": "",
+        "old_price": 1499999,
+        "new_price": 1499000,
+        "change_amount": -999,
+        "change_percent": -0.1
+      }
+    ]
   }
 ]

@@ -5459,5 +5459,765 @@
         "change_percent": -0.1
       }
     ]
+  },
+  {
+    "week_start": "2026-05-29",
+    "week_end": "2026-06-04",
+    "new_listings": [
+      {
+        "listing_id": "pg-65",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "price": 1290000
+      },
+      {
+        "listing_id": "pg-66",
+        "property_name": "Seletar Park Residence",
+        "address": "21 Seletar Road",
+        "price": 1280000
+      },
+      {
+        "listing_id": "pg-67",
+        "property_name": "Boathouse Residences",
+        "address": "33 Upper Serangoon View",
+        "price": 1280000
+      },
+      {
+        "listing_id": "pg-68",
+        "property_name": "Seletar Park Residence",
+        "address": "21 Seletar Road",
+        "price": 1280000
+      },
+      {
+        "listing_id": "pg-69",
+        "property_name": "Vibes @ Kovan",
+        "address": "93 Kovan Road",
+        "price": 1200000
+      },
+      {
+        "listing_id": "pg-70",
+        "property_name": "Riversails",
+        "address": "22 Upper Serangoon Crescent",
+        "price": 1298000
+      },
+      {
+        "listing_id": "pg-71",
+        "property_name": "Kingsford Waterbay",
+        "address": "66 Upper Serangoon View",
+        "price": 1299000
+      },
+      {
+        "listing_id": "pg-72",
+        "property_name": "iSuites @ Palm",
+        "address": "24 GLASGOW ROAD",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-73",
+        "property_name": "Kingsford Waterbay",
+        "address": "76 Upper Serangoon View",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-74",
+        "property_name": "The Urbanite",
+        "address": "29 Hertford Road",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-75",
+        "property_name": "Kingsford Waterbay",
+        "address": "76 Upper Serangoon View",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-76",
+        "property_name": "Kingsford Waterbay",
+        "address": "76 Upper Serangoon View",
+        "price": 1315000
+      },
+      {
+        "listing_id": "pg-77",
+        "property_name": "Ascent @ 456",
+        "address": "456 Balestier Road",
+        "price": 1180000
+      },
+      {
+        "listing_id": "pg-78",
+        "property_name": "Ascent @ 456",
+        "address": "456 Balestier Road",
+        "price": 1180000
+      },
+      {
+        "listing_id": "pg-79",
+        "property_name": "Floraville",
+        "address": "2 Cactus Road",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-80",
+        "property_name": "Treasure Mansions",
+        "address": "15 Rosyth Avenue",
+        "price": 1188888
+      },
+      {
+        "listing_id": "pg-81",
+        "property_name": "Treasure Mansions",
+        "address": "15 Rosyth Avenue",
+        "price": 1188888
+      },
+      {
+        "listing_id": "pg-82",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "price": 1280000
+      },
+      {
+        "listing_id": "pg-83",
+        "property_name": "Primo Residences",
+        "address": "203 Jalan Pelikat",
+        "price": 1299000
+      },
+      {
+        "listing_id": "pg-84",
+        "property_name": "The Verve",
+        "address": "23 Jalan Rajah Road",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-85",
+        "property_name": "Parc Vera",
+        "address": "2 Hougang Street 32",
+        "price": 1260000
+      },
+      {
+        "listing_id": "pg-86",
+        "property_name": "Parc Vera",
+        "address": "Hougang Street 32",
+        "price": 1288000
+      },
+      {
+        "listing_id": "pg-87",
+        "property_name": "Parc Vera",
+        "address": "Hougang Street 32",
+        "price": 1288000
+      },
+      {
+        "listing_id": "pg-88",
+        "property_name": "Parc Vera",
+        "address": "Hougang Street 32",
+        "price": 1288000
+      },
+      {
+        "listing_id": "pg-89",
+        "property_name": "The Axis",
+        "address": "47 Mandalay Road",
+        "price": 1299999
+      },
+      {
+        "listing_id": "pg-90",
+        "property_name": "Alexis",
+        "address": "356 Alexandra Road",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-91",
+        "property_name": "Carlyx Residence",
+        "address": "39 Carlisle Road",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-92",
+        "property_name": "M66",
+        "address": "66 Moonstone Lane",
+        "price": 1288888
+      },
+      {
+        "listing_id": "pg-93",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "price": 1230000
+      },
+      {
+        "listing_id": "pg-94",
+        "property_name": "Flora View",
+        "address": "5 Ang Mo Kio Street 66",
+        "price": 1230000
+      },
+      {
+        "listing_id": "pg-95",
+        "property_name": "Flora View",
+        "address": "5 Ang Mo Kio Street 66",
+        "price": 1230000
+      },
+      {
+        "listing_id": "pg-96",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-97",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-98",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road",
+        "price": 1260000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60208994",
+        "property_name": "Parc Somme",
+        "address": "62 Somme Road",
+        "last_price": 1299000
+      },
+      {
+        "listing_id": "pg-25506478",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "last_price": 1199999
+      },
+      {
+        "listing_id": "pg-19142570",
+        "property_name": "Vibes @ Upper Serangoon",
+        "address": "488 Upper Serangoon Road",
+        "last_price": 1068000
+      },
+      {
+        "listing_id": "pg-60196607",
+        "property_name": "Vibes @ Upper Serangoon",
+        "address": "488 Upper Serangoon Road",
+        "last_price": 1068000
+      },
+      {
+        "listing_id": "pg-500081331",
+        "property_name": "Seletar Park Residence",
+        "address": "21 Seletar Road",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-60080493",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-21334482",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "last_price": 1230000
+      },
+      {
+        "listing_id": "pg-24689517",
+        "property_name": "Kovan Grandeur",
+        "address": "118 Tampines Road",
+        "last_price": 979000
+      },
+      {
+        "listing_id": "pg-500084311",
+        "property_name": "The Greenwich",
+        "address": "1 Seletar Road",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-500053422",
+        "property_name": "The Greenwich",
+        "address": "11 Seletar Road",
+        "last_price": 1168888
+      },
+      {
+        "listing_id": "pg-500058515",
+        "property_name": "The Greenwich",
+        "address": "13 Seletar Road",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-60231831",
+        "property_name": "Riversails",
+        "address": "18 Upper Serangoon Crescent",
+        "last_price": 1199999
+      },
+      {
+        "listing_id": "pg-25487761",
+        "property_name": "Riversails",
+        "address": "24 Upper Serangoon Crescent",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500052088",
+        "property_name": "Suites@Braddell",
+        "address": "56 Braddell Road",
+        "last_price": 1150000
+      },
+      {
+        "listing_id": "pg-60071647",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close",
+        "last_price": 1100000
+      },
+      {
+        "listing_id": "pg-500043172",
+        "property_name": "Loft @ Rangoon",
+        "address": "113 Rangoon Road",
+        "last_price": 1199999
+      },
+      {
+        "listing_id": "pg-500128248",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-60202087",
+        "property_name": "Kovan Grandeur",
+        "address": "118 Tampines Road",
+        "last_price": 1050000
+      },
+      {
+        "listing_id": "pg-60217916",
+        "property_name": "Kovan Grandeur",
+        "address": "118 Tampines Road",
+        "last_price": 1050000
+      },
+      {
+        "listing_id": "pg-60245510",
+        "property_name": "Kovan Grandeur",
+        "address": "118 Tampines Road",
+        "last_price": 1050000
+      },
+      {
+        "listing_id": "pg-60162342",
+        "property_name": "Hillview Regency",
+        "address": "26 Bukit Batok East Avenue 2",
+        "last_price": 1085000
+      },
+      {
+        "listing_id": "pg-500116756",
+        "property_name": "Eight Courtyards",
+        "address": "18A Canberra Drive",
+        "last_price": 1499000
+      },
+      {
+        "listing_id": "pg-500075125",
+        "property_name": "Residences Botanique",
+        "address": "30 32 Yio Chu Kang Road",
+        "last_price": 1568888
+      },
+      {
+        "listing_id": "pg-500158867",
+        "property_name": "Melville Park",
+        "address": "28 Simei Street 1",
+        "last_price": 1458888
+      },
+      {
+        "listing_id": "pg-500159612",
+        "property_name": "The Tapestry",
+        "address": "59 Tampines Street 86",
+        "last_price": 1299999
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-1",
+        "property_name": "Eight Courtyards",
+        "address": "",
+        "old_price": 1560000,
+        "new_price": 1499000,
+        "change_amount": -61000,
+        "change_percent": -3.9
+      },
+      {
+        "listing_id": "pg-6",
+        "property_name": "The Tapestry",
+        "address": "",
+        "old_price": 1360000,
+        "new_price": 1299999,
+        "change_amount": -60001,
+        "change_percent": -4.4
+      },
+      {
+        "listing_id": "pg-8",
+        "property_name": "Seletar Park Residence",
+        "address": "",
+        "old_price": 1068000,
+        "new_price": 1300000,
+        "change_amount": 232000,
+        "change_percent": 21.7
+      },
+      {
+        "listing_id": "pg-9",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "",
+        "old_price": 1069000,
+        "new_price": 1250000,
+        "change_amount": 181000,
+        "change_percent": 16.9
+      },
+      {
+        "listing_id": "pg-10",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1230000,
+        "change_amount": -70000,
+        "change_percent": -5.4
+      },
+      {
+        "listing_id": "pg-11",
+        "property_name": "Kovan Grandeur",
+        "address": "",
+        "old_price": 1250000,
+        "new_price": 979000,
+        "change_amount": -271000,
+        "change_percent": -21.7
+      },
+      {
+        "listing_id": "pg-12",
+        "property_name": "Sophia Hills",
+        "address": "",
+        "old_price": 1188888,
+        "new_price": 1580000,
+        "change_amount": 391112,
+        "change_percent": 32.9
+      },
+      {
+        "listing_id": "pg-13",
+        "property_name": "The Greenwich",
+        "address": "",
+        "old_price": 1230000,
+        "new_price": 1165000,
+        "change_amount": -65000,
+        "change_percent": -5.3
+      },
+      {
+        "listing_id": "pg-14",
+        "property_name": "The Greenwich",
+        "address": "",
+        "old_price": 979000,
+        "new_price": 1168888,
+        "change_amount": 189888,
+        "change_percent": 19.4
+      },
+      {
+        "listing_id": "pg-16",
+        "property_name": "Riversails",
+        "address": "",
+        "old_price": 1180000,
+        "new_price": 1199999,
+        "change_amount": 19999,
+        "change_percent": 1.7
+      },
+      {
+        "listing_id": "pg-17",
+        "property_name": "Riversails",
+        "address": "",
+        "old_price": 1180000,
+        "new_price": 1200000,
+        "change_amount": 20000,
+        "change_percent": 1.7
+      },
+      {
+        "listing_id": "pg-18",
+        "property_name": "Regent Grove",
+        "address": "",
+        "old_price": 1150000,
+        "new_price": 1250000,
+        "change_amount": 100000,
+        "change_percent": 8.7
+      },
+      {
+        "listing_id": "pg-19",
+        "property_name": "Suites@Braddell",
+        "address": "",
+        "old_price": 1199999,
+        "new_price": 1150000,
+        "change_amount": -49999,
+        "change_percent": -4.2
+      },
+      {
+        "listing_id": "pg-20",
+        "property_name": "Bliss Loft",
+        "address": "",
+        "old_price": 1200000,
+        "new_price": 1100000,
+        "change_amount": -100000,
+        "change_percent": -8.3
+      },
+      {
+        "listing_id": "pg-21",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "",
+        "old_price": 1100000,
+        "new_price": 1300000,
+        "change_amount": 200000,
+        "change_percent": 18.2
+      },
+      {
+        "listing_id": "pg-22",
+        "property_name": "Loft @ Rangoon",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1199999,
+        "change_amount": -100001,
+        "change_percent": -7.7
+      },
+      {
+        "listing_id": "pg-23",
+        "property_name": "Flora View",
+        "address": "",
+        "old_price": 1199999,
+        "new_price": 1050000,
+        "change_amount": -149999,
+        "change_percent": -12.5
+      },
+      {
+        "listing_id": "pg-24",
+        "property_name": "The Alps Residences",
+        "address": "",
+        "old_price": 1320000,
+        "new_price": 1150000,
+        "change_amount": -170000,
+        "change_percent": -12.9
+      },
+      {
+        "listing_id": "pg-29",
+        "property_name": "Boathouse Residences",
+        "address": "",
+        "old_price": 1050000,
+        "new_price": 1300000,
+        "change_amount": 250000,
+        "change_percent": 23.8
+      },
+      {
+        "listing_id": "pg-31",
+        "property_name": "Bliss Loft",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1139000,
+        "change_amount": -161000,
+        "change_percent": -12.4
+      },
+      {
+        "listing_id": "pg-32",
+        "property_name": "Casa Cambio",
+        "address": "",
+        "old_price": 1139000,
+        "new_price": 1280000,
+        "change_amount": 141000,
+        "change_percent": 12.4
+      },
+      {
+        "listing_id": "pg-34",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1280000,
+        "new_price": 1299999,
+        "change_amount": 19999,
+        "change_percent": 1.6
+      },
+      {
+        "listing_id": "pg-35",
+        "property_name": "D'Nest",
+        "address": "",
+        "old_price": 1280000,
+        "new_price": 1499999,
+        "change_amount": 219999,
+        "change_percent": 17.2
+      },
+      {
+        "listing_id": "pg-37",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1299999,
+        "new_price": 1300000,
+        "change_amount": 1,
+        "change_percent": 0.0
+      },
+      {
+        "listing_id": "pg-39",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1290000,
+        "change_amount": -10000,
+        "change_percent": -0.8
+      },
+      {
+        "listing_id": "pg-41",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1290000,
+        "new_price": 1310000,
+        "change_amount": 20000,
+        "change_percent": 1.6
+      },
+      {
+        "listing_id": "pg-42",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1310000,
+        "new_price": 1250000,
+        "change_amount": -60000,
+        "change_percent": -4.6
+      },
+      {
+        "listing_id": "pg-44",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1250000,
+        "new_price": 1300000,
+        "change_amount": 50000,
+        "change_percent": 4.0
+      },
+      {
+        "listing_id": "pg-45",
+        "property_name": "Flora View",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1180000,
+        "change_amount": -120000,
+        "change_percent": -9.2
+      },
+      {
+        "listing_id": "pg-46",
+        "property_name": "UNDERVALUED FREEHOLD SPACIOUS 2BR Leith Grove | D19 | Serangoon Gardens | Landed | Rosyth School",
+        "address": "",
+        "old_price": 1290000,
+        "new_price": 1180000,
+        "change_amount": -110000,
+        "change_percent": -8.5
+      },
+      {
+        "listing_id": "pg-51",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1180000,
+        "new_price": 1280000,
+        "change_amount": 100000,
+        "change_percent": 8.5
+      },
+      {
+        "listing_id": "pg-52",
+        "property_name": "Riversails",
+        "address": "",
+        "old_price": 1180000,
+        "new_price": 1300000,
+        "change_amount": 120000,
+        "change_percent": 10.2
+      },
+      {
+        "listing_id": "pg-53",
+        "property_name": "Bliss Loft",
+        "address": "",
+        "old_price": 1280000,
+        "new_price": 1200000,
+        "change_amount": -80000,
+        "change_percent": -6.2
+      },
+      {
+        "listing_id": "pg-54",
+        "property_name": "Bliss Loft",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1200000,
+        "change_amount": -100000,
+        "change_percent": -7.7
+      },
+      {
+        "listing_id": "pg-55",
+        "property_name": "Riversails",
+        "address": "",
+        "old_price": 1200000,
+        "new_price": 1280000,
+        "change_amount": 80000,
+        "change_percent": 6.7
+      },
+      {
+        "listing_id": "pg-56",
+        "property_name": "Riversails",
+        "address": "",
+        "old_price": 1200000,
+        "new_price": 1280000,
+        "change_amount": 80000,
+        "change_percent": 6.7
+      },
+      {
+        "listing_id": "pg-57",
+        "property_name": "Bliss Loft",
+        "address": "",
+        "old_price": 1280000,
+        "new_price": 1200000,
+        "change_amount": -80000,
+        "change_percent": -6.2
+      },
+      {
+        "listing_id": "pg-58",
+        "property_name": "Bliss Loft",
+        "address": "",
+        "old_price": 1280000,
+        "new_price": 1200000,
+        "change_amount": -80000,
+        "change_percent": -6.2
+      },
+      {
+        "listing_id": "pg-59",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1200000,
+        "new_price": 1298000,
+        "change_amount": 98000,
+        "change_percent": 8.2
+      },
+      {
+        "listing_id": "pg-60",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1200000,
+        "new_price": 1300000,
+        "change_amount": 100000,
+        "change_percent": 8.3
+      },
+      {
+        "listing_id": "pg-61",
+        "property_name": "Riversails",
+        "address": "",
+        "old_price": 1298000,
+        "new_price": 1318000,
+        "change_amount": 20000,
+        "change_percent": 1.5
+      },
+      {
+        "listing_id": "pg-62",
+        "property_name": "Riversails",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1318000,
+        "change_amount": 18000,
+        "change_percent": 1.4
+      },
+      {
+        "listing_id": "pg-63",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1318000,
+        "new_price": 1288888,
+        "change_amount": -29112,
+        "change_percent": -2.2
+      },
+      {
+        "listing_id": "pg-64",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1318000,
+        "new_price": 1288888,
+        "change_amount": -29112,
+        "change_percent": -2.2
+      }
+    ]
   }
 ]

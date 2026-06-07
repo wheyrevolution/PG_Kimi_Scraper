@@ -7603,5 +7603,404 @@
         "change_percent": 2.4
       }
     ]
+  },
+  {
+    "week_start": "2026-06-01",
+    "week_end": "2026-06-07",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-93",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-94",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road",
+        "last_price": 1260000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-1",
+        "property_name": "D'Nest",
+        "address": "",
+        "old_price": 1188888,
+        "new_price": 1499999,
+        "change_amount": 311111,
+        "change_percent": 26.2
+      },
+      {
+        "listing_id": "pg-30",
+        "property_name": "Casa Cambio",
+        "address": "",
+        "old_price": 1139000,
+        "new_price": 1280000,
+        "change_amount": 141000,
+        "change_percent": 12.4
+      },
+      {
+        "listing_id": "pg-32",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1280000,
+        "new_price": 1299999,
+        "change_amount": 19999,
+        "change_percent": 1.6
+      },
+      {
+        "listing_id": "pg-34",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1299999,
+        "new_price": 1300000,
+        "change_amount": 1,
+        "change_percent": 0.0
+      },
+      {
+        "listing_id": "pg-36",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1290000,
+        "change_amount": -10000,
+        "change_percent": -0.8
+      },
+      {
+        "listing_id": "pg-37",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1290000,
+        "new_price": 1310000,
+        "change_amount": 20000,
+        "change_percent": 1.6
+      },
+      {
+        "listing_id": "pg-38",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1310000,
+        "new_price": 1250000,
+        "change_amount": -60000,
+        "change_percent": -4.6
+      },
+      {
+        "listing_id": "pg-40",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1250000,
+        "new_price": 1300000,
+        "change_amount": 50000,
+        "change_percent": 4.0
+      },
+      {
+        "listing_id": "pg-42",
+        "property_name": "Flora View",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1180000,
+        "change_amount": -120000,
+        "change_percent": -9.2
+      },
+      {
+        "listing_id": "pg-48",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1180000,
+        "new_price": 1280000,
+        "change_amount": 100000,
+        "change_percent": 8.5
+      },
+      {
+        "listing_id": "pg-49",
+        "property_name": "Riversails",
+        "address": "",
+        "old_price": 1280000,
+        "new_price": 1300000,
+        "change_amount": 20000,
+        "change_percent": 1.6
+      },
+      {
+        "listing_id": "pg-50",
+        "property_name": "Bliss Loft",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1200000,
+        "change_amount": -100000,
+        "change_percent": -7.7
+      },
+      {
+        "listing_id": "pg-52",
+        "property_name": "Riversails",
+        "address": "",
+        "old_price": 1200000,
+        "new_price": 1280000,
+        "change_amount": 80000,
+        "change_percent": 6.7
+      },
+      {
+        "listing_id": "pg-53",
+        "property_name": "Bliss Loft",
+        "address": "",
+        "old_price": 1280000,
+        "new_price": 1200000,
+        "change_amount": -80000,
+        "change_percent": -6.2
+      },
+      {
+        "listing_id": "pg-54",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1200000,
+        "new_price": 1298000,
+        "change_amount": 98000,
+        "change_percent": 8.2
+      },
+      {
+        "listing_id": "pg-55",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1298000,
+        "new_price": 1300000,
+        "change_amount": 2000,
+        "change_percent": 0.2
+      },
+      {
+        "listing_id": "pg-56",
+        "property_name": "Riversails",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1318000,
+        "change_amount": 18000,
+        "change_percent": 1.4
+      },
+      {
+        "listing_id": "pg-58",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1318000,
+        "new_price": 1288888,
+        "change_amount": -29112,
+        "change_percent": -2.2
+      },
+      {
+        "listing_id": "pg-60",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1288888,
+        "new_price": 1290000,
+        "change_amount": 1112,
+        "change_percent": 0.1
+      },
+      {
+        "listing_id": "pg-61",
+        "property_name": "Seletar Park Residence",
+        "address": "",
+        "old_price": 1290000,
+        "new_price": 1280000,
+        "change_amount": -10000,
+        "change_percent": -0.8
+      },
+      {
+        "listing_id": "pg-64",
+        "property_name": "Vibes @ Kovan",
+        "address": "",
+        "old_price": 1280000,
+        "new_price": 1200000,
+        "change_amount": -80000,
+        "change_percent": -6.2
+      },
+      {
+        "listing_id": "pg-65",
+        "property_name": "Riversails",
+        "address": "",
+        "old_price": 1200000,
+        "new_price": 1298000,
+        "change_amount": 98000,
+        "change_percent": 8.2
+      },
+      {
+        "listing_id": "pg-66",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1298000,
+        "new_price": 1299000,
+        "change_amount": 1000,
+        "change_percent": 0.1
+      },
+      {
+        "listing_id": "pg-67",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1299000,
+        "new_price": 1300000,
+        "change_amount": 1000,
+        "change_percent": 0.1
+      },
+      {
+        "listing_id": "pg-71",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1315000,
+        "change_amount": 15000,
+        "change_percent": 1.2
+      },
+      {
+        "listing_id": "pg-72",
+        "property_name": "Ascent @ 456",
+        "address": "",
+        "old_price": 1315000,
+        "new_price": 1180000,
+        "change_amount": -135000,
+        "change_percent": -10.3
+      },
+      {
+        "listing_id": "pg-74",
+        "property_name": "Floraville",
+        "address": "",
+        "old_price": 1180000,
+        "new_price": 1250000,
+        "change_amount": 70000,
+        "change_percent": 5.9
+      },
+      {
+        "listing_id": "pg-75",
+        "property_name": "Treasure Mansions",
+        "address": "",
+        "old_price": 1250000,
+        "new_price": 1188888,
+        "change_amount": -61112,
+        "change_percent": -4.9
+      },
+      {
+        "listing_id": "pg-77",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "",
+        "old_price": 1188888,
+        "new_price": 1280000,
+        "change_amount": 91112,
+        "change_percent": 7.7
+      },
+      {
+        "listing_id": "pg-78",
+        "property_name": "Primo Residences",
+        "address": "",
+        "old_price": 1280000,
+        "new_price": 1299000,
+        "change_amount": 19000,
+        "change_percent": 1.5
+      },
+      {
+        "listing_id": "pg-79",
+        "property_name": "The Verve",
+        "address": "",
+        "old_price": 1299000,
+        "new_price": 1300000,
+        "change_amount": 1000,
+        "change_percent": 0.1
+      },
+      {
+        "listing_id": "pg-80",
+        "property_name": "Parc Vera",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1260000,
+        "change_amount": -40000,
+        "change_percent": -3.1
+      },
+      {
+        "listing_id": "pg-81",
+        "property_name": "Parc Vera",
+        "address": "",
+        "old_price": 1260000,
+        "new_price": 1288000,
+        "change_amount": 28000,
+        "change_percent": 2.2
+      },
+      {
+        "listing_id": "pg-83",
+        "property_name": "The Axis",
+        "address": "",
+        "old_price": 1288000,
+        "new_price": 1299999,
+        "change_amount": 11999,
+        "change_percent": 0.9
+      },
+      {
+        "listing_id": "pg-84",
+        "property_name": "Alexis",
+        "address": "",
+        "old_price": 1288000,
+        "new_price": 1300000,
+        "change_amount": 12000,
+        "change_percent": 0.9
+      },
+      {
+        "listing_id": "pg-85",
+        "property_name": "Carlyx Residence",
+        "address": "",
+        "old_price": 1299999,
+        "new_price": 1250000,
+        "change_amount": -49999,
+        "change_percent": -3.8
+      },
+      {
+        "listing_id": "pg-86",
+        "property_name": "M66",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1288888,
+        "change_amount": -11112,
+        "change_percent": -0.9
+      },
+      {
+        "listing_id": "pg-87",
+        "property_name": "Flora View",
+        "address": "",
+        "old_price": 1250000,
+        "new_price": 1230000,
+        "change_amount": -20000,
+        "change_percent": -1.6
+      },
+      {
+        "listing_id": "pg-88",
+        "property_name": "Flora View",
+        "address": "",
+        "old_price": 1288888,
+        "new_price": 1230000,
+        "change_amount": -58888,
+        "change_percent": -4.6
+      },
+      {
+        "listing_id": "pg-90",
+        "property_name": "Riviera 38",
+        "address": "",
+        "old_price": 1230000,
+        "new_price": 1250000,
+        "change_amount": 20000,
+        "change_percent": 1.6
+      },
+      {
+        "listing_id": "pg-91",
+        "property_name": "Riviera 38",
+        "address": "",
+        "old_price": 1230000,
+        "new_price": 1250000,
+        "change_amount": 20000,
+        "change_percent": 1.6
+      },
+      {
+        "listing_id": "pg-92",
+        "property_name": "Riviera 38",
+        "address": "",
+        "old_price": 1250000,
+        "new_price": 1260000,
+        "change_amount": 10000,
+        "change_percent": 0.8
+      }
+    ]
   }
 ]

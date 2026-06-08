@@ -1978,5 +1978,53 @@
     "change_percent": 0.8,
     "recorded_at": "2026-06-07",
     "notes": "Price changed from S$1,250,000"
+  },
+  {
+    "id": "ph-73a06665",
+    "listing_id": "pg-25251913",
+    "property_id": "prop-06f373a9",
+    "property_name": "Flora View",
+    "price": 1180000,
+    "psf": 1480.55,
+    "change_amount": -60000,
+    "change_percent": -4.8,
+    "recorded_at": "2026-06-08",
+    "notes": "Price changed from S$1,240,000"
+  },
+  {
+    "id": "ph-d9cea903",
+    "listing_id": "pg-60116246",
+    "property_id": "prop-06f373a9",
+    "property_name": "Flora View",
+    "price": 1180000,
+    "psf": 1480.55,
+    "change_amount": -60000,
+    "change_percent": -4.8,
+    "recorded_at": "2026-06-08",
+    "notes": "Price changed from S$1,240,000"
+  },
+  {
+    "id": "ph-b1215689",
+    "listing_id": "pg-500135275",
+    "property_id": "prop-6d69c98d",
+    "property_name": "Seletar Park Residence",
+    "price": 1280000,
+    "psf": 1523.81,
+    "change_amount": 100000,
+    "change_percent": 8.5,
+    "recorded_at": "2026-06-08",
+    "notes": "Price changed from S$1,180,000"
+  },
+  {
+    "id": "ph-89f3e6a5",
+    "listing_id": "pg-500080776",
+    "property_id": "prop-95dd8128",
+    "property_name": "iSuites @ Palm",
+    "price": 1300000,
+    "psf": 1529.41,
+    "change_amount": -20000,
+    "change_percent": -1.5,
+    "recorded_at": "2026-06-08",
+    "notes": "Price changed from S$1,320,000"
   }
 ]

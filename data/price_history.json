@@ -2026,5 +2026,17 @@
     "change_percent": -1.5,
     "recorded_at": "2026-06-08",
     "notes": "Price changed from S$1,320,000"
+  },
+  {
+    "id": "ph-bba05b60",
+    "listing_id": "pg-500052088",
+    "property_id": "prop-35c73008",
+    "property_name": "Suites@Braddell",
+    "price": 1099999,
+    "psf": 1309.52,
+    "change_amount": -50001,
+    "change_percent": -4.3,
+    "recorded_at": "2026-06-10",
+    "notes": "Price changed from S$1,150,000"
   }
 ]

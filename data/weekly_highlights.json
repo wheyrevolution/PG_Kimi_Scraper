@@ -8975,5 +8975,180 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-06-04",
+    "week_end": "2026-06-10",
+    "new_listings": [
+      {
+        "listing_id": "pg-500166410",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "price": 1210000
+      },
+      {
+        "listing_id": "pg-500022514",
+        "property_name": "Chestervale",
+        "address": "37 Bangkit Road",
+        "price": 1580000
+      },
+      {
+        "listing_id": "pg-500133164",
+        "property_name": "The Botany",
+        "address": "7 Dairy Farm Walk",
+        "price": 1580000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500053422",
+        "property_name": "The Greenwich",
+        "address": "11 Seletar Road",
+        "last_price": 1168888
+      },
+      {
+        "listing_id": "pg-60220064",
+        "property_name": "Flora View",
+        "address": "5 Ang Mo Kio Street 66",
+        "last_price": 1050000
+      },
+      {
+        "listing_id": "pg-60218382",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "last_price": 1050000
+      },
+      {
+        "listing_id": "pg-60218664",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "last_price": 1050000
+      },
+      {
+        "listing_id": "pg-500115413",
+        "property_name": "Boathouse Residences",
+        "address": "33 Upper Serangoon View",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500111843",
+        "property_name": "Boathouse Residences",
+        "address": "33 Upper Serangoon View",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-60206046",
+        "property_name": "Kingsford Waterbay",
+        "address": "66 Upper Serangoon View",
+        "last_price": 1299999
+      },
+      {
+        "listing_id": "pg-500050241",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-60171918",
+        "property_name": "Kingsford Waterbay",
+        "address": "70 Upper Serangoon View",
+        "last_price": 1310000
+      },
+      {
+        "listing_id": "pg-500116449",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-60077577",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-60084976",
+        "property_name": "Leith Grove",
+        "address": "6 Leith Park",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-25400322",
+        "property_name": "Leith Grove",
+        "address": "6 Leith Park",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-500118309",
+        "property_name": "Casa Cambio",
+        "address": "9 Lim Tua Tow Road",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-25488993",
+        "property_name": "Floraville",
+        "address": "2 Cactus Road",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-500136309",
+        "property_name": "Gillenia",
+        "address": "35 Rosyth Road",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-21827849",
+        "property_name": "Kingsford Waterbay",
+        "address": "78 Upper Serangoon View",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-24428725",
+        "property_name": "Kingsford Waterbay",
+        "address": "50 Upper Serangoon View",
+        "last_price": 1299999
+      },
+      {
+        "listing_id": "pg-500086592",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "last_price": 1290000
+      },
+      {
+        "listing_id": "pg-23397231",
+        "property_name": "Stars of Kovan",
+        "address": "986 Upper Serangoon Road",
+        "last_price": 1479999
+      },
+      {
+        "listing_id": "pg-500161278",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500153626",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-500164541",
+        "property_name": "Hundred Trees",
+        "address": "95 West Coast Drive",
+        "last_price": 1520000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500052088",
+        "property_name": "Suites@Braddell",
+        "address": "",
+        "old_price": 1150000,
+        "new_price": 1099999,
+        "change_amount": -50001,
+        "change_percent": -4.3
+      }
+    ]
   }
 ]

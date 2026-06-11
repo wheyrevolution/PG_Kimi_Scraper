@@ -9150,5 +9150,38 @@
         "change_percent": -4.3
       }
     ]
+  },
+  {
+    "week_start": "2026-06-05",
+    "week_end": "2026-06-11",
+    "new_listings": [
+      {
+        "listing_id": "pg-500168279",
+        "property_name": "Loft @ Rangoon",
+        "address": "113 Rangoon Road",
+        "price": 1199999
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60084695",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "last_price": 1050000
+      },
+      {
+        "listing_id": "pg-500150574",
+        "property_name": "Regent Grove",
+        "address": "50 Choa Chu Kang North 7",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500022514",
+        "property_name": "Chestervale",
+        "address": "37 Bangkit Road",
+        "last_price": 1580000
+      }
+    ],
+    "price_changes": []
   }
 ]

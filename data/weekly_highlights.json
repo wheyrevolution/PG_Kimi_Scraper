@@ -9183,5 +9183,29 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-06-06",
+    "week_end": "2026-06-12",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500114185",
+        "property_name": "Mackenzie 88",
+        "address": "88 Mackenzie Road",
+        "last_price": 1450000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500158867",
+        "property_name": "Melville Park",
+        "address": "",
+        "old_price": 1458888,
+        "new_price": 1412000,
+        "change_amount": -46888,
+        "change_percent": -3.2
+      }
+    ]
   }
 ]

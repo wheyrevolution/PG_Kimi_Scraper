@@ -2038,5 +2038,17 @@
     "change_percent": -4.3,
     "recorded_at": "2026-06-10",
     "notes": "Price changed from S$1,150,000"
+  },
+  {
+    "id": "ph-22abf109",
+    "listing_id": "pg-500158867",
+    "property_id": "prop-bc8ed4b6",
+    "property_name": "Melville Park",
+    "price": 1412000,
+    "psf": 1009.29,
+    "change_amount": -46888,
+    "change_percent": -3.2,
+    "recorded_at": "2026-06-12",
+    "notes": "Price changed from S$1,458,888"
   }
 ]

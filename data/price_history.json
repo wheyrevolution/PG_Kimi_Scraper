@@ -2050,5 +2050,17 @@
     "change_percent": -3.2,
     "recorded_at": "2026-06-12",
     "notes": "Price changed from S$1,458,888"
+  },
+  {
+    "id": "ph-0662a83d",
+    "listing_id": "pg-500144794",
+    "property_id": "prop-30ced23d",
+    "property_name": "Eco Sanctuary",
+    "price": 1188000,
+    "psf": 1781.11,
+    "change_amount": -888,
+    "change_percent": -0.1,
+    "recorded_at": "2026-06-13",
+    "notes": "Price changed from S$1,188,888"
   }
 ]

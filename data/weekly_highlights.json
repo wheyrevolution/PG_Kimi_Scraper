@@ -9724,5 +9724,38 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-06-10",
+    "week_end": "2026-06-16",
+    "new_listings": [
+      {
+        "listing_id": "pg-500171650",
+        "property_name": "\u2b50\ufe0fEight RiverSuites 100% Well Maint Good Location High Rental Yield",
+        "address": "Balestier / Toa Payoh, Balestier / Geylang (D12-14)",
+        "price": 1500000
+      },
+      {
+        "listing_id": "pg-500172112",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View",
+        "price": 1285000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500091978",
+        "property_name": "The Canopy",
+        "address": "77 Yishun Avenue 11",
+        "last_price": 1499888
+      },
+      {
+        "listing_id": "pg-500139989",
+        "property_name": "Skies Miltonia",
+        "address": "3 Miltonia Close",
+        "last_price": 1450000
+      }
+    ],
+    "price_changes": []
   }
 ]

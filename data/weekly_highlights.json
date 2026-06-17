@@ -9757,5 +9757,50 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-06-11",
+    "week_end": "2026-06-17",
+    "new_listings": [
+      {
+        "listing_id": "pg-500168208",
+        "property_name": "Mackenzie 88",
+        "address": "88 Mackenzie Road",
+        "price": 1450000
+      },
+      {
+        "listing_id": "pg-500174632",
+        "property_name": "Kingsford Waterbay",
+        "address": "68 Upper Serangoon View",
+        "price": 1280000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60208994",
+        "property_name": "Parc Somme",
+        "address": "62 Somme Road",
+        "last_price": 1299000
+      },
+      {
+        "listing_id": "pg-24824844",
+        "property_name": "Kingsford Waterbay",
+        "address": "68 Upper Serangoon View",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-500118715",
+        "property_name": "Miltonia Residences",
+        "address": "520 Miltonia Close",
+        "last_price": 1488000
+      },
+      {
+        "listing_id": "pg-500171650",
+        "property_name": "\u2b50\ufe0fEight RiverSuites 100% Well Maint Good Location High Rental Yield",
+        "address": "Balestier / Toa Payoh, Balestier / Geylang (D12-14)",
+        "last_price": 1500000
+      }
+    ],
+    "price_changes": []
   }
 ]

@@ -10237,5 +10237,19 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-06-13",
+    "week_end": "2026-06-19",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500084311",
+        "property_name": "The Greenwich",
+        "address": "1 Seletar Road",
+        "last_price": 1165000
+      }
+    ],
+    "price_changes": []
   }
 ]

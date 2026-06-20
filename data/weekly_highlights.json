@@ -10251,5 +10251,42 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-06-14",
+    "week_end": "2026-06-20",
+    "new_listings": [
+      {
+        "listing_id": "pg-500175967",
+        "property_name": "Mandarin Gardens",
+        "address": "1 Siglap Road",
+        "price": 1500000
+      },
+      {
+        "listing_id": "pg-500133687",
+        "property_name": "Loft @ Rangoon",
+        "address": "113 Rangoon Road",
+        "price": 1300000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-25402646",
+        "property_name": "Normanton Park",
+        "address": "55 Normanton Park",
+        "last_price": 1380000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500153626",
+        "property_name": "Flora View",
+        "address": "",
+        "old_price": 1180000,
+        "new_price": 1150000,
+        "change_amount": -30000,
+        "change_percent": -2.5
+      }
+    ]
   }
 ]

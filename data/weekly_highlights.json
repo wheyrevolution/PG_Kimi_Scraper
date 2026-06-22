@@ -10321,5 +10321,72 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-06-16",
+    "week_end": "2026-06-22",
+    "new_listings": [
+      {
+        "listing_id": "pg-25574925",
+        "property_name": "Guilin View",
+        "address": "26 Bukit Batok Street 52",
+        "price": 998000
+      },
+      {
+        "listing_id": "pg-500054330",
+        "property_name": "Watercolours",
+        "address": "25 Pasir Ris Link",
+        "price": 1130000
+      },
+      {
+        "listing_id": "pg-25415845",
+        "property_name": "The Watergardens",
+        "address": "29 Canberra Drive",
+        "price": 1458000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500076963",
+        "property_name": "Boathouse Residences",
+        "address": "33 Upper Serangoon View",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-500156780",
+        "property_name": "$5280/mth rent! Freehold Dual Key - Super High Rental Yield Condo",
+        "address": "Buona Vista / West Coast / Clementi New Town, City & South West (D01-08)",
+        "last_price": 1380008
+      },
+      {
+        "listing_id": "pg-500168208",
+        "property_name": "Mackenzie 88",
+        "address": "88 Mackenzie Road",
+        "last_price": 1450000
+      },
+      {
+        "listing_id": "pg-500095686",
+        "property_name": "Eight Courtyards",
+        "address": "6 Canberra Drive",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-23545272",
+        "property_name": "Boathouse Residences",
+        "address": "21 Upper Serangoon View",
+        "last_price": 1300000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-60116246",
+        "property_name": "Flora View",
+        "address": "",
+        "old_price": 1180000,
+        "new_price": 1150000,
+        "change_amount": -30000,
+        "change_percent": -2.5
+      }
+    ]
   }
 ]

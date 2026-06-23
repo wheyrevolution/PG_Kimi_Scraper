@@ -10388,5 +10388,38 @@
         "change_percent": -2.5
       }
     ]
+  },
+  {
+    "week_start": "2026-06-17",
+    "week_end": "2026-06-23",
+    "new_listings": [
+      {
+        "listing_id": "pg-500174196",
+        "property_name": "Treasure",
+        "address": "17 Tampines Lane",
+        "price": 1170000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-22062492",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500054330",
+        "property_name": "Watercolours",
+        "address": "25 Pasir Ris Link",
+        "last_price": 1130000
+      },
+      {
+        "listing_id": "pg-25415845",
+        "property_name": "The Watergardens",
+        "address": "29 Canberra Drive",
+        "last_price": 1458000
+      }
+    ],
+    "price_changes": []
   }
 ]

@@ -10421,5 +10421,56 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-06-18",
+    "week_end": "2026-06-24",
+    "new_listings": [
+      {
+        "listing_id": "pg-500179426",
+        "property_name": "Austville Residences",
+        "address": "11 Sengkang East Avenue",
+        "price": 1200000
+      },
+      {
+        "listing_id": "pg-500175556",
+        "property_name": "The Springbloom",
+        "address": "139 Serangoon Avenue 3",
+        "price": 1448000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60218664",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "last_price": 1050000
+      },
+      {
+        "listing_id": "pg-500139989",
+        "property_name": "Skies Miltonia",
+        "address": "3 Miltonia Close",
+        "last_price": 1450000
+      },
+      {
+        "listing_id": "pg-23397231",
+        "property_name": "Stars of Kovan",
+        "address": "986 Upper Serangoon Road",
+        "last_price": 1479999
+      },
+      {
+        "listing_id": "pg-25574925",
+        "property_name": "Guilin View",
+        "address": "26 Bukit Batok Street 52",
+        "last_price": 998000
+      },
+      {
+        "listing_id": "pg-500174196",
+        "property_name": "Treasure",
+        "address": "17 Tampines Lane",
+        "last_price": 1170000
+      }
+    ],
+    "price_changes": []
   }
 ]

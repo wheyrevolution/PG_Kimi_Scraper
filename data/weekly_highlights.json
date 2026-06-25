@@ -10472,5 +10472,60 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-06-19",
+    "week_end": "2026-06-25",
+    "new_listings": [
+      {
+        "listing_id": "pg-500137824",
+        "property_name": "The Quintet",
+        "address": "44 Choa Chu Kang Street 64",
+        "price": 1380000
+      },
+      {
+        "listing_id": "pg-500181935",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "price": 1288000
+      },
+      {
+        "listing_id": "pg-500181792",
+        "property_name": "Parc Vera",
+        "address": "Hougang Street 32",
+        "price": 1199999
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-20845582",
+        "property_name": "The Urbanite",
+        "address": "29 Hertford Road",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500109426",
+        "property_name": "The Axis",
+        "address": "47 Mandalay Road",
+        "last_price": 1299999
+      },
+      {
+        "listing_id": "pg-500168208",
+        "property_name": "Mackenzie 88",
+        "address": "88 Mackenzie Road",
+        "last_price": 1450000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-20127981",
+        "property_name": "Riversails",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1200000,
+        "change_amount": -100000,
+        "change_percent": -7.7
+      }
+    ]
   }
 ]

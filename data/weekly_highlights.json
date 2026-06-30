@@ -10527,5 +10527,156 @@
         "change_percent": -7.7
       }
     ]
+  },
+  {
+    "week_start": "2026-06-24",
+    "week_end": "2026-06-30",
+    "new_listings": [
+      {
+        "listing_id": "pg-500162086",
+        "property_name": "Hedges Park Condominium",
+        "address": "73 Flora Drive",
+        "price": 1420000
+      },
+      {
+        "listing_id": "pg-17695751",
+        "property_name": "The Minton",
+        "address": "147 Hougang Street 11",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-500068686",
+        "property_name": "FREEHOLD High Floor Riverside Condo in East! Near 2 MRTs, PLQ, 1km to Geylang Methodist!",
+        "address": "East Coast / Marine Parade, East Coast (D15-16)",
+        "price": 1388000
+      },
+      {
+        "listing_id": "pg-500128660",
+        "property_name": "79 Chay Yan Street",
+        "address": "79 Chay Yan Street",
+        "price": 1150000
+      },
+      {
+        "listing_id": "pg-500186280",
+        "property_name": "Presto @ Upper Serangoon",
+        "address": "528 Upper Serangoon Road",
+        "price": 1200000
+      },
+      {
+        "listing_id": "pg-500185436",
+        "property_name": "Kingsford Waterbay",
+        "address": "66 Upper Serangoon View",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-500184457",
+        "property_name": "Floraville",
+        "address": "2 Cactus Road",
+        "price": 1200000
+      },
+      {
+        "listing_id": "pg-500136465",
+        "property_name": "Kingsford Waterbay",
+        "address": "76 Upper Serangoon View",
+        "price": 1300000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500088841",
+        "property_name": "Riversails",
+        "address": "4 Upper Serangoon Crescent",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-60115225",
+        "property_name": "Kingsford Waterbay",
+        "address": "76 Upper Serangoon View",
+        "last_price": 1315000
+      },
+      {
+        "listing_id": "pg-500114185",
+        "property_name": "Mackenzie 88",
+        "address": "88 Mackenzie Road",
+        "last_price": 1450000
+      },
+      {
+        "listing_id": "pg-25570817",
+        "property_name": "Vibes @ Kovan",
+        "address": "93 Kovan Road",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500175967",
+        "property_name": "Mandarin Gardens",
+        "address": "1 Siglap Road",
+        "last_price": 1500000
+      },
+      {
+        "listing_id": "pg-500179426",
+        "property_name": "Austville Residences",
+        "address": "11 Sengkang East Avenue",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500175556",
+        "property_name": "The Springbloom",
+        "address": "139 Serangoon Avenue 3",
+        "last_price": 1448000
+      },
+      {
+        "listing_id": "pg-500137824",
+        "property_name": "The Quintet",
+        "address": "44 Choa Chu Kang Street 64",
+        "last_price": 1380000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-60246136",
+        "property_name": "High Oak Condo",
+        "address": "",
+        "old_price": 1550000,
+        "new_price": 1490000,
+        "change_amount": -60000,
+        "change_percent": -3.9
+      },
+      {
+        "listing_id": "pg-24689517",
+        "property_name": "Kovan Grandeur",
+        "address": "",
+        "old_price": 979000,
+        "new_price": 990000,
+        "change_amount": 11000,
+        "change_percent": 1.1
+      },
+      {
+        "listing_id": "pg-60243064",
+        "property_name": "Riversails",
+        "address": "",
+        "old_price": 1298000,
+        "new_price": 1268000,
+        "change_amount": -30000,
+        "change_percent": -2.3
+      },
+      {
+        "listing_id": "pg-21827849",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1250000,
+        "new_price": 1280000,
+        "change_amount": 30000,
+        "change_percent": 2.4
+      },
+      {
+        "listing_id": "pg-500110109",
+        "property_name": "Parc Vera",
+        "address": "",
+        "old_price": 1260000,
+        "new_price": 1249000,
+        "change_amount": -11000,
+        "change_percent": -0.9
+      }
+    ]
   }
 ]

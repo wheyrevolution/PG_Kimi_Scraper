@@ -2098,5 +2098,65 @@
     "change_percent": -7.7,
     "recorded_at": "2026-06-25",
     "notes": "Price changed from S$1,300,000"
+  },
+  {
+    "id": "ph-74be0ca5",
+    "listing_id": "pg-60246136",
+    "property_id": "prop-2337dfee",
+    "property_name": "High Oak Condo",
+    "price": 1490000,
+    "psf": 1520.41,
+    "change_amount": -60000,
+    "change_percent": -3.9,
+    "recorded_at": "2026-06-30",
+    "notes": "Price changed from S$1,550,000"
+  },
+  {
+    "id": "ph-d59d2735",
+    "listing_id": "pg-24689517",
+    "property_id": "prop-71217bb6",
+    "property_name": "Kovan Grandeur",
+    "price": 990000,
+    "psf": 1332.44,
+    "change_amount": 11000,
+    "change_percent": 1.1,
+    "recorded_at": "2026-06-30",
+    "notes": "Price changed from S$979,000"
+  },
+  {
+    "id": "ph-019f070b",
+    "listing_id": "pg-60243064",
+    "property_id": "prop-28d4841a",
+    "property_name": "Riversails",
+    "price": 1268000,
+    "psf": 1491.76,
+    "change_amount": -30000,
+    "change_percent": -2.3,
+    "recorded_at": "2026-06-30",
+    "notes": "Price changed from S$1,298,000"
+  },
+  {
+    "id": "ph-f3094225",
+    "listing_id": "pg-21827849",
+    "property_id": "prop-237d6474",
+    "property_name": "Kingsford Waterbay",
+    "price": 1280000,
+    "psf": 1505.88,
+    "change_amount": 30000,
+    "change_percent": 2.4,
+    "recorded_at": "2026-06-30",
+    "notes": "Price changed from S$1,250,000"
+  },
+  {
+    "id": "ph-a5d64101",
+    "listing_id": "pg-500110109",
+    "property_id": "prop-da3b798c",
+    "property_name": "Parc Vera",
+    "price": 1249000,
+    "psf": 1589.06,
+    "change_amount": -11000,
+    "change_percent": -0.9,
+    "recorded_at": "2026-06-30",
+    "notes": "Price changed from S$1,260,000"
   }
 ]

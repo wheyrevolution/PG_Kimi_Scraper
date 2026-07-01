@@ -2158,5 +2158,41 @@
     "change_percent": -0.9,
     "recorded_at": "2026-06-30",
     "notes": "Price changed from S$1,260,000"
+  },
+  {
+    "id": "ph-be157e05",
+    "listing_id": "pg-500118715",
+    "property_id": "prop-d538594d",
+    "property_name": "Miltonia Residences",
+    "price": 1380000,
+    "psf": 1209.47,
+    "change_amount": -108000,
+    "change_percent": -7.3,
+    "recorded_at": "2026-07-01",
+    "notes": "Price changed from S$1,488,000"
+  },
+  {
+    "id": "ph-58a5b282",
+    "listing_id": "pg-500095686",
+    "property_id": "prop-b46ebb3f",
+    "property_name": "Eight Courtyards",
+    "price": 1100000,
+    "psf": 1277.58,
+    "change_amount": -80000,
+    "change_percent": -6.8,
+    "recorded_at": "2026-07-01",
+    "notes": "Price changed from S$1,180,000"
+  },
+  {
+    "id": "ph-6cc72484",
+    "listing_id": "pg-23944833",
+    "property_id": "prop-e8f20e94",
+    "property_name": "Kingsford Waterbay",
+    "price": 1200000,
+    "psf": 1411.76,
+    "change_amount": -88888,
+    "change_percent": -6.9,
+    "recorded_at": "2026-07-01",
+    "notes": "Price changed from S$1,288,888"
   }
 ]

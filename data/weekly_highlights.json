@@ -10678,5 +10678,90 @@
         "change_percent": -0.9
       }
     ]
+  },
+  {
+    "week_start": "2026-06-25",
+    "week_end": "2026-07-01",
+    "new_listings": [
+      {
+        "listing_id": "pg-500168336",
+        "property_name": "The Florida",
+        "address": "78 Hougang Avenue 7",
+        "price": 1527000
+      },
+      {
+        "listing_id": "pg-500135318",
+        "property_name": "Presto @ Upper Serangoon",
+        "address": "528 Upper Serangoon Road",
+        "price": 1288000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60246136",
+        "property_name": "High Oak Condo",
+        "address": "11 Toh Tuck Road",
+        "last_price": 1490000
+      },
+      {
+        "listing_id": "pg-60218382",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "last_price": 1050000
+      },
+      {
+        "listing_id": "pg-500162086",
+        "property_name": "Hedges Park Condominium",
+        "address": "73 Flora Drive",
+        "last_price": 1420000
+      },
+      {
+        "listing_id": "pg-17695751",
+        "property_name": "The Minton",
+        "address": "147 Hougang Street 11",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500068686",
+        "property_name": "FREEHOLD High Floor Riverside Condo in East! Near 2 MRTs, PLQ, 1km to Geylang Methodist!",
+        "address": "East Coast / Marine Parade, East Coast (D15-16)",
+        "last_price": 1388000
+      },
+      {
+        "listing_id": "pg-500128660",
+        "property_name": "79 Chay Yan Street",
+        "address": "79 Chay Yan Street",
+        "last_price": 1150000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500118715",
+        "property_name": "Miltonia Residences",
+        "address": "",
+        "old_price": 1488000,
+        "new_price": 1380000,
+        "change_amount": -108000,
+        "change_percent": -7.3
+      },
+      {
+        "listing_id": "pg-500095686",
+        "property_name": "Eight Courtyards",
+        "address": "",
+        "old_price": 1180000,
+        "new_price": 1100000,
+        "change_amount": -80000,
+        "change_percent": -6.8
+      },
+      {
+        "listing_id": "pg-23944833",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1288888,
+        "new_price": 1200000,
+        "change_amount": -88888,
+        "change_percent": -6.9
+      }
+    ]
   }
 ]

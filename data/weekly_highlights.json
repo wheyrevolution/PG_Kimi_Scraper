@@ -10988,5 +10988,287 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-06-27",
+    "week_end": "2026-07-03",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60071647",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close",
+        "last_price": 1100000
+      },
+      {
+        "listing_id": "pg-60092842",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "last_price": 1050000
+      },
+      {
+        "listing_id": "pg-60084695",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "last_price": 1050000
+      },
+      {
+        "listing_id": "pg-60220064",
+        "property_name": "Flora View",
+        "address": "5 Ang Mo Kio Street 66",
+        "last_price": 1050000
+      },
+      {
+        "listing_id": "pg-60218664",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "last_price": 1050000
+      },
+      {
+        "listing_id": "pg-60206046",
+        "property_name": "Kingsford Waterbay",
+        "address": "66 Upper Serangoon View",
+        "last_price": 1299999
+      },
+      {
+        "listing_id": "pg-500050241",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-60171918",
+        "property_name": "Kingsford Waterbay",
+        "address": "70 Upper Serangoon View",
+        "last_price": 1310000
+      },
+      {
+        "listing_id": "pg-500116449",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-25430133",
+        "property_name": "Kingsford Waterbay",
+        "address": "64 Upper Serangoon View",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-60077577",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-60063956",
+        "property_name": "UNDERVALUED FREEHOLD SPACIOUS 2BR Leith Grove | D19 | Serangoon Gardens | Landed | Rosyth School",
+        "address": "Hougang / Punggol / Sengkang",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-60084976",
+        "property_name": "Leith Grove",
+        "address": "6 Leith Park",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-25400322",
+        "property_name": "Leith Grove",
+        "address": "6 Leith Park",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-11633776",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500027440",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-25612296",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500099612",
+        "property_name": "Riversails",
+        "address": "8 Upper Serangoon Crescent",
+        "last_price": 1318000
+      },
+      {
+        "listing_id": "pg-60243064",
+        "property_name": "Riversails",
+        "address": "22 Upper Serangoon Crescent",
+        "last_price": 1268000
+      },
+      {
+        "listing_id": "pg-25251913",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-60116246",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "last_price": 1150000
+      },
+      {
+        "listing_id": "pg-500128248",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-23944833",
+        "property_name": "Kingsford Waterbay",
+        "address": "70 Upper Serangoon View",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-23947178",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500118309",
+        "property_name": "Casa Cambio",
+        "address": "9 Lim Tua Tow Road",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-25488993",
+        "property_name": "Floraville",
+        "address": "2 Cactus Road",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-500136309",
+        "property_name": "Gillenia",
+        "address": "35 Rosyth Road",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-21827849",
+        "property_name": "Kingsford Waterbay",
+        "address": "78 Upper Serangoon View",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-24428725",
+        "property_name": "Kingsford Waterbay",
+        "address": "50 Upper Serangoon View",
+        "last_price": 1299999
+      },
+      {
+        "listing_id": "pg-500143895",
+        "property_name": "Kingsford Waterbay",
+        "address": "70 Upper Serangoon View",
+        "last_price": 1298000
+      },
+      {
+        "listing_id": "pg-500161278",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500153626",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "last_price": 1150000
+      },
+      {
+        "listing_id": "pg-500157594",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500168279",
+        "property_name": "Loft @ Rangoon",
+        "address": "113 Rangoon Road",
+        "last_price": 1199999
+      },
+      {
+        "listing_id": "pg-500118715",
+        "property_name": "Miltonia Residences",
+        "address": "520 Miltonia Close",
+        "last_price": 1380000
+      },
+      {
+        "listing_id": "pg-500172112",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View",
+        "last_price": 1285000
+      },
+      {
+        "listing_id": "pg-500174632",
+        "property_name": "Kingsford Waterbay",
+        "address": "68 Upper Serangoon View",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-500133687",
+        "property_name": "Loft @ Rangoon",
+        "address": "113 Rangoon Road",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500186280",
+        "property_name": "Presto @ Upper Serangoon",
+        "address": "528 Upper Serangoon Road",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500185436",
+        "property_name": "Kingsford Waterbay",
+        "address": "66 Upper Serangoon View",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500184457",
+        "property_name": "Floraville",
+        "address": "2 Cactus Road",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500168336",
+        "property_name": "The Florida",
+        "address": "78 Hougang Avenue 7",
+        "last_price": 1527000
+      },
+      {
+        "listing_id": "pg-500107921",
+        "property_name": "Guillemard Suites",
+        "address": "213 Guillemard Road",
+        "last_price": 1258000
+      },
+      {
+        "listing_id": "pg-500144454",
+        "property_name": "Parc Clematis",
+        "address": "8C Jalan Lempeng",
+        "last_price": 1380000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-25402646",
+        "property_name": "Normanton Park",
+        "address": "",
+        "old_price": 1380000,
+        "new_price": 1388000,
+        "change_amount": 8000,
+        "change_percent": 0.6
+      }
+    ]
   }
 ]

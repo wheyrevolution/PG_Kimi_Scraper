@@ -2194,5 +2194,17 @@
     "change_percent": -6.9,
     "recorded_at": "2026-07-01",
     "notes": "Price changed from S$1,288,888"
+  },
+  {
+    "id": "ph-a6614b1f",
+    "listing_id": "pg-25402646",
+    "property_id": "prop-63f6b9c1",
+    "property_name": "Normanton Park",
+    "price": 1388000,
+    "psf": 2011.59,
+    "change_amount": 8000,
+    "change_percent": 0.6,
+    "recorded_at": "2026-07-03",
+    "notes": "Price changed from S$1,380,000"
   }
 ]

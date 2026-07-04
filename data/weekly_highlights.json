@@ -11270,5 +11270,36 @@
         "change_percent": 0.6
       }
     ]
+  },
+  {
+    "week_start": "2026-06-28",
+    "week_end": "2026-07-04",
+    "new_listings": [
+      {
+        "listing_id": "pg-500190582",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View",
+        "price": 1380000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-25407858",
+        "property_name": "Changi Rise Condo",
+        "address": "8 Simei Rise",
+        "last_price": 1480000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500168279",
+        "property_name": "Loft @ Rangoon",
+        "address": "",
+        "old_price": 1199999,
+        "new_price": 1180000,
+        "change_amount": -19999,
+        "change_percent": -1.7
+      }
+    ]
   }
 ]

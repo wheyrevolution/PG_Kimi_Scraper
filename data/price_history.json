@@ -2206,5 +2206,17 @@
     "change_percent": 0.6,
     "recorded_at": "2026-07-03",
     "notes": "Price changed from S$1,380,000"
+  },
+  {
+    "id": "ph-d3a2007a",
+    "listing_id": "pg-500168279",
+    "property_id": "prop-0fb6dcd0",
+    "property_name": "Loft @ Rangoon",
+    "price": 1180000,
+    "psf": 1370.5,
+    "change_amount": -19999,
+    "change_percent": -1.7,
+    "recorded_at": "2026-07-04",
+    "notes": "Price changed from S$1,199,999"
   }
 ]

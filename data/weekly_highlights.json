@@ -11301,5 +11301,26 @@
         "change_percent": -1.7
       }
     ]
+  },
+  {
+    "week_start": "2026-06-29",
+    "week_end": "2026-07-05",
+    "new_listings": [
+      {
+        "listing_id": "pg-500190774",
+        "property_name": "The Hillier",
+        "address": "6 Hillview Rise",
+        "price": 1550000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500179426",
+        "property_name": "Austville Residences",
+        "address": "11 Sengkang East Avenue",
+        "last_price": 1200000
+      }
+    ],
+    "price_changes": []
   }
 ]

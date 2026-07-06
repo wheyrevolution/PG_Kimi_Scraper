@@ -2218,5 +2218,29 @@
     "change_percent": -1.7,
     "recorded_at": "2026-07-04",
     "notes": "Price changed from S$1,199,999"
+  },
+  {
+    "id": "ph-ad7ee991",
+    "listing_id": "pg-500052088",
+    "property_id": "prop-2462c05a",
+    "property_name": "Suites@Braddell",
+    "price": 1050000,
+    "psf": 1250.0,
+    "change_amount": -49999,
+    "change_percent": -4.5,
+    "recorded_at": "2026-07-06",
+    "notes": "Price changed from S$1,099,999"
+  },
+  {
+    "id": "ph-83535d12",
+    "listing_id": "pg-21033612",
+    "property_id": "prop-fda29234",
+    "property_name": "Suites@Braddell",
+    "price": 1190000,
+    "psf": 1347.68,
+    "change_amount": -10000,
+    "change_percent": -0.8,
+    "recorded_at": "2026-07-06",
+    "notes": "Price changed from S$1,200,000"
   }
 ]

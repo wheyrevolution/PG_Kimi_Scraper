@@ -11322,5 +11322,69 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-06-30",
+    "week_end": "2026-07-06",
+    "new_listings": [
+      {
+        "listing_id": "pg-500135262",
+        "property_name": "Parc Clematis",
+        "address": "8F Jalan Lempeng",
+        "price": 1480000
+      },
+      {
+        "listing_id": "pg-500135818",
+        "property_name": "Best Buy 2 bed 2 bath In D23 Newly TOP Price to Sell!",
+        "address": "Dairy Farm / Bukit Panjang / Choa Chu Kang, West (D22-24)",
+        "price": 1399999
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-25612296",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-25402646",
+        "property_name": "Normanton Park",
+        "address": "55 Normanton Park",
+        "last_price": 1388000
+      },
+      {
+        "listing_id": "pg-500175556",
+        "property_name": "The Springbloom",
+        "address": "139 Serangoon Avenue 3",
+        "last_price": 1448000
+      },
+      {
+        "listing_id": "pg-500190582",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View",
+        "last_price": 1380000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500052088",
+        "property_name": "Suites@Braddell",
+        "address": "",
+        "old_price": 1099999,
+        "new_price": 1050000,
+        "change_amount": -49999,
+        "change_percent": -4.5
+      },
+      {
+        "listing_id": "pg-21033612",
+        "property_name": "Suites@Braddell",
+        "address": "",
+        "old_price": 1200000,
+        "new_price": 1190000,
+        "change_amount": -10000,
+        "change_percent": -0.8
+      }
+    ]
   }
 ]

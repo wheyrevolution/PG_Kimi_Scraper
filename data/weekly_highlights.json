@@ -11386,5 +11386,56 @@
         "change_percent": -0.8
       }
     ]
+  },
+  {
+    "week_start": "2026-07-01",
+    "week_end": "2026-07-07",
+    "new_listings": [
+      {
+        "listing_id": "pg-500194126",
+        "property_name": "Neptune Court",
+        "address": "6 Marine Vista",
+        "price": 1480000
+      },
+      {
+        "listing_id": "pg-500190474",
+        "property_name": "The Nautical",
+        "address": "Sembawang / Yishun, North (D25-28)",
+        "price": 1300000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-23944838",
+        "property_name": "Kingsford Waterbay",
+        "address": "68 Upper Serangoon View",
+        "last_price": 1288888
+      },
+      {
+        "listing_id": "pg-500060751",
+        "property_name": "Treasure Mansions",
+        "address": "15 Rosyth Avenue",
+        "last_price": 1188888
+      },
+      {
+        "listing_id": "pg-23397231",
+        "property_name": "Stars of Kovan",
+        "address": "986 Upper Serangoon Road",
+        "last_price": 1479999
+      },
+      {
+        "listing_id": "pg-500190774",
+        "property_name": "The Hillier",
+        "address": "6 Hillview Rise",
+        "last_price": 1550000
+      },
+      {
+        "listing_id": "pg-500135262",
+        "property_name": "Parc Clematis",
+        "address": "8F Jalan Lempeng",
+        "last_price": 1480000
+      }
+    ],
+    "price_changes": []
   }
 ]

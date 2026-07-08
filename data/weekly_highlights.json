@@ -11437,5 +11437,204 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-07-02",
+    "week_end": "2026-07-08",
+    "new_listings": [
+      {
+        "listing_id": "pg-25575790",
+        "property_name": "The Florence Residences",
+        "address": "99 Hougang Avenue 2",
+        "price": 1399999
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-25586522",
+        "property_name": "Floraville",
+        "address": "2 Cactus Road",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500087971",
+        "property_name": "Riversails",
+        "address": "16 Upper Serangoon Crescent",
+        "last_price": 1318000
+      },
+      {
+        "listing_id": "pg-500112341",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "last_price": 1290000
+      },
+      {
+        "listing_id": "pg-21773522",
+        "property_name": "Vibes @ Kovan",
+        "address": "93 Kovan Road",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500124651",
+        "property_name": "Kingsford Waterbay",
+        "address": "66 Upper Serangoon View",
+        "last_price": 1299000
+      },
+      {
+        "listing_id": "pg-20845582",
+        "property_name": "The Urbanite",
+        "address": "29 Hertford Road",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500080776",
+        "property_name": "iSuites @ Palm",
+        "address": "24 GLASGOW ROAD",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-60167508",
+        "property_name": "Ascent @ 456",
+        "address": "456 Balestier Road",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-24655575",
+        "property_name": "Ascent @ 456",
+        "address": "456 Balestier Road",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-60234628",
+        "property_name": "Treasure Mansions",
+        "address": "15 Rosyth Avenue",
+        "last_price": 1188888
+      },
+      {
+        "listing_id": "pg-21597527",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-500110109",
+        "property_name": "Parc Vera",
+        "address": "2 Hougang Street 32",
+        "last_price": 1249000
+      },
+      {
+        "listing_id": "pg-21050612",
+        "property_name": "Alexis",
+        "address": "356 Alexandra Road",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-20093925",
+        "property_name": "Carlyx Residence",
+        "address": "39 Carlisle Road",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-60205966",
+        "property_name": "M66",
+        "address": "66 Moonstone Lane",
+        "last_price": 1288888
+      },
+      {
+        "listing_id": "pg-500063149",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500063001",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500120092",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road",
+        "last_price": 1260000
+      },
+      {
+        "listing_id": "pg-60053281",
+        "property_name": "The Verve",
+        "address": "23 Jalan Rajah Road",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500135275",
+        "property_name": "Seletar Park Residence",
+        "address": "21 Seletar Road",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-500134444",
+        "property_name": "Seletar Park Residence",
+        "address": "21 Seletar Road",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-500156198",
+        "property_name": "Kingsford Waterbay",
+        "address": "76 Upper Serangoon View",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500177899",
+        "property_name": "Vibes @ Kovan",
+        "address": "93 Kovan Road",
+        "last_price": 1150000
+      },
+      {
+        "listing_id": "pg-500181792",
+        "property_name": "Parc Vera",
+        "address": "Hougang Street 32",
+        "last_price": 1199999
+      },
+      {
+        "listing_id": "pg-500136465",
+        "property_name": "Kingsford Waterbay",
+        "address": "76 Upper Serangoon View",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500135318",
+        "property_name": "Presto @ Upper Serangoon",
+        "address": "528 Upper Serangoon Road",
+        "last_price": 1288000
+      },
+      {
+        "listing_id": "pg-500144454",
+        "property_name": "Parc Clematis",
+        "address": "8C Jalan Lempeng",
+        "last_price": 1380000
+      },
+      {
+        "listing_id": "pg-500194126",
+        "property_name": "Neptune Court",
+        "address": "6 Marine Vista",
+        "last_price": 1480000
+      },
+      {
+        "listing_id": "pg-500190474",
+        "property_name": "The Nautical",
+        "address": "Sembawang / Yishun, North (D25-28)",
+        "last_price": 1300000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500081331",
+        "property_name": "Seletar Park Residence",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1258000,
+        "change_amount": -42000,
+        "change_percent": -3.2
+      }
+    ]
   }
 ]

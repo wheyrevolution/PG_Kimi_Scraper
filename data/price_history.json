@@ -2242,5 +2242,17 @@
     "change_percent": -0.8,
     "recorded_at": "2026-07-06",
     "notes": "Price changed from S$1,200,000"
+  },
+  {
+    "id": "ph-f9253b9e",
+    "listing_id": "pg-500081331",
+    "property_id": "prop-985be92a",
+    "property_name": "Seletar Park Residence",
+    "price": 1258000,
+    "psf": 1243.08,
+    "change_amount": -42000,
+    "change_percent": -3.2,
+    "recorded_at": "2026-07-08",
+    "notes": "Price changed from S$1,300,000"
   }
 ]

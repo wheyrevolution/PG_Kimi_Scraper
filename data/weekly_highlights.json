@@ -11636,5 +11636,50 @@
         "change_percent": -3.2
       }
     ]
+  },
+  {
+    "week_start": "2026-07-03",
+    "week_end": "2026-07-09",
+    "new_listings": [
+      {
+        "listing_id": "pg-60073206",
+        "property_name": "Costa Rhu",
+        "address": "1 Rhu Cross",
+        "price": 1500000
+      },
+      {
+        "listing_id": "pg-500022331",
+        "property_name": "Affinity At Serangoon",
+        "address": "Hougang / Punggol / Sengkang, Serangoon / Thomson (D19-20)",
+        "price": 1399015
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500179426",
+        "property_name": "Austville Residences",
+        "address": "11 Sengkang East Avenue",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500190774",
+        "property_name": "The Hillier",
+        "address": "6 Hillview Rise",
+        "last_price": 1550000
+      },
+      {
+        "listing_id": "pg-500135262",
+        "property_name": "Parc Clematis",
+        "address": "8F Jalan Lempeng",
+        "last_price": 1480000
+      },
+      {
+        "listing_id": "pg-500135818",
+        "property_name": "Best Buy 2 bed 2 bath In D23 Newly TOP Price to Sell!",
+        "address": "Dairy Farm / Bukit Panjang / Choa Chu Kang, West (D22-24)",
+        "last_price": 1399999
+      }
+    ],
+    "price_changes": []
   }
 ]

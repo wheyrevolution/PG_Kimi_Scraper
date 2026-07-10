@@ -11681,5 +11681,19 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-07-04",
+    "week_end": "2026-07-10",
+    "new_listings": [
+      {
+        "listing_id": "pg-21343635",
+        "property_name": "Boathouse Residences",
+        "address": "21 Upper Serangoon View",
+        "price": 1200000
+      }
+    ],
+    "went_inactive": [],
+    "price_changes": []
   }
 ]

@@ -11695,5 +11695,35 @@
     ],
     "went_inactive": [],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-07-05",
+    "week_end": "2026-07-11",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60171918",
+        "property_name": "Kingsford Waterbay",
+        "address": "70 Upper Serangoon View",
+        "last_price": 1310000
+      },
+      {
+        "listing_id": "pg-25575790",
+        "property_name": "The Florence Residences",
+        "address": "99 Hougang Avenue 2",
+        "last_price": 1399999
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-60202087",
+        "property_name": "Kovan Grandeur",
+        "address": "",
+        "old_price": 1050000,
+        "new_price": 1055000,
+        "change_amount": 5000,
+        "change_percent": 0.5
+      }
+    ]
   }
 ]

@@ -11725,5 +11725,42 @@
         "change_percent": 0.5
       }
     ]
+  },
+  {
+    "week_start": "2026-07-06",
+    "week_end": "2026-07-12",
+    "new_listings": [
+      {
+        "listing_id": "pg-500199486",
+        "property_name": "RiverBay",
+        "address": "23 Mar Thoma Road",
+        "price": 1280000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-23947178",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-25402646",
+        "property_name": "Normanton Park",
+        "address": "55 Normanton Park",
+        "last_price": 1388000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-24689517",
+        "property_name": "Kovan Grandeur",
+        "address": "",
+        "old_price": 990000,
+        "new_price": 985000,
+        "change_amount": -5000,
+        "change_percent": -0.5
+      }
+    ]
   }
 ]

@@ -11762,5 +11762,32 @@
         "change_percent": -0.5
       }
     ]
+  },
+  {
+    "week_start": "2026-07-07",
+    "week_end": "2026-07-13",
+    "new_listings": [
+      {
+        "listing_id": "pg-500200564",
+        "property_name": "Oasis Garden",
+        "address": "51 Jalan Bunga Rampai",
+        "price": 1580000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500112341",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "last_price": 1290000
+      },
+      {
+        "listing_id": "pg-500022331",
+        "property_name": "Affinity At Serangoon",
+        "address": "Hougang / Punggol / Sengkang, Serangoon / Thomson (D19-20)",
+        "last_price": 1399015
+      }
+    ],
+    "price_changes": []
   }
 ]

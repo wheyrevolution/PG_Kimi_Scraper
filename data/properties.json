@@ -1,5 +1,408 @@
 [
   {
+    "id": "prop-d7836777",
+    "name": "Kovan Grandeur",
+    "address": "118 Tampines Road",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 915,
+    "top_year": "2012",
+    "tenure": "99-year Leasehold",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "listing_ids": [
+      "pg-60245510",
+      "pg-60217916",
+      "pg-60202087"
+    ],
+    "current_price": 1050000,
+    "current_psf": 1147.54,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 3,
+    "first_listing": "pg-60245510"
+  },
+  {
+    "id": "prop-db9a66a4",
+    "name": "Oasis Garden",
+    "address": "51 Jalan Bunga Rampai",
+    "property_type": "Condominium",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 947,
+    "top_year": "2012",
+    "tenure": "Freehold",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "listing_ids": [
+      "pg-500200564"
+    ],
+    "current_price": 1580000,
+    "current_psf": 1668.43,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-500200564"
+  },
+  {
+    "id": "prop-f2d06094",
+    "name": "Parc Somme",
+    "address": "62 Somme Road",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 1098,
+    "top_year": "2014",
+    "tenure": "99-year Leasehold",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "listing_ids": [
+      "pg-60208994"
+    ],
+    "current_price": 1299000,
+    "current_psf": 1183.06,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-60208994"
+  },
+  {
+    "id": "prop-bf136a2c",
+    "name": "The Promenade @ Pelikat",
+    "address": "183 Jalan Pelikat",
+    "property_type": "Condominium",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 969,
+    "top_year": "2016",
+    "tenure": "Freehold",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "listing_ids": [
+      "pg-25506478",
+      "pg-60080493"
+    ],
+    "current_price": 1199999,
+    "current_psf": 1238.39,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 2,
+    "first_listing": "pg-25506478"
+  },
+  {
+    "id": "prop-06dba634",
+    "name": "The Florence Residences",
+    "address": "99 Hougang Avenue 2",
+    "property_type": "Condominium",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 797,
+    "top_year": "2023",
+    "tenure": "99-year Leasehold",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "listing_ids": [
+      "pg-25575790"
+    ],
+    "current_price": 1399999,
+    "current_psf": 1756.59,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-25575790"
+  },
+  {
+    "id": "prop-92b53026",
+    "name": "Seletar Park Residence",
+    "address": "21 Seletar Road",
+    "property_type": "Condominium",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 1012,
+    "top_year": "2015",
+    "tenure": "99-year Leasehold",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "listing_ids": [
+      "pg-500081331"
+    ],
+    "current_price": 1258000,
+    "current_psf": 1243.08,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-500081331"
+  },
+  {
+    "id": "prop-b6482456",
+    "name": "Suites@Braddell",
+    "address": "56 Braddell Road",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 840,
+    "top_year": "2015",
+    "tenure": "Freehold",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "listing_ids": [
+      "pg-500052088"
+    ],
+    "current_price": 1050000,
+    "current_psf": 1250.0,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-500052088"
+  },
+  {
+    "id": "prop-6956842a",
+    "name": "Vibes @ Upper Serangoon",
+    "address": "488 Upper Serangoon Road",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 850,
+    "top_year": "2016",
+    "tenure": "Freehold",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "listing_ids": [
+      "pg-19142570",
+      "pg-60196607",
+      "pg-60207746"
+    ],
+    "current_price": 1068000,
+    "current_psf": 1256.47,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 3,
+    "first_listing": "pg-19142570"
+  },
+  {
+    "id": "prop-cc25011b",
+    "name": "The Florence Residences",
+    "address": "89 Hougang Avenue 2",
+    "property_type": "Condominium",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 667,
+    "top_year": "2023",
+    "tenure": "99-year Leasehold",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "listing_ids": [
+      "pg-500201891"
+    ],
+    "current_price": 1325000,
+    "current_psf": 1986.51,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-500201891"
+  },
+  {
+    "id": "prop-985d49fd",
+    "name": "The Promenade @ Pelikat",
+    "address": "183 Jalan Pelikat",
+    "property_type": "Condominium",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 936,
+    "top_year": "2016",
+    "tenure": "Freehold",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "listing_ids": [
+      "pg-500166410",
+      "pg-21334482",
+      "pg-500181935"
+    ],
+    "current_price": 1210000,
+    "current_psf": 1292.74,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 3,
+    "first_listing": "pg-500166410"
+  },
+  {
+    "id": "prop-fcf85008",
+    "name": "Kovan Grandeur",
+    "address": "118 Tampines Road",
+    "property_type": "Condominium",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 743,
+    "top_year": "2012",
+    "tenure": "99-year Leasehold",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "listing_ids": [
+      "pg-24689517"
+    ],
+    "current_price": 985000,
+    "current_psf": 1325.71,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-24689517"
+  },
+  {
+    "id": "prop-0a3317ca",
+    "name": "The Greenwich",
+    "address": "13 Seletar Road",
+    "property_type": "Condominium",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 883,
+    "top_year": "2013",
+    "tenure": "99-year Leasehold",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "listing_ids": [
+      "pg-500058515"
+    ],
+    "current_price": 1180000,
+    "current_psf": 1336.35,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-500058515"
+  },
+  {
+    "id": "prop-9577854a",
+    "name": "Kingsford Waterbay",
+    "address": "84 Upper Serangoon View",
+    "property_type": "Condominium",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 883,
+    "top_year": "2018",
+    "tenure": "99-year Leasehold",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "listing_ids": [
+      "pg-500190582"
+    ],
+    "current_price": 1380000,
+    "current_psf": 1562.85,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-500190582"
+  },
+  {
+    "id": "prop-ff1158f3",
+    "name": "Suites@Braddell",
+    "address": "56 Braddell Road",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 883,
+    "top_year": "2015",
+    "tenure": "Freehold",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "listing_ids": [
+      "pg-21033612"
+    ],
+    "current_price": 1190000,
+    "current_psf": 1347.68,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-21033612"
+  },
+  {
+    "id": "prop-6610143d",
+    "name": "Riversails",
+    "address": "18 Upper Serangoon Crescent",
+    "property_type": "Condominium",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 883,
+    "top_year": "2016",
+    "tenure": "99-year Leasehold",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "listing_ids": [
+      "pg-60231831"
+    ],
+    "current_price": 1199999,
+    "current_psf": 1359.0,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-60231831"
+  },
+  {
+    "id": "prop-6ed4b395",
+    "name": "Riversails",
+    "address": "24 Upper Serangoon Crescent",
+    "property_type": "Condominium",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 882,
+    "top_year": "2016",
+    "tenure": "99-year Leasehold",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "listing_ids": [
+      "pg-25487761"
+    ],
+    "current_price": 1200000,
+    "current_psf": 1360.54,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-25487761"
+  },
+  {
+    "id": "prop-ba0e763e",
+    "name": "Loft @ Rangoon",
+    "address": "113 Rangoon Road",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 861,
+    "top_year": "2014",
+    "tenure": "Freehold",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "listing_ids": [
+      "pg-500168279"
+    ],
+    "current_price": 1180000,
+    "current_psf": 1370.5,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-500168279"
+  },
+  {
+    "id": "prop-35352b91",
+    "name": "Affinity At Serangoon",
+    "address": "Hougang / Punggol / Sengkang, Serangoon / Thomson (D19-20)",
+    "property_type": "Condominium",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 732,
+    "top_year": "2024",
+    "tenure": "99-year Leasehold",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
+    "listing_ids": [
+      "pg-500022331"
+    ],
+    "current_price": 1399015,
+    "current_psf": 1911.22,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-500022331"
+  },
+  {
     "id": "prop-2d925061",
     "name": "Kovan Grandeur",
     "address": "118 Tampines Road",
@@ -18,7 +421,7 @@
     ],
     "current_price": 1050000,
     "current_psf": 1147.54,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 3,
     "first_listing": "pg-60217916"
@@ -40,7 +443,7 @@
     ],
     "current_price": 1580000,
     "current_psf": 1668.43,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500200564"
@@ -62,7 +465,7 @@
     ],
     "current_price": 1299000,
     "current_psf": 1183.06,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-60208994"
@@ -85,7 +488,7 @@
     ],
     "current_price": 1199999,
     "current_psf": 1238.39,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 2,
     "first_listing": "pg-25506478"
@@ -107,7 +510,7 @@
     ],
     "current_price": 1399999,
     "current_psf": 1756.59,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-25575790"
@@ -129,7 +532,7 @@
     ],
     "current_price": 1258000,
     "current_psf": 1243.08,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500081331"
@@ -151,7 +554,7 @@
     ],
     "current_price": 1050000,
     "current_psf": 1250.0,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500052088"
@@ -175,7 +578,7 @@
     ],
     "current_price": 1068000,
     "current_psf": 1256.47,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 3,
     "first_listing": "pg-19142570"
@@ -197,7 +600,7 @@
     ],
     "current_price": 1500000,
     "current_psf": 1515.15,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-60073206"
@@ -222,7 +625,7 @@
     ],
     "current_price": 1210000,
     "current_psf": 1292.74,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 4,
     "first_listing": "pg-500166410"
@@ -244,7 +647,7 @@
     ],
     "current_price": 985000,
     "current_psf": 1325.71,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-24689517"
@@ -266,7 +669,7 @@
     ],
     "current_price": 1180000,
     "current_psf": 1336.35,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500058515"
@@ -288,7 +691,7 @@
     ],
     "current_price": 1249000,
     "current_psf": 1589.06,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500110109"
@@ -310,7 +713,7 @@
     ],
     "current_price": 1190000,
     "current_psf": 1347.68,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-21033612"
@@ -332,7 +735,7 @@
     ],
     "current_price": 1199999,
     "current_psf": 1359.0,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-60231831"
@@ -354,7 +757,7 @@
     ],
     "current_price": 1200000,
     "current_psf": 1360.54,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-25487761"
@@ -376,7 +779,7 @@
     ],
     "current_price": 1180000,
     "current_psf": 1370.5,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500168279"
@@ -399,7 +802,7 @@
     ],
     "current_price": 1380000,
     "current_psf": 1562.85,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 2,
     "first_listing": "pg-500190582"
@@ -421,7 +824,7 @@
     ],
     "current_price": 1200000,
     "current_psf": 1377.73,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-20127981"
@@ -445,7 +848,7 @@
     ],
     "current_price": 1100000,
     "current_psf": 1380.18,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 3,
     "first_listing": "pg-60071647"
@@ -469,7 +872,7 @@
     ],
     "current_price": 1050000,
     "current_psf": 1394.42,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 3,
     "first_listing": "pg-60084695"
@@ -491,7 +894,7 @@
     ],
     "current_price": 1050000,
     "current_psf": 1394.42,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-60220064"
@@ -513,7 +916,7 @@
     ],
     "current_price": 1200000,
     "current_psf": 1411.76,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-23944833"
@@ -535,7 +938,7 @@
     ],
     "current_price": 1200000,
     "current_psf": 1428.57,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-21343635"
@@ -559,7 +962,7 @@
     ],
     "current_price": 1150000,
     "current_psf": 1442.91,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 3,
     "first_listing": "pg-60116246"
@@ -581,7 +984,7 @@
     ],
     "current_price": 1200000,
     "current_psf": 1447.53,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500186280"
@@ -603,7 +1006,7 @@
     ],
     "current_price": 1280000,
     "current_psf": 1449.6,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500118309"
@@ -625,7 +1028,7 @@
     ],
     "current_price": 1280000,
     "current_psf": 1451.25,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-25488993"
@@ -647,7 +1050,7 @@
     ],
     "current_price": 1299999,
     "current_psf": 1455.77,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-60206046"
@@ -669,7 +1072,7 @@
     ],
     "current_price": 1299999,
     "current_psf": 1455.77,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-24428725"
@@ -691,7 +1094,7 @@
     ],
     "current_price": 1300000,
     "current_psf": 1455.77,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500050241"
@@ -713,7 +1116,7 @@
     ],
     "current_price": 1300000,
     "current_psf": 1455.77,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500136309"
@@ -735,7 +1138,7 @@
     ],
     "current_price": 1250000,
     "current_psf": 1470.59,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500116449"
@@ -757,7 +1160,7 @@
     ],
     "current_price": 1250000,
     "current_psf": 1470.59,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-25430133"
@@ -779,7 +1182,7 @@
     ],
     "current_price": 1300000,
     "current_psf": 1472.25,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-60077577"
@@ -801,7 +1204,7 @@
     ],
     "current_price": 1300000,
     "current_psf": 1472.25,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500185436"
@@ -823,7 +1226,7 @@
     ],
     "current_price": 1300000,
     "current_psf": 1473.92,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500133687"
@@ -845,7 +1248,7 @@
     ],
     "current_price": 1180000,
     "current_psf": 1480.55,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-60063956"
@@ -869,7 +1272,7 @@
     ],
     "current_price": 1180000,
     "current_psf": 1480.55,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 3,
     "first_listing": "pg-25400322"
@@ -891,7 +1294,7 @@
     ],
     "current_price": 1280000,
     "current_psf": 1486.64,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500174632"
@@ -913,7 +1316,7 @@
     ],
     "current_price": 1268000,
     "current_psf": 1491.76,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-60243064"
@@ -935,7 +1338,7 @@
     ],
     "current_price": 1285000,
     "current_psf": 1492.45,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500172112"
@@ -958,7 +1361,7 @@
     ],
     "current_price": 1200000,
     "current_psf": 1505.65,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 2,
     "first_listing": "pg-500184457"
@@ -980,7 +1383,7 @@
     ],
     "current_price": 1280000,
     "current_psf": 1505.88,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-21827849"
@@ -1003,7 +1406,7 @@
     ],
     "current_price": 1200000,
     "current_psf": 1507.54,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 2,
     "first_listing": "pg-23947178"
@@ -1025,7 +1428,7 @@
     ],
     "current_price": 1298000,
     "current_psf": 1507.55,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500143895"
@@ -1047,7 +1450,7 @@
     ],
     "current_price": 1318000,
     "current_psf": 1511.47,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500087971"
@@ -1069,7 +1472,7 @@
     ],
     "current_price": 1318000,
     "current_psf": 1511.47,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500099612"
@@ -1092,7 +1495,7 @@
     ],
     "current_price": 1280000,
     "current_psf": 1523.81,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 2,
     "first_listing": "pg-500134444"
@@ -1114,7 +1517,7 @@
     ],
     "current_price": 1199999,
     "current_psf": 1526.72,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500181792"
@@ -1136,7 +1539,7 @@
     ],
     "current_price": 1200000,
     "current_psf": 1526.72,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-21773522"
@@ -1158,7 +1561,7 @@
     ],
     "current_price": 1150000,
     "current_psf": 1527.22,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500177899"
@@ -1180,7 +1583,7 @@
     ],
     "current_price": 1299000,
     "current_psf": 1528.24,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500124651"
@@ -1202,7 +1605,7 @@
     ],
     "current_price": 1300000,
     "current_psf": 1529.41,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500080776"
@@ -1224,7 +1627,7 @@
     ],
     "current_price": 1300000,
     "current_psf": 1529.41,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-20845582"
@@ -1246,7 +1649,7 @@
     ],
     "current_price": 1300000,
     "current_psf": 1531.21,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500136465"
@@ -1269,7 +1672,7 @@
     ],
     "current_price": 1180000,
     "current_psf": 1567.07,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 2,
     "first_listing": "pg-60167508"
@@ -1291,7 +1694,7 @@
     ],
     "current_price": 1288000,
     "current_psf": 1574.57,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500135318"
@@ -1314,7 +1717,7 @@
     ],
     "current_price": 1188888,
     "current_psf": 1578.87,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 2,
     "first_listing": "pg-60234628"
@@ -1336,7 +1739,7 @@
     ],
     "current_price": 1280000,
     "current_psf": 1586.12,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-21597527"
@@ -1358,7 +1761,7 @@
     ],
     "current_price": 1300000,
     "current_psf": 1589.24,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-60053281"
@@ -1380,7 +1783,7 @@
     ],
     "current_price": 1300000,
     "current_psf": 1653.94,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-21050612"
@@ -1402,7 +1805,7 @@
     ],
     "current_price": 1250000,
     "current_psf": 1660.03,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-20093925"
@@ -1424,7 +1827,7 @@
     ],
     "current_price": 1288888,
     "current_psf": 1663.08,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-60205966"
@@ -1447,7 +1850,7 @@
     ],
     "current_price": 1250000,
     "current_psf": 1682.37,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 2,
     "first_listing": "pg-500063149"
@@ -1469,7 +1872,7 @@
     ],
     "current_price": 1260000,
     "current_psf": 1698.11,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500120092"
@@ -1491,7 +1894,7 @@
     ],
     "current_price": 1280000,
     "current_psf": 1699.87,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-500199486"

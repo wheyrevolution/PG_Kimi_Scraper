@@ -12206,5 +12206,44 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-07-09",
+    "week_end": "2026-07-15",
+    "new_listings": [
+      {
+        "listing_id": "pg-500185733",
+        "property_name": "The Vales",
+        "address": "77 Anchorvale Crescent",
+        "price": 1548888
+      },
+      {
+        "listing_id": "pg-500200380",
+        "property_name": "Icon @ Pasir Panjang",
+        "address": "218 Pasir Panjang Road",
+        "price": 1550000
+      },
+      {
+        "listing_id": "pg-500201003",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View",
+        "price": 1230000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500190582",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View",
+        "last_price": 1380000
+      },
+      {
+        "listing_id": "pg-500200564",
+        "property_name": "Oasis Garden",
+        "address": "51 Jalan Bunga Rampai",
+        "last_price": 1580000
+      }
+    ],
+    "price_changes": []
   }
 ]

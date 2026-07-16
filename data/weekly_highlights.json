@@ -12245,5 +12245,19 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-07-10",
+    "week_end": "2026-07-16",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500022331",
+        "property_name": "Affinity At Serangoon",
+        "address": "Hougang / Punggol / Sengkang, Serangoon / Thomson (D19-20)",
+        "last_price": 1399015
+      }
+    ],
+    "price_changes": []
   }
 ]

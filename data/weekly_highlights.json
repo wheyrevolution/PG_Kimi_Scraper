@@ -12259,5 +12259,273 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-07-24",
+    "week_end": "2026-07-30",
+    "new_listings": [
+      {
+        "listing_id": "pg-500200706",
+        "property_name": "Affinity At Serangoon",
+        "address": "18 Serangoon North Avenue 1",
+        "price": 1380000
+      },
+      {
+        "listing_id": "pg-500010094",
+        "property_name": "Viva Vista",
+        "address": "3 South Buona Vista Road",
+        "price": 1299999
+      },
+      {
+        "listing_id": "pg-500110236",
+        "property_name": "The Rivervale",
+        "address": "3 Rivervale Link",
+        "price": 1550000
+      },
+      {
+        "listing_id": "pg-500217816",
+        "property_name": "Loft @ Rangoon",
+        "address": "113 Rangoon Road",
+        "price": 1150000
+      },
+      {
+        "listing_id": "pg-500202437",
+        "property_name": "Yew Mei Green",
+        "address": "50 Choa Chu Kang North 6",
+        "price": 1410000
+      },
+      {
+        "listing_id": "pg-500205147",
+        "property_name": "Kandis Residence",
+        "address": "2 Kandis Link",
+        "price": 1280000
+      },
+      {
+        "listing_id": "pg-24640515",
+        "property_name": "Kingsford Waterbay",
+        "address": "76 Upper Serangoon View",
+        "price": 1258888
+      },
+      {
+        "listing_id": "pg-500218205",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close",
+        "price": 1200000
+      },
+      {
+        "listing_id": "pg-500211027",
+        "property_name": "Seletar Park Residence",
+        "address": "21 Seletar Road",
+        "price": 1280000
+      },
+      {
+        "listing_id": "pg-500209748",
+        "property_name": "Kingsford Waterbay",
+        "address": "76 Upper Serangoon View",
+        "price": 1298000
+      },
+      {
+        "listing_id": "pg-500212179",
+        "property_name": "Daisy Suites",
+        "address": "35 Daisy Road Singapore",
+        "price": 1180000
+      },
+      {
+        "listing_id": "pg-60233729",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road",
+        "price": 1239888
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-25586522",
+        "property_name": "Floraville",
+        "address": "2 Cactus Road",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500081331",
+        "property_name": "Seletar Park Residence",
+        "address": "21 Seletar Road",
+        "last_price": 1258000
+      },
+      {
+        "listing_id": "pg-21334482",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "last_price": 1230000
+      },
+      {
+        "listing_id": "pg-60220064",
+        "property_name": "Flora View",
+        "address": "5 Ang Mo Kio Street 66",
+        "last_price": 1050000
+      },
+      {
+        "listing_id": "pg-25430133",
+        "property_name": "Kingsford Waterbay",
+        "address": "64 Upper Serangoon View",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-20127981",
+        "property_name": "Riversails",
+        "address": "8 Upper Serangoon Crescent",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-25251913",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-23944833",
+        "property_name": "Kingsford Waterbay",
+        "address": "70 Upper Serangoon View",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-60053281",
+        "property_name": "The Verve",
+        "address": "23 Jalan Rajah Road",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-25402646",
+        "property_name": "Normanton Park",
+        "address": "55 Normanton Park",
+        "last_price": 1388000
+      },
+      {
+        "listing_id": "pg-24428725",
+        "property_name": "Kingsford Waterbay",
+        "address": "50 Upper Serangoon View",
+        "last_price": 1299999
+      },
+      {
+        "listing_id": "pg-25575790",
+        "property_name": "The Florence Residences",
+        "address": "99 Hougang Avenue 2",
+        "last_price": 1399999
+      },
+      {
+        "listing_id": "pg-500200564",
+        "property_name": "Oasis Garden",
+        "address": "51 Jalan Bunga Rampai",
+        "last_price": 1580000
+      },
+      {
+        "listing_id": "pg-500201891",
+        "property_name": "The Florence Residences",
+        "address": "89 Hougang Avenue 2",
+        "last_price": 1325000
+      },
+      {
+        "listing_id": "pg-500185733",
+        "property_name": "The Vales",
+        "address": "77 Anchorvale Crescent",
+        "last_price": 1548888
+      },
+      {
+        "listing_id": "pg-500200380",
+        "property_name": "Icon @ Pasir Panjang",
+        "address": "218 Pasir Panjang Road",
+        "last_price": 1550000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-60245510",
+        "property_name": "Kovan Grandeur",
+        "address": "",
+        "old_price": 1050000,
+        "new_price": 1055000,
+        "change_amount": 5000,
+        "change_percent": 0.5
+      },
+      {
+        "listing_id": "pg-60217916",
+        "property_name": "Kovan Grandeur",
+        "address": "",
+        "old_price": 1050000,
+        "new_price": 1055000,
+        "change_amount": 5000,
+        "change_percent": 0.5
+      },
+      {
+        "listing_id": "pg-24689517",
+        "property_name": "Kovan Grandeur",
+        "address": "",
+        "old_price": 985000,
+        "new_price": 990000,
+        "change_amount": 5000,
+        "change_percent": 0.5
+      },
+      {
+        "listing_id": "pg-500168279",
+        "property_name": "Loft @ Rangoon",
+        "address": "",
+        "old_price": 1180000,
+        "new_price": 1150000,
+        "change_amount": -30000,
+        "change_percent": -2.5
+      },
+      {
+        "listing_id": "pg-500156780",
+        "property_name": "$5280/mth rent! Freehold Dual Key - Super High Rental Yield Condo",
+        "address": "",
+        "old_price": 1380008,
+        "new_price": 1200000,
+        "change_amount": -180008,
+        "change_percent": -13.0
+      },
+      {
+        "listing_id": "pg-500134444",
+        "property_name": "Seletar Park Residence",
+        "address": "",
+        "old_price": 1280000,
+        "new_price": 1200000,
+        "change_amount": -80000,
+        "change_percent": -6.2
+      },
+      {
+        "listing_id": "pg-500177899",
+        "property_name": "Vibes @ Kovan",
+        "address": "",
+        "old_price": 1150000,
+        "new_price": 1100000,
+        "change_amount": -50000,
+        "change_percent": -4.3
+      },
+      {
+        "listing_id": "pg-24747153",
+        "property_name": "Bliss Loft",
+        "address": "",
+        "old_price": 1139000,
+        "new_price": 1180000,
+        "change_amount": 41000,
+        "change_percent": 3.6
+      },
+      {
+        "listing_id": "pg-500172112",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1285000,
+        "new_price": 1280000,
+        "change_amount": -5000,
+        "change_percent": -0.4
+      },
+      {
+        "listing_id": "pg-60205966",
+        "property_name": "M66",
+        "address": "",
+        "old_price": 1288888,
+        "new_price": 1300000,
+        "change_amount": 11112,
+        "change_percent": 0.9
+      }
+    ]
   }
 ]

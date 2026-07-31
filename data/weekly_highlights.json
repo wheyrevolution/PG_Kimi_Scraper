@@ -12527,5 +12527,57 @@
         "change_percent": 0.9
       }
     ]
+  },
+  {
+    "week_start": "2026-07-25",
+    "week_end": "2026-07-31",
+    "new_listings": [
+      {
+        "listing_id": "pg-25577108",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "price": 1298888
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500041786",
+        "property_name": "The Brownstone",
+        "address": "160 Canberra Drive",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-500202437",
+        "property_name": "Yew Mei Green",
+        "address": "50 Choa Chu Kang North 6",
+        "last_price": 1410000
+      },
+      {
+        "listing_id": "pg-500205147",
+        "property_name": "Kandis Residence",
+        "address": "2 Kandis Link",
+        "last_price": 1280000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500135275",
+        "property_name": "Seletar Park Residence",
+        "address": "",
+        "old_price": 1280000,
+        "new_price": 1200000,
+        "change_amount": -80000,
+        "change_percent": -6.2
+      },
+      {
+        "listing_id": "pg-500211027",
+        "property_name": "Seletar Park Residence",
+        "address": "",
+        "old_price": 1280000,
+        "new_price": 1200000,
+        "change_amount": -80000,
+        "change_percent": -6.2
+      }
+    ]
   }
 ]

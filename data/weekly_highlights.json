@@ -12640,5 +12640,57 @@
         "change_percent": -6.3
       }
     ]
+  },
+  {
+    "week_start": "2026-07-27",
+    "week_end": "2026-08-02",
+    "new_listings": [
+      {
+        "listing_id": "pg-500208337",
+        "property_name": "Narra Residences",
+        "address": "Dairy Farm / Bukit Panjang / Choa Chu Kang, West (D22-24)",
+        "price": 1580000
+      },
+      {
+        "listing_id": "pg-500220805",
+        "property_name": "Daisy Suites",
+        "address": "35 Daisy Road Singapore",
+        "price": 1000000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500043371",
+        "property_name": "The Minton",
+        "address": "147 Hougang Street 11",
+        "last_price": 1580000
+      },
+      {
+        "listing_id": "pg-500144794",
+        "property_name": "Eco Sanctuary",
+        "address": "61 Chestnut Avenue",
+        "last_price": 1188000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500052088",
+        "property_name": "Suites@Braddell",
+        "address": "",
+        "old_price": 1050000,
+        "new_price": 1130000,
+        "change_amount": 80000,
+        "change_percent": 7.6
+      },
+      {
+        "listing_id": "pg-500156780",
+        "property_name": "$5280/mth rent! Freehold Dual Key - Super High Rental Yield Condo",
+        "address": "",
+        "old_price": 1200000,
+        "new_price": 1250000,
+        "change_amount": 50000,
+        "change_percent": 4.2
+      }
+    ]
   }
 ]

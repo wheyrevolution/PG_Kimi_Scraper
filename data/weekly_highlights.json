@@ -12692,5 +12692,25 @@
         "change_percent": 4.2
       }
     ]
+  },
+  {
+    "week_start": "2026-07-28",
+    "week_end": "2026-08-03",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60084695",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "last_price": 1050000
+      },
+      {
+        "listing_id": "pg-500208337",
+        "property_name": "Narra Residences",
+        "address": "Dairy Farm / Bukit Panjang / Choa Chu Kang, West (D22-24)",
+        "last_price": 1580000
+      }
+    ],
+    "price_changes": []
   }
 ]

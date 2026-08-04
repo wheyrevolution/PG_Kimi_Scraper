@@ -2458,5 +2458,41 @@
     "change_percent": 4.2,
     "recorded_at": "2026-08-02",
     "notes": "Price changed from S$1,200,000"
+  },
+  {
+    "id": "ph-f9211107",
+    "listing_id": "pg-24689517",
+    "property_id": "prop-ec8840ab",
+    "property_name": "Kovan Grandeur",
+    "price": 1000000,
+    "psf": 1345.9,
+    "change_amount": 10000,
+    "change_percent": 1.0,
+    "recorded_at": "2026-08-04",
+    "notes": "Price changed from S$990,000"
+  },
+  {
+    "id": "ph-4054cbba",
+    "listing_id": "pg-25402646",
+    "property_id": "prop-08e299cf",
+    "property_name": "Normanton Park",
+    "price": 1358000,
+    "psf": 1968.12,
+    "change_amount": 58000,
+    "change_percent": 4.5,
+    "recorded_at": "2026-08-04",
+    "notes": "Price changed from S$1,300,000"
+  },
+  {
+    "id": "ph-0ef4fe76",
+    "listing_id": "pg-500172112",
+    "property_id": "prop-fea4ee39",
+    "property_name": "Kingsford Waterbay",
+    "price": 1270000,
+    "psf": 1475.03,
+    "change_amount": -10000,
+    "change_percent": -0.8,
+    "recorded_at": "2026-08-04",
+    "notes": "Price changed from S$1,280,000"
   }
 ]

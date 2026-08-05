@@ -12773,5 +12773,60 @@
         "change_percent": -0.8
       }
     ]
+  },
+  {
+    "week_start": "2026-07-30",
+    "week_end": "2026-08-05",
+    "new_listings": [
+      {
+        "listing_id": "pg-25408471",
+        "property_name": "The Rivervale",
+        "address": "1 Rivervale Link",
+        "price": 1430000
+      },
+      {
+        "listing_id": "pg-500223490",
+        "property_name": "Loft @ Rangoon",
+        "address": "113 Rangoon Road",
+        "price": 1150000
+      },
+      {
+        "listing_id": "pg-24367455",
+        "property_name": "The Minton",
+        "address": "147 Hougang Street 11",
+        "price": 1480000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500110236",
+        "property_name": "The Rivervale",
+        "address": "3 Rivervale Link",
+        "last_price": 1550000
+      },
+      {
+        "listing_id": "pg-500206611",
+        "property_name": "Affinity At Serangoon",
+        "address": "Hougang / Punggol / Sengkang, Serangoon / Thomson (D19-20)",
+        "last_price": 1450000
+      },
+      {
+        "listing_id": "pg-500208337",
+        "property_name": "Narra Residences",
+        "address": "Dairy Farm / Bukit Panjang / Choa Chu Kang, West (D22-24)",
+        "last_price": 1580000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-24689517",
+        "property_name": "Kovan Grandeur",
+        "address": "",
+        "old_price": 1000000,
+        "new_price": 990000,
+        "change_amount": -10000,
+        "change_percent": -1.0
+      }
+    ]
   }
 ]

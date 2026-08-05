@@ -2494,5 +2494,17 @@
     "change_percent": -0.8,
     "recorded_at": "2026-08-04",
     "notes": "Price changed from S$1,280,000"
+  },
+  {
+    "id": "ph-070b4300",
+    "listing_id": "pg-24689517",
+    "property_id": "prop-29de706f",
+    "property_name": "Kovan Grandeur",
+    "price": 990000,
+    "psf": 1332.44,
+    "change_amount": -10000,
+    "change_percent": -1.0,
+    "recorded_at": "2026-08-05",
+    "notes": "Price changed from S$1,000,000"
   }
 ]

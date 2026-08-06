@@ -2506,5 +2506,29 @@
     "change_percent": -1.0,
     "recorded_at": "2026-08-05",
     "notes": "Price changed from S$1,000,000"
+  },
+  {
+    "id": "ph-31f9b81e",
+    "listing_id": "pg-500161278",
+    "property_id": "prop-e144d4d6",
+    "property_name": "Kingsford Waterbay",
+    "price": 1290000,
+    "psf": 1460.93,
+    "change_amount": -10000,
+    "change_percent": -0.8,
+    "recorded_at": "2026-08-06",
+    "notes": "Price changed from S$1,300,000"
+  },
+  {
+    "id": "ph-f71deae5",
+    "listing_id": "pg-500157594",
+    "property_id": "prop-3898ad3a",
+    "property_name": "Bliss Loft",
+    "price": 1260000,
+    "psf": 1580.93,
+    "change_amount": 60000,
+    "change_percent": 5.0,
+    "recorded_at": "2026-08-06",
+    "notes": "Price changed from S$1,200,000"
   }
 ]

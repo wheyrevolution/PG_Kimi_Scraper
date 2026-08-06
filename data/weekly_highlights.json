@@ -12828,5 +12828,50 @@
         "change_percent": -1.0
       }
     ]
+  },
+  {
+    "week_start": "2026-07-31",
+    "week_end": "2026-08-06",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60092842",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "last_price": 1050000
+      },
+      {
+        "listing_id": "pg-500087971",
+        "property_name": "Riversails",
+        "address": "16 Upper Serangoon Crescent",
+        "last_price": 1318000
+      },
+      {
+        "listing_id": "pg-25402646",
+        "property_name": "Normanton Park",
+        "address": "55 Normanton Park",
+        "last_price": 1358000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500161278",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1290000,
+        "change_amount": -10000,
+        "change_percent": -0.8
+      },
+      {
+        "listing_id": "pg-500157594",
+        "property_name": "Bliss Loft",
+        "address": "",
+        "old_price": 1200000,
+        "new_price": 1260000,
+        "change_amount": 60000,
+        "change_percent": 5.0
+      }
+    ]
   }
 ]

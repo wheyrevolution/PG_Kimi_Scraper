@@ -12873,5 +12873,26 @@
         "change_percent": 5.0
       }
     ]
+  },
+  {
+    "week_start": "2026-08-01",
+    "week_end": "2026-08-07",
+    "new_listings": [
+      {
+        "listing_id": "pg-500226018",
+        "property_name": "Kingsford Waterbay",
+        "address": "66 Upper Serangoon View",
+        "price": 1300000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500206611",
+        "property_name": "Affinity At Serangoon",
+        "address": "Hougang / Punggol / Sengkang, Serangoon / Thomson (D19-20)",
+        "last_price": 1450000
+      }
+    ],
+    "price_changes": []
   }
 ]

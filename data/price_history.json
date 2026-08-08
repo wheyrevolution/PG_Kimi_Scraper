@@ -2530,5 +2530,17 @@
     "change_percent": 5.0,
     "recorded_at": "2026-08-06",
     "notes": "Price changed from S$1,200,000"
+  },
+  {
+    "id": "ph-47855182",
+    "listing_id": "pg-500202437",
+    "property_id": "prop-bf9cc1d7",
+    "property_name": "Yew Mei Green",
+    "price": 1399000,
+    "psf": 1082.82,
+    "change_amount": -11000,
+    "change_percent": -0.8,
+    "recorded_at": "2026-08-08",
+    "notes": "Price changed from S$1,410,000"
   }
 ]

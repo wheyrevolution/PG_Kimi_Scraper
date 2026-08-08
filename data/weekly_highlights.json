@@ -12894,5 +12894,72 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-08-02",
+    "week_end": "2026-08-08",
+    "new_listings": [
+      {
+        "listing_id": "pg-500226910",
+        "property_name": "Casa Rosa",
+        "address": "35 Lorong Ong Lye",
+        "price": 1500000
+      },
+      {
+        "listing_id": "pg-60016205",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "price": 1510000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60071647",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close",
+        "last_price": 1100000
+      },
+      {
+        "listing_id": "pg-60206046",
+        "property_name": "Kingsford Waterbay",
+        "address": "66 Upper Serangoon View",
+        "last_price": 1299999
+      },
+      {
+        "listing_id": "pg-24655575",
+        "property_name": "Ascent @ 456",
+        "address": "456 Balestier Road",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-500039855",
+        "property_name": "Sol Acres",
+        "address": "14 Choa Chu Kang Grove",
+        "last_price": 1145000
+      },
+      {
+        "listing_id": "pg-25402646",
+        "property_name": "Normanton Park",
+        "address": "55 Normanton Park",
+        "last_price": 1358000
+      },
+      {
+        "listing_id": "pg-500196106",
+        "property_name": "The Brownstone",
+        "address": "158 Canberra Drive",
+        "last_price": 1480000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500202437",
+        "property_name": "Yew Mei Green",
+        "address": "",
+        "old_price": 1410000,
+        "new_price": 1399000,
+        "change_amount": -11000,
+        "change_percent": -0.8
+      }
+    ]
   }
 ]

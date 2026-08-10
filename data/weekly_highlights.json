@@ -13028,5 +13028,44 @@
         "change_percent": 6.7
       }
     ]
+  },
+  {
+    "week_start": "2026-08-04",
+    "week_end": "2026-08-10",
+    "new_listings": [
+      {
+        "listing_id": "pg-500226041",
+        "property_name": "River Isles",
+        "address": "52 Edgedale Plains",
+        "price": 1280000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60196607",
+        "property_name": "Vibes @ Upper Serangoon",
+        "address": "488 Upper Serangoon Road",
+        "last_price": 1068000
+      },
+      {
+        "listing_id": "pg-20093925",
+        "property_name": "Carlyx Residence",
+        "address": "39 Carlisle Road",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500143100",
+        "property_name": "Changi Rise Condo",
+        "address": "12 Simei Rise",
+        "last_price": 1550000
+      },
+      {
+        "listing_id": "pg-60220944",
+        "property_name": "Hume Park I",
+        "address": "1 Hume Avenue",
+        "last_price": 1550000
+      }
+    ],
+    "price_changes": []
   }
 ]

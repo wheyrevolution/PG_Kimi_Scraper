@@ -13067,5 +13067,25 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-08-05",
+    "week_end": "2026-08-11",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-25408471",
+        "property_name": "The Rivervale",
+        "address": "1 Rivervale Link",
+        "last_price": 1430000
+      },
+      {
+        "listing_id": "pg-500226910",
+        "property_name": "Casa Rosa",
+        "address": "35 Lorong Ong Lye",
+        "last_price": 1500000
+      }
+    ],
+    "price_changes": []
   }
 ]

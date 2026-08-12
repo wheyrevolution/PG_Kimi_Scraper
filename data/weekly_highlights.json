@@ -13087,5 +13087,60 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-08-06",
+    "week_end": "2026-08-12",
+    "new_listings": [
+      {
+        "listing_id": "pg-500230495",
+        "property_name": "The Sunny Legend",
+        "address": "85 Lorong H Telok Kurau",
+        "price": 1400000
+      },
+      {
+        "listing_id": "pg-25361842",
+        "property_name": "The Red House",
+        "address": "63 East Coast Road",
+        "price": 1450000
+      },
+      {
+        "listing_id": "pg-500177721",
+        "property_name": "Yew Mei Green",
+        "address": "50 Choa Chu Kang North 6",
+        "price": 1258000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-21343635",
+        "property_name": "Boathouse Residences",
+        "address": "21 Upper Serangoon View",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500200706",
+        "property_name": "Affinity At Serangoon",
+        "address": "18 Serangoon North Avenue 1",
+        "last_price": 1380000
+      },
+      {
+        "listing_id": "pg-24367455",
+        "property_name": "The Minton",
+        "address": "147 Hougang Street 11",
+        "last_price": 1480000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500043371",
+        "property_name": "The Minton",
+        "address": "",
+        "old_price": 1580000,
+        "new_price": 1550000,
+        "change_amount": -30000,
+        "change_percent": -1.9
+      }
+    ]
   }
 ]

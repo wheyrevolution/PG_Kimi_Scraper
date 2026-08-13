@@ -13142,5 +13142,36 @@
         "change_percent": -1.9
       }
     ]
+  },
+  {
+    "week_start": "2026-08-07",
+    "week_end": "2026-08-13",
+    "new_listings": [
+      {
+        "listing_id": "pg-500231163",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "price": 1222688
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500226041",
+        "property_name": "River Isles",
+        "address": "52 Edgedale Plains",
+        "last_price": 1280000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-60220944",
+        "property_name": "Hume Park I",
+        "address": "",
+        "old_price": 1550000,
+        "new_price": 1530000,
+        "change_amount": -20000,
+        "change_percent": -1.3
+      }
+    ]
   }
 ]

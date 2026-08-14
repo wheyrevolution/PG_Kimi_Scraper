@@ -13173,5 +13173,47 @@
         "change_percent": -1.3
       }
     ]
+  },
+  {
+    "week_start": "2026-08-08",
+    "week_end": "2026-08-14",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-21773522",
+        "property_name": "Vibes @ Kovan",
+        "address": "93 Kovan Road",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-23947178",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500043371",
+        "property_name": "The Minton",
+        "address": "147 Hougang Street 11",
+        "last_price": 1550000
+      },
+      {
+        "listing_id": "pg-500200706",
+        "property_name": "Affinity At Serangoon",
+        "address": "18 Serangoon North Avenue 1",
+        "last_price": 1380000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500230495",
+        "property_name": "The Sunny Legend",
+        "address": "",
+        "old_price": 1400000,
+        "new_price": 1398000,
+        "change_amount": -2000,
+        "change_percent": -0.1
+      }
+    ]
   }
 ]

@@ -13215,5 +13215,38 @@
         "change_percent": -0.1
       }
     ]
+  },
+  {
+    "week_start": "2026-08-09",
+    "week_end": "2026-08-15",
+    "new_listings": [
+      {
+        "listing_id": "pg-500049066",
+        "property_name": "Kent Ridge Hill Residences",
+        "address": "52 South Buona Vista Road",
+        "price": 1580000
+      },
+      {
+        "listing_id": "pg-500234300",
+        "property_name": "Parc Vera",
+        "address": "Hougang Street 32",
+        "price": 1298000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60220944",
+        "property_name": "Hume Park I",
+        "address": "1 Hume Avenue",
+        "last_price": 1530000
+      },
+      {
+        "listing_id": "pg-500177721",
+        "property_name": "Yew Mei Green",
+        "address": "50 Choa Chu Kang North 6",
+        "last_price": 1258000
+      }
+    ],
+    "price_changes": []
   }
 ]

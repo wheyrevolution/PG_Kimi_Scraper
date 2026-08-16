@@ -13248,5 +13248,56 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-08-10",
+    "week_end": "2026-08-16",
+    "new_listings": [
+      {
+        "listing_id": "pg-500232338",
+        "property_name": "Bartley Residences",
+        "address": "5 Lorong How Sun",
+        "price": 1480000
+      },
+      {
+        "listing_id": "pg-500234596",
+        "property_name": "Affinity At Serangoon",
+        "address": "22 Serangoon North Avenue 1",
+        "price": 1400000
+      },
+      {
+        "listing_id": "pg-500234821",
+        "property_name": "Boathouse Residences",
+        "address": "27 Upper Serangoon View",
+        "price": 1300000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-25506478",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "last_price": 1199999
+      },
+      {
+        "listing_id": "pg-60116246",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66",
+        "last_price": 1150000
+      },
+      {
+        "listing_id": "pg-25361842",
+        "property_name": "The Red House",
+        "address": "63 East Coast Road",
+        "last_price": 1450000
+      },
+      {
+        "listing_id": "pg-500049066",
+        "property_name": "Kent Ridge Hill Residences",
+        "address": "52 South Buona Vista Road",
+        "last_price": 1580000
+      }
+    ],
+    "price_changes": []
   }
 ]

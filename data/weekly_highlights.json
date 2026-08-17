@@ -13299,5 +13299,38 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-08-11",
+    "week_end": "2026-08-17",
+    "new_listings": [
+      {
+        "listing_id": "pg-500232778",
+        "property_name": "Treasure Crest",
+        "address": "60 Anchorvale Crescent",
+        "price": 1530000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500200706",
+        "property_name": "Affinity At Serangoon",
+        "address": "18 Serangoon North Avenue 1",
+        "last_price": 1380000
+      },
+      {
+        "listing_id": "pg-500226041",
+        "property_name": "River Isles",
+        "address": "52 Edgedale Plains",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-500234596",
+        "property_name": "Affinity At Serangoon",
+        "address": "22 Serangoon North Avenue 1",
+        "last_price": 1400000
+      }
+    ],
+    "price_changes": []
   }
 ]

@@ -13364,5 +13364,66 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-08-13",
+    "week_end": "2026-08-19",
+    "new_listings": [
+      {
+        "listing_id": "pg-500237336",
+        "property_name": "The Rivervale",
+        "address": "1 Rivervale Link",
+        "price": 1580000
+      },
+      {
+        "listing_id": "pg-24764852",
+        "property_name": "Normanton Park",
+        "address": "51 Normanton Park",
+        "price": 1399888
+      },
+      {
+        "listing_id": "pg-500237207",
+        "property_name": "The Sunny Legend",
+        "address": "85 Lorong H Telok Kurau",
+        "price": 1398008
+      },
+      {
+        "listing_id": "pg-25014023",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View",
+        "price": 1300000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60202087",
+        "property_name": "Kovan Grandeur",
+        "address": "118 Tampines Road",
+        "last_price": 1055000
+      },
+      {
+        "listing_id": "pg-500200706",
+        "property_name": "Affinity At Serangoon",
+        "address": "18 Serangoon North Avenue 1",
+        "last_price": 1380000
+      },
+      {
+        "listing_id": "pg-500232338",
+        "property_name": "Bartley Residences",
+        "address": "5 Lorong How Sun",
+        "last_price": 1480000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500199486",
+        "property_name": "RiverBay",
+        "address": "",
+        "old_price": 1280000,
+        "new_price": 1249000,
+        "change_amount": -31000,
+        "change_percent": -2.4
+      }
+    ]
   }
 ]

@@ -2590,5 +2590,17 @@
     "change_percent": -0.1,
     "recorded_at": "2026-08-14",
     "notes": "Price changed from S$1,400,000"
+  },
+  {
+    "id": "ph-5f289ce3",
+    "listing_id": "pg-500199486",
+    "property_id": "prop-c48fcaeb",
+    "property_name": "RiverBay",
+    "price": 1249000,
+    "psf": 1658.7,
+    "change_amount": -31000,
+    "change_percent": -2.4,
+    "recorded_at": "2026-08-19",
+    "notes": "Price changed from S$1,280,000"
   }
 ]

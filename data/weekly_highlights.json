@@ -13425,5 +13425,44 @@
         "change_percent": -2.4
       }
     ]
+  },
+  {
+    "week_start": "2026-08-14",
+    "week_end": "2026-08-20",
+    "new_listings": [
+      {
+        "listing_id": "pg-25602294",
+        "property_name": "The Visionaire",
+        "address": "196 Canberra Drive",
+        "price": 1390000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500156780",
+        "property_name": "$5280/mth rent! Freehold Dual Key - Super High Rental Yield Condo",
+        "address": "Buona Vista / West Coast / Clementi New Town, City & South West (D01-08)",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-60220944",
+        "property_name": "Hume Park I",
+        "address": "1 Hume Avenue",
+        "last_price": 1530000
+      },
+      {
+        "listing_id": "pg-500234596",
+        "property_name": "Affinity At Serangoon",
+        "address": "22 Serangoon North Avenue 1",
+        "last_price": 1400000
+      },
+      {
+        "listing_id": "pg-500237336",
+        "property_name": "The Rivervale",
+        "address": "1 Rivervale Link",
+        "last_price": 1580000
+      }
+    ],
+    "price_changes": []
   }
 ]

@@ -13464,5 +13464,41 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-08-15",
+    "week_end": "2026-08-21",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-24747153",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-500158867",
+        "property_name": "Melville Park",
+        "address": "28 Simei Street 1",
+        "last_price": 1412000
+      },
+      {
+        "listing_id": "pg-500206611",
+        "property_name": "Affinity At Serangoon",
+        "address": "Hougang / Punggol / Sengkang, Serangoon / Thomson (D19-20)",
+        "last_price": 1450000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500022331",
+        "property_name": "Affinity At Serangoon",
+        "address": "",
+        "old_price": 1399015,
+        "new_price": 1395444,
+        "change_amount": -3571,
+        "change_percent": -0.3
+      }
+    ]
   }
 ]

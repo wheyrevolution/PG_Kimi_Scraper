@@ -2602,5 +2602,17 @@
     "change_percent": -2.4,
     "recorded_at": "2026-08-19",
     "notes": "Price changed from S$1,280,000"
+  },
+  {
+    "id": "ph-5fd1ff6e",
+    "listing_id": "pg-500022331",
+    "property_id": "prop-bfddaabd",
+    "property_name": "Affinity At Serangoon",
+    "price": 1395444,
+    "psf": 1906.34,
+    "change_amount": -3571,
+    "change_percent": -0.3,
+    "recorded_at": "2026-08-21",
+    "notes": "Price changed from S$1,399,015"
   }
 ]

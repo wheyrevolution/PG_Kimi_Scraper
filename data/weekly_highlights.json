@@ -13500,5 +13500,55 @@
         "change_percent": -0.3
       }
     ]
+  },
+  {
+    "week_start": "2026-08-16",
+    "week_end": "2026-08-22",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60207746",
+        "property_name": "Vibes @ Upper Serangoon",
+        "address": "488 Upper Serangoon Road",
+        "last_price": 1069000
+      },
+      {
+        "listing_id": "pg-60205966",
+        "property_name": "M66",
+        "address": "66 Moonstone Lane",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500135275",
+        "property_name": "Seletar Park Residence",
+        "address": "21 Seletar Road",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500136309",
+        "property_name": "Gillenia",
+        "address": "35 Rosyth Road",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500156780",
+        "property_name": "$5280/mth rent! Freehold Dual Key - Super High Rental Yield Condo",
+        "address": "Buona Vista / West Coast / Clementi New Town, City & South West (D01-08)",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500232338",
+        "property_name": "Bartley Residences",
+        "address": "5 Lorong How Sun",
+        "last_price": 1480000
+      },
+      {
+        "listing_id": "pg-500237207",
+        "property_name": "The Sunny Legend",
+        "address": "85 Lorong H Telok Kurau",
+        "last_price": 1398008
+      }
+    ],
+    "price_changes": []
   }
 ]

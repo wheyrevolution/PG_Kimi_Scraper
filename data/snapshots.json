@@ -1370,5 +1370,19 @@
     "avg_price": 1243055,
     "avg_psf": 1480.89,
     "created_at": "2026-08-22T03:04:38.421357"
+  },
+  {
+    "id": "snap-755eacc3",
+    "week_start": "2026-08-17",
+    "week_end": "2026-08-23",
+    "total_listings": 383,
+    "active_listings": 74,
+    "inactive_listings": 309,
+    "new_listings": 1,
+    "went_inactive": 14,
+    "price_changes": 0,
+    "avg_price": 1239802,
+    "avg_psf": 1464.85,
+    "created_at": "2026-08-23T03:12:43.330890"
   }
 ]

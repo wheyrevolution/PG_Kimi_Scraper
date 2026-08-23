@@ -13550,5 +13550,104 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-08-17",
+    "week_end": "2026-08-23",
+    "new_listings": [
+      {
+        "listing_id": "pg-500242078",
+        "property_name": "Boathouse Residences",
+        "address": "29 Upper Serangoon View",
+        "price": 1220000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60077577",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-21050612",
+        "property_name": "Alexis",
+        "address": "356 Alexandra Road",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500063149",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500063001",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500120092",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road",
+        "last_price": 1260000
+      },
+      {
+        "listing_id": "pg-500134444",
+        "property_name": "Seletar Park Residence",
+        "address": "21 Seletar Road",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500179426",
+        "property_name": "Austville Residences",
+        "address": "11 Sengkang East Avenue",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500022331",
+        "property_name": "Affinity At Serangoon",
+        "address": "Hougang / Punggol / Sengkang, Serangoon / Thomson (D19-20)",
+        "last_price": 1395444
+      },
+      {
+        "listing_id": "pg-500199486",
+        "property_name": "RiverBay",
+        "address": "23 Mar Thoma Road",
+        "last_price": 1249000
+      },
+      {
+        "listing_id": "pg-60233729",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road",
+        "last_price": 1239888
+      },
+      {
+        "listing_id": "pg-25577108",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat",
+        "last_price": 1298888
+      },
+      {
+        "listing_id": "pg-500222160",
+        "property_name": "Parc Vera",
+        "address": "2 Hougang Street 32",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500234300",
+        "property_name": "Parc Vera",
+        "address": "Hougang Street 32",
+        "last_price": 1298000
+      },
+      {
+        "listing_id": "pg-500234596",
+        "property_name": "Affinity At Serangoon",
+        "address": "22 Serangoon North Avenue 1",
+        "last_price": 1400000
+      }
+    ],
+    "price_changes": []
   }
 ]

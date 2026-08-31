@@ -14201,5 +14201,92 @@
         "change_percent": -3.3
       }
     ]
+  },
+  {
+    "week_start": "2026-08-25",
+    "week_end": "2026-08-31",
+    "new_listings": [
+      {
+        "listing_id": "pg-500117267",
+        "property_name": "North Gaia",
+        "address": "27 Yishun Close, Sembawang / Yishun",
+        "price": 1550000
+      },
+      {
+        "listing_id": "pg-25599602",
+        "property_name": "Avenue South Residence",
+        "address": "1 Silat Avenue, Alexandra / Commonwealth",
+        "price": 1480000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-0",
+        "property_name": "Gillenia",
+        "address": "35 Rosyth Road, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-1",
+        "property_name": "Avenue South Residence",
+        "address": "1 Silat Avenue, Alexandra / Commonwealth",
+        "last_price": 1480000
+      },
+      {
+        "listing_id": "pg-2",
+        "property_name": "Vibes @ Kovan",
+        "address": "93 Kovan Road, Hougang / Punggol / Sengkang",
+        "last_price": 1100000
+      },
+      {
+        "listing_id": "pg-3",
+        "property_name": "Leith Grove",
+        "address": "6 Leith Park, Hougang / Punggol / Sengkang",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-4",
+        "property_name": "Leith Grove",
+        "address": "6 Leith Park, Hougang / Punggol / Sengkang",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-5",
+        "property_name": "Leith Grove",
+        "address": "6 Leith Park, Hougang / Punggol / Sengkang",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-6",
+        "property_name": "The Skywoods",
+        "address": "7 Dairy Farm Heights, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 1232000
+      },
+      {
+        "listing_id": "pg-7",
+        "property_name": "UNDERVALUED FREEHOLD SPACIOUS 2BR Leith Grove | D19 | Serangoon Gardens | Landed | Rosyth School",
+        "address": "Hougang / Punggol / Sengkang",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-8",
+        "property_name": "Vibes @ Kovan",
+        "address": "93 Kovan Road, Hougang / Punggol / Sengkang",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-9",
+        "property_name": "iSuites @ Palm",
+        "address": "24 GLASGOW ROAD, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-10",
+        "property_name": "Treasure Mansions",
+        "address": "15 Rosyth Avenue, Hougang / Punggol / Sengkang",
+        "last_price": 1188888
+      }
+    ],
+    "price_changes": []
   }
 ]

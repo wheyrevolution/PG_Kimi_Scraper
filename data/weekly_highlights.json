@@ -14288,5 +14288,19 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-08-26",
+    "week_end": "2026-09-01",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-25599602",
+        "property_name": "Avenue South Residence",
+        "address": "1 Silat Avenue, Alexandra / Commonwealth",
+        "last_price": 1480000
+      }
+    ],
+    "price_changes": []
   }
 ]

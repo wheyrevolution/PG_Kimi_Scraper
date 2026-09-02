@@ -14302,5 +14302,26 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-08-27",
+    "week_end": "2026-09-02",
+    "new_listings": [
+      {
+        "listing_id": "pg-60160052",
+        "property_name": "The Skywoods",
+        "address": "7 Dairy Farm Heights, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "price": 1232000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500232338",
+        "property_name": "Bartley Residences",
+        "address": "5 Lorong How Sun, Hougang / Punggol / Sengkang",
+        "last_price": 1480000
+      }
+    ],
+    "price_changes": []
   }
 ]

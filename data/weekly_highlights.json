@@ -14323,5 +14323,19 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-08-28",
+    "week_end": "2026-09-03",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60160052",
+        "property_name": "The Skywoods",
+        "address": "7 Dairy Farm Heights, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 1232000
+      }
+    ],
+    "price_changes": []
   }
 ]

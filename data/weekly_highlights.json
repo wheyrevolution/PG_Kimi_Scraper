@@ -14337,5 +14337,19 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-08-29",
+    "week_end": "2026-09-04",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500179426",
+        "property_name": "Austville Residences",
+        "address": "11 Sengkang East Avenue, Hougang / Punggol / Sengkang",
+        "last_price": 1200000
+      }
+    ],
+    "price_changes": []
   }
 ]

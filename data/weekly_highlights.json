@@ -14351,5 +14351,32 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-08-30",
+    "week_end": "2026-09-05",
+    "new_listings": [
+      {
+        "listing_id": "pg-500239927",
+        "property_name": "Mont Botanik Residence",
+        "address": "2L Jalan Remaja, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "price": 1330000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500232338",
+        "property_name": "Bartley Residences",
+        "address": "5 Lorong How Sun, Hougang / Punggol / Sengkang",
+        "last_price": 1480000
+      },
+      {
+        "listing_id": "pg-500117267",
+        "property_name": "North Gaia",
+        "address": "27 Yishun Close, Sembawang / Yishun",
+        "last_price": 1550000
+      }
+    ],
+    "price_changes": []
   }
 ]

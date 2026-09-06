@@ -14378,5 +14378,38 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-08-31",
+    "week_end": "2026-09-06",
+    "new_listings": [
+      {
+        "listing_id": "pg-60202791",
+        "property_name": "Dover Parkview",
+        "address": "34 Dover Rise, Buona Vista / West Coast / Clementi New Town",
+        "price": 1328888
+      },
+      {
+        "listing_id": "pg-500252886",
+        "property_name": "Astoria Park",
+        "address": "34 Lorong Mydin, Eunos / Geylang / Paya Lebar",
+        "price": 1400000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500179426",
+        "property_name": "Austville Residences",
+        "address": "11 Sengkang East Avenue, Hougang / Punggol / Sengkang",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500239927",
+        "property_name": "Mont Botanik Residence",
+        "address": "2L Jalan Remaja, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 1330000
+      }
+    ],
+    "price_changes": []
   }
 ]

@@ -14411,5 +14411,32 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-09-01",
+    "week_end": "2026-09-07",
+    "new_listings": [
+      {
+        "listing_id": "pg-500254278",
+        "property_name": "Blossom Residences",
+        "address": "32 Segar Road, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "price": 1550000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60202791",
+        "property_name": "Dover Parkview",
+        "address": "34 Dover Rise, Buona Vista / West Coast / Clementi New Town",
+        "last_price": 1328888
+      },
+      {
+        "listing_id": "pg-500252886",
+        "property_name": "Astoria Park",
+        "address": "34 Lorong Mydin, Eunos / Geylang / Paya Lebar",
+        "last_price": 1400000
+      }
+    ],
+    "price_changes": []
   }
 ]

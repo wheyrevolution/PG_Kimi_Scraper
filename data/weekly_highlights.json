@@ -14438,5 +14438,19 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-09-02",
+    "week_end": "2026-09-08",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500254278",
+        "property_name": "Blossom Residences",
+        "address": "32 Segar Road, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 1550000
+      }
+    ],
+    "price_changes": []
   }
 ]

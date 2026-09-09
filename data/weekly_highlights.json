@@ -14452,5 +14452,26 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-09-03",
+    "week_end": "2026-09-09",
+    "new_listings": [
+      {
+        "listing_id": "pg-25520503",
+        "property_name": "Riversails",
+        "address": "24 Upper Serangoon Crescent, Hougang / Punggol / Sengkang",
+        "price": 1380000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60202791",
+        "property_name": "Dover Parkview",
+        "address": "34 Dover Rise, Buona Vista / West Coast / Clementi New Town",
+        "last_price": 1328888
+      }
+    ],
+    "price_changes": []
   }
 ]

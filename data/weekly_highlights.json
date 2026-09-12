@@ -14473,5 +14473,26 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-09-06",
+    "week_end": "2026-09-12",
+    "new_listings": [
+      {
+        "listing_id": "pg-500081681",
+        "property_name": "The Alps Residences",
+        "address": "Tampines Avenue 10, Pasir Ris / Tampines",
+        "price": 1150000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-25520503",
+        "property_name": "Riversails",
+        "address": "24 Upper Serangoon Crescent, Hougang / Punggol / Sengkang",
+        "last_price": 1380000
+      }
+    ],
+    "price_changes": []
   }
 ]

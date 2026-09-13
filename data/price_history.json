@@ -2746,5 +2746,41 @@
     "change_percent": -3.3,
     "recorded_at": "2026-08-30",
     "notes": "Price changed from S$1,230,000"
+  },
+  {
+    "id": "ph-74926a3f",
+    "listing_id": "pg-6",
+    "property_id": "prop-99202879",
+    "property_name": "Watercolours",
+    "price": 1560000,
+    "psf": 1950.0,
+    "change_amount": 328000,
+    "change_percent": 26.6,
+    "recorded_at": "2026-09-13",
+    "notes": "Price changed from S$1,232,000"
+  },
+  {
+    "id": "ph-af1c174d",
+    "listing_id": "pg-8",
+    "property_id": "prop-7ce26dcd",
+    "property_name": "iSuites @ Palm",
+    "price": 1280000,
+    "psf": 1600.0,
+    "change_amount": 80000,
+    "change_percent": 6.7,
+    "recorded_at": "2026-09-13",
+    "notes": "Price changed from S$1,200,000"
+  },
+  {
+    "id": "ph-64fdcf62",
+    "listing_id": "pg-9",
+    "property_id": "prop-e369ec7c",
+    "property_name": "Vibes @ Kovan",
+    "price": 1200000,
+    "psf": 1500.0,
+    "change_amount": -100000,
+    "change_percent": -7.7,
+    "recorded_at": "2026-09-13",
+    "notes": "Price changed from S$1,300,000"
   }
 ]

@@ -1,5 +1,205 @@
 [
   {
+    "id": "prop-4984fc44",
+    "name": "Gillenia",
+    "address": "35 Rosyth Road, Hougang / Punggol / Sengkang",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 893,
+    "top_year": "2011",
+    "tenure": "999-year Leasehold",
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "listing_ids": [
+      "pg-500136309"
+    ],
+    "current_price": 1300000,
+    "current_psf": 1455.77,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-500136309"
+  },
+  {
+    "id": "prop-8d7213a0",
+    "name": "Bartley Residences",
+    "address": "5 Lorong How Sun, Hougang / Punggol / Sengkang",
+    "property_type": "Condominium",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 797,
+    "top_year": "2015",
+    "tenure": "99-year Leasehold",
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "listing_ids": [
+      "pg-500232338"
+    ],
+    "current_price": 1480000,
+    "current_psf": 1856.96,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-500232338"
+  },
+  {
+    "id": "prop-4b516325",
+    "name": "Vibes @ Kovan",
+    "address": "93 Kovan Road, Hougang / Punggol / Sengkang",
+    "property_type": "Condominium",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 753,
+    "top_year": "2015",
+    "tenure": "Freehold",
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "listing_ids": [
+      "pg-500177899"
+    ],
+    "current_price": 1100000,
+    "current_psf": 1460.82,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-500177899"
+  },
+  {
+    "id": "prop-734f4367",
+    "name": "UNDERVALUED FREEHOLD SPACIOUS 2BR Leith Grove | D19 | Serangoon Gardens | Landed | Rosyth School",
+    "address": "Hougang / Punggol / Sengkang",
+    "property_type": "Condominium",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 797,
+    "top_year": "2007",
+    "tenure": "Freehold",
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "listing_ids": [
+      "pg-60063956"
+    ],
+    "current_price": 1180000,
+    "current_psf": 1480.55,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-60063956"
+  },
+  {
+    "id": "prop-11acf201",
+    "name": "Leith Grove",
+    "address": "6 Leith Park, Hougang / Punggol / Sengkang",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 797,
+    "top_year": "2007",
+    "tenure": "Freehold",
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "listing_ids": [
+      "pg-25400322",
+      "pg-60084976",
+      "pg-23756461"
+    ],
+    "current_price": 1180000,
+    "current_psf": 1480.55,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 3,
+    "first_listing": "pg-25400322"
+  },
+  {
+    "id": "prop-27cbc900",
+    "name": "The Florence Residences",
+    "address": "99 Hougang Avenue 2, Hougang / Punggol / Sengkang",
+    "property_type": "Condominium",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 721,
+    "top_year": "2023",
+    "tenure": "99-year Leasehold",
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "listing_ids": [
+      "pg-500261959"
+    ],
+    "current_price": 1499000,
+    "current_psf": 2079.06,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-500261959"
+  },
+  {
+    "id": "prop-dc1b5667",
+    "name": "iSuites @ Palm",
+    "address": "24 GLASGOW ROAD, Hougang / Punggol / Sengkang",
+    "property_type": "Condominium",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 850,
+    "top_year": "2013",
+    "tenure": "999-year Leasehold",
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "listing_ids": [
+      "pg-500080776"
+    ],
+    "current_price": 1280000,
+    "current_psf": 1505.88,
+    "status": "active",
+    "price_changes": 1,
+    "total_listings": 1,
+    "first_listing": "pg-500080776"
+  },
+  {
+    "id": "prop-713e0bd5",
+    "name": "Vibes @ Kovan",
+    "address": "93 Kovan Road, Hougang / Punggol / Sengkang",
+    "property_type": "Condominium",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 786,
+    "top_year": "2015",
+    "tenure": "Freehold",
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "listing_ids": [
+      "pg-21773522"
+    ],
+    "current_price": 1200000,
+    "current_psf": 1526.72,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-21773522"
+  },
+  {
+    "id": "prop-1795ff5b",
+    "name": "Treasure Mansions",
+    "address": "15 Rosyth Avenue, Hougang / Punggol / Sengkang",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 753,
+    "top_year": "2006",
+    "tenure": "Freehold",
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "listing_ids": [
+      "pg-60234628"
+    ],
+    "current_price": 1188888,
+    "current_psf": 1578.87,
+    "status": "active",
+    "price_changes": 0,
+    "total_listings": 1,
+    "first_listing": "pg-60234628"
+  },
+  {
     "id": "prop-b52ed546",
     "name": "Gillenia",
     "address": "35 Rosyth Road, Hougang / Punggol / Sengkang",
@@ -16,7 +216,7 @@
     ],
     "current_price": 1300000,
     "current_psf": 1625.0,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-0"
@@ -38,7 +238,7 @@
     ],
     "current_price": 1480000,
     "current_psf": 1850.0,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-1"
@@ -61,7 +261,7 @@
     ],
     "current_price": 1100000,
     "current_psf": 1375.0,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 1,
     "total_listings": 2,
     "first_listing": "pg-2"
@@ -83,7 +283,7 @@
     ],
     "current_price": 1180000,
     "current_psf": 1475.0,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-3"
@@ -107,7 +307,7 @@
     ],
     "current_price": 1180000,
     "current_psf": 1475.0,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 3,
     "first_listing": "pg-4"
@@ -129,7 +329,7 @@
     ],
     "current_price": 1560000,
     "current_psf": 1950.0,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 1,
     "total_listings": 1,
     "first_listing": "pg-6"
@@ -151,7 +351,7 @@
     ],
     "current_price": 1280000,
     "current_psf": 1600.0,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 1,
     "total_listings": 1,
     "first_listing": "pg-8"
@@ -173,7 +373,7 @@
     ],
     "current_price": 1188888,
     "current_psf": 1486.11,
-    "status": "active",
+    "status": "inactive",
     "price_changes": 0,
     "total_listings": 1,
     "first_listing": "pg-10"

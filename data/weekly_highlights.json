@@ -14596,5 +14596,96 @@
         "change_percent": -7.7
       }
     ]
+  },
+  {
+    "week_start": "2026-09-08",
+    "week_end": "2026-09-14",
+    "new_listings": [
+      {
+        "listing_id": "pg-500261959",
+        "property_name": "The Florence Residences",
+        "address": "99 Hougang Avenue 2, Hougang / Punggol / Sengkang",
+        "price": 1499000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-0",
+        "property_name": "Gillenia",
+        "address": "35 Rosyth Road, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-1",
+        "property_name": "Bartley Residences",
+        "address": "5 Lorong How Sun, Hougang / Punggol / Sengkang",
+        "last_price": 1480000
+      },
+      {
+        "listing_id": "pg-2",
+        "property_name": "Vibes @ Kovan",
+        "address": "93 Kovan Road, Hougang / Punggol / Sengkang",
+        "last_price": 1100000
+      },
+      {
+        "listing_id": "pg-3",
+        "property_name": "UNDERVALUED FREEHOLD SPACIOUS 2BR Leith Grove | D19 | Serangoon Gardens | Landed | Rosyth School",
+        "address": "Hougang / Punggol / Sengkang",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-4",
+        "property_name": "Leith Grove",
+        "address": "6 Leith Park, Hougang / Punggol / Sengkang",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-5",
+        "property_name": "Leith Grove",
+        "address": "6 Leith Park, Hougang / Punggol / Sengkang",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-6",
+        "property_name": "Watercolours",
+        "address": "25 Pasir Ris Link, Pasir Ris / Tampines",
+        "last_price": 1560000
+      },
+      {
+        "listing_id": "pg-7",
+        "property_name": "Leith Grove",
+        "address": "6 Leith Park, Hougang / Punggol / Sengkang",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-8",
+        "property_name": "iSuites @ Palm",
+        "address": "24 GLASGOW ROAD, Hougang / Punggol / Sengkang",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-9",
+        "property_name": "Vibes @ Kovan",
+        "address": "93 Kovan Road, Hougang / Punggol / Sengkang",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-10",
+        "property_name": "Treasure Mansions",
+        "address": "15 Rosyth Avenue, Hougang / Punggol / Sengkang",
+        "last_price": 1188888
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500080776",
+        "property_name": "iSuites @ Palm",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1280000,
+        "change_amount": -20000,
+        "change_percent": -1.5
+      }
+    ]
   }
 ]

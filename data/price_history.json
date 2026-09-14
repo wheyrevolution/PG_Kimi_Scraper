@@ -2782,5 +2782,17 @@
     "change_percent": -7.7,
     "recorded_at": "2026-09-13",
     "notes": "Price changed from S$1,300,000"
+  },
+  {
+    "id": "ph-38b1f418",
+    "listing_id": "pg-500080776",
+    "property_id": "prop-dc1b5667",
+    "property_name": "iSuites @ Palm",
+    "price": 1280000,
+    "psf": 1505.88,
+    "change_amount": -20000,
+    "change_percent": -1.5,
+    "recorded_at": "2026-09-14",
+    "notes": "Price changed from S$1,300,000"
   }
 ]

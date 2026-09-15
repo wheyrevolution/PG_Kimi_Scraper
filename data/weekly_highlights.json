@@ -14687,5 +14687,26 @@
         "change_percent": -1.5
       }
     ]
+  },
+  {
+    "week_start": "2026-09-09",
+    "week_end": "2026-09-15",
+    "new_listings": [
+      {
+        "listing_id": "pg-500217602",
+        "property_name": "Watercolours",
+        "address": "25 Pasir Ris Link, Pasir Ris / Tampines",
+        "price": 1560000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500261959",
+        "property_name": "The Florence Residences",
+        "address": "99 Hougang Avenue 2, Hougang / Punggol / Sengkang",
+        "last_price": 1499000
+      }
+    ],
+    "price_changes": []
   }
 ]

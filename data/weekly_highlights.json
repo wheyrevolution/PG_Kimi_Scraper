@@ -14708,5 +14708,165 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-09-10",
+    "week_end": "2026-09-16",
+    "new_listings": [
+      {
+        "listing_id": "pg-500249723",
+        "property_name": "Vibes @ Upper Serangoon",
+        "address": "488 Upper Serangoon Road, Hougang / Punggol / Sengkang",
+        "price": 1068000
+      },
+      {
+        "listing_id": "pg-500264193",
+        "property_name": "Stars of Kovan",
+        "address": "984 Upper Serangoon Road, Hougang / Punggol / Sengkang",
+        "price": 1550000
+      },
+      {
+        "listing_id": "pg-500264751",
+        "property_name": "R66 Apartments",
+        "address": "66 Rangoon Road, Farrer Park / Serangoon Rd",
+        "price": 1500000
+      },
+      {
+        "listing_id": "pg-500231646",
+        "property_name": "Riversails",
+        "address": "8 Upper Serangoon Crescent, Hougang / Punggol / Sengkang",
+        "price": 1280000
+      },
+      {
+        "listing_id": "pg-500231475",
+        "property_name": "Riversails",
+        "address": "8 Upper Serangoon Crescent, Hougang / Punggol / Sengkang",
+        "price": 1280000
+      },
+      {
+        "listing_id": "pg-60084319",
+        "property_name": "Burlington Square",
+        "address": "175B Bencoolen Street, Beach Road / Bugis / Rochor",
+        "price": 1580000
+      },
+      {
+        "listing_id": "pg-500246543",
+        "property_name": "The Verve",
+        "address": "23 Jalan Rajah Road, Balestier / Toa Payoh",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-500253405",
+        "property_name": "Seletar Park Residence",
+        "address": "21 Seletar Road, Seletar / Yio Chu Kang",
+        "price": 1320000
+      },
+      {
+        "listing_id": "pg-500262363",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-60163737",
+        "property_name": "Carlyx Residence",
+        "address": "39 Carlisle Road, Farrer Park / Serangoon Rd",
+        "price": 1200000
+      },
+      {
+        "listing_id": "pg-23916177",
+        "property_name": "Parc Vera",
+        "address": "2 Hougang Street 32, Hougang / Punggol / Sengkang",
+        "price": 1280000
+      },
+      {
+        "listing_id": "pg-500255750",
+        "property_name": "Ritz @ Farrer",
+        "address": "142 Race Course Road, Farrer Park / Serangoon Rd",
+        "price": 1300000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-21773522",
+        "property_name": "Vibes @ Kovan",
+        "address": "93 Kovan Road, Hougang / Punggol / Sengkang",
+        "last_price": 1200000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500166410",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "",
+        "old_price": 1210000,
+        "new_price": 1218000,
+        "change_amount": 8000,
+        "change_percent": 0.7
+      },
+      {
+        "listing_id": "pg-500226018",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1250000,
+        "change_amount": -50000,
+        "change_percent": -3.8
+      },
+      {
+        "listing_id": "pg-500185436",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1250000,
+        "change_amount": -50000,
+        "change_percent": -3.8
+      },
+      {
+        "listing_id": "pg-21343635",
+        "property_name": "Boathouse Residences",
+        "address": "",
+        "old_price": 1200000,
+        "new_price": 1230000,
+        "change_amount": 30000,
+        "change_percent": 2.5
+      },
+      {
+        "listing_id": "pg-60071647",
+        "property_name": "Bliss Loft",
+        "address": "",
+        "old_price": 1100000,
+        "new_price": 1180000,
+        "change_amount": 80000,
+        "change_percent": 7.3
+      },
+      {
+        "listing_id": "pg-20127981",
+        "property_name": "Riversails",
+        "address": "",
+        "old_price": 1280000,
+        "new_price": 1300000,
+        "change_amount": 20000,
+        "change_percent": 1.6
+      },
+      {
+        "listing_id": "pg-500234821",
+        "property_name": "Boathouse Residences",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1299999,
+        "change_amount": -1,
+        "change_percent": -0.0
+      },
+      {
+        "listing_id": "pg-60167508",
+        "property_name": "Ascent @ 456",
+        "address": "",
+        "old_price": 1180000,
+        "new_price": 1248000,
+        "change_amount": 68000,
+        "change_percent": 5.8
+      }
+    ]
   }
 ]

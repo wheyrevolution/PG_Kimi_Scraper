@@ -2794,5 +2794,101 @@
     "change_percent": -1.5,
     "recorded_at": "2026-09-14",
     "notes": "Price changed from S$1,300,000"
+  },
+  {
+    "id": "ph-f8a7870f",
+    "listing_id": "pg-500166410",
+    "property_id": "prop-6dcd5c76",
+    "property_name": "The Promenade @ Pelikat",
+    "price": 1218000,
+    "psf": 1301.28,
+    "change_amount": 8000,
+    "change_percent": 0.7,
+    "recorded_at": "2026-09-16",
+    "notes": "Price changed from S$1,210,000"
+  },
+  {
+    "id": "ph-104e7c88",
+    "listing_id": "pg-500226018",
+    "property_id": "prop-15062cdb",
+    "property_name": "Kingsford Waterbay",
+    "price": 1250000,
+    "psf": 1415.63,
+    "change_amount": -50000,
+    "change_percent": -3.8,
+    "recorded_at": "2026-09-16",
+    "notes": "Price changed from S$1,300,000"
+  },
+  {
+    "id": "ph-d57e03b5",
+    "listing_id": "pg-500185436",
+    "property_id": "prop-15062cdb",
+    "property_name": "Kingsford Waterbay",
+    "price": 1250000,
+    "psf": 1415.63,
+    "change_amount": -50000,
+    "change_percent": -3.8,
+    "recorded_at": "2026-09-16",
+    "notes": "Price changed from S$1,300,000"
+  },
+  {
+    "id": "ph-9bd50867",
+    "listing_id": "pg-21343635",
+    "property_id": "prop-1c56d04b",
+    "property_name": "Boathouse Residences",
+    "price": 1230000,
+    "psf": 1464.29,
+    "change_amount": 30000,
+    "change_percent": 2.5,
+    "recorded_at": "2026-09-16",
+    "notes": "Price changed from S$1,200,000"
+  },
+  {
+    "id": "ph-004b817c",
+    "listing_id": "pg-60071647",
+    "property_id": "prop-ca8a1904",
+    "property_name": "Bliss Loft",
+    "price": 1180000,
+    "psf": 1480.55,
+    "change_amount": 80000,
+    "change_percent": 7.3,
+    "recorded_at": "2026-09-16",
+    "notes": "Price changed from S$1,100,000"
+  },
+  {
+    "id": "ph-ebb5c43c",
+    "listing_id": "pg-20127981",
+    "property_id": "prop-24e3b8ab",
+    "property_name": "Riversails",
+    "price": 1300000,
+    "psf": 1492.54,
+    "change_amount": 20000,
+    "change_percent": 1.6,
+    "recorded_at": "2026-09-16",
+    "notes": "Price changed from S$1,280,000"
+  },
+  {
+    "id": "ph-9b322898",
+    "listing_id": "pg-500234821",
+    "property_id": "prop-6786cb00",
+    "property_name": "Boathouse Residences",
+    "price": 1299999,
+    "psf": 1547.62,
+    "change_amount": -1,
+    "change_percent": -0.0,
+    "recorded_at": "2026-09-16",
+    "notes": "Price changed from S$1,300,000"
+  },
+  {
+    "id": "ph-d0602ac4",
+    "listing_id": "pg-60167508",
+    "property_id": "prop-c9812282",
+    "property_name": "Ascent @ 456",
+    "price": 1248000,
+    "psf": 1657.37,
+    "change_amount": 68000,
+    "change_percent": 5.8,
+    "recorded_at": "2026-09-16",
+    "notes": "Price changed from S$1,180,000"
   }
 ]

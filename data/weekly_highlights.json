@@ -14868,5 +14868,68 @@
         "change_percent": 5.8
       }
     ]
+  },
+  {
+    "week_start": "2026-09-11",
+    "week_end": "2026-09-17",
+    "new_listings": [
+      {
+        "listing_id": "pg-60163671",
+        "property_name": "The Rivervale",
+        "address": "7 Rivervale Link, Hougang / Punggol / Sengkang",
+        "price": 1530000
+      },
+      {
+        "listing_id": "pg-25564164",
+        "property_name": "The Watergardens",
+        "address": "37 Canberra Drive, Sembawang / Yishun",
+        "price": 1380000
+      },
+      {
+        "listing_id": "pg-500227599",
+        "property_name": "Kandis Residence",
+        "address": "6 Kandis Link, Sembawang / Yishun",
+        "price": 1488000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-23947178",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close, Balestier / Toa Payoh",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500184457",
+        "property_name": "Floraville",
+        "address": "2 Cactus Road, Seletar / Yio Chu Kang",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500223490",
+        "property_name": "Loft @ Rangoon",
+        "address": "113 Rangoon Road, Farrer Park / Serangoon Rd",
+        "last_price": 1150000
+      },
+      {
+        "listing_id": "pg-60202791",
+        "property_name": "Dover Parkview",
+        "address": "34 Dover Rise, Buona Vista / West Coast / Clementi New Town",
+        "last_price": 1328888
+      },
+      {
+        "listing_id": "pg-500264751",
+        "property_name": "R66 Apartments",
+        "address": "66 Rangoon Road, Farrer Park / Serangoon Rd",
+        "last_price": 1500000
+      },
+      {
+        "listing_id": "pg-60084319",
+        "property_name": "Burlington Square",
+        "address": "175B Bencoolen Street, Beach Road / Bugis / Rochor",
+        "last_price": 1580000
+      }
+    ],
+    "price_changes": []
   }
 ]

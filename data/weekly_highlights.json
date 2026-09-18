@@ -14931,5 +14931,26 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-09-12",
+    "week_end": "2026-09-18",
+    "new_listings": [
+      {
+        "listing_id": "pg-500267012",
+        "property_name": "Ascent @ 456",
+        "address": "456 Balestier Road, Balestier / Toa Payoh",
+        "price": 1248000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-25564164",
+        "property_name": "The Watergardens",
+        "address": "37 Canberra Drive, Sembawang / Yishun",
+        "last_price": 1380000
+      }
+    ],
+    "price_changes": []
   }
 ]

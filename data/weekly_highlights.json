@@ -14952,5 +14952,19 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-09-13",
+    "week_end": "2026-09-19",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500172112",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1270000
+      }
+    ],
+    "price_changes": []
   }
 ]

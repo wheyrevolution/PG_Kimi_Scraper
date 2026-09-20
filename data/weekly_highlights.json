@@ -14966,5 +14966,31 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60245510",
+        "property_name": "Kovan Grandeur",
+        "address": "118 Tampines Road, Hougang / Punggol / Sengkang",
+        "last_price": 1055000
+      },
+      {
+        "listing_id": "pg-500217602",
+        "property_name": "Watercolours",
+        "address": "25 Pasir Ris Link, Pasir Ris / Tampines",
+        "last_price": 1560000
+      },
+      {
+        "listing_id": "pg-25564164",
+        "property_name": "The Watergardens",
+        "address": "37 Canberra Drive, Sembawang / Yishun",
+        "last_price": 1380000
+      }
+    ],
+    "price_changes": []
   }
 ]

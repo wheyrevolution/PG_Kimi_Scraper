@@ -14992,5 +14992,32 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-09-15",
+    "week_end": "2026-09-21",
+    "new_listings": [
+      {
+        "listing_id": "pg-500212549",
+        "property_name": "The Trilinq",
+        "address": "28B Jalan Lempeng, Buona Vista / West Coast / Clementi New Town",
+        "price": 1380000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500222160",
+        "property_name": "Parc Vera",
+        "address": "2 Hougang Street 32, Hougang / Punggol / Sengkang",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500227599",
+        "property_name": "Kandis Residence",
+        "address": "6 Kandis Link, Sembawang / Yishun",
+        "last_price": 1488000
+      }
+    ],
+    "price_changes": []
   }
 ]

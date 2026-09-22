@@ -15019,5 +15019,38 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-09-16",
+    "week_end": "2026-09-22",
+    "new_listings": [
+      {
+        "listing_id": "pg-500241700",
+        "property_name": "Changi Rise Condo",
+        "address": "6 Simei Rise, Pasir Ris / Tampines",
+        "price": 1480000
+      },
+      {
+        "listing_id": "pg-500253561",
+        "property_name": "Parkview Apartments",
+        "address": "1 Bukit Batok Street 25, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "price": 998000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500133687",
+        "property_name": "Loft @ Rangoon",
+        "address": "113 Rangoon Road, Farrer Park / Serangoon Rd",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500264193",
+        "property_name": "Stars of Kovan",
+        "address": "984 Upper Serangoon Road, Hougang / Punggol / Sengkang",
+        "last_price": 1550000
+      }
+    ],
+    "price_changes": []
   }
 ]

@@ -15052,5 +15052,72 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-09-17",
+    "week_end": "2026-09-23",
+    "new_listings": [
+      {
+        "listing_id": "pg-500271619",
+        "property_name": "The Hillier",
+        "address": "2 Hillview Rise, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "price": 1400000
+      },
+      {
+        "listing_id": "pg-500024001",
+        "property_name": "Mandarin Gardens",
+        "address": "1 Siglap Road, East Coast / Marine Parade",
+        "price": 1400000
+      },
+      {
+        "listing_id": "pg-500272505",
+        "property_name": "3 @ Phillips",
+        "address": "3 Phillips Avenue, Hougang / Punggol / Sengkang",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-500272444",
+        "property_name": "3 @ Phillips",
+        "address": "3 Phillips Avenue, Hougang / Punggol / Sengkang",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-500224382",
+        "property_name": "Kingsford Waterbay",
+        "address": "78 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "price": 1300000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500212549",
+        "property_name": "The Trilinq",
+        "address": "28B Jalan Lempeng, Buona Vista / West Coast / Clementi New Town",
+        "last_price": 1380000
+      },
+      {
+        "listing_id": "pg-500241700",
+        "property_name": "Changi Rise Condo",
+        "address": "6 Simei Rise, Pasir Ris / Tampines",
+        "last_price": 1480000
+      },
+      {
+        "listing_id": "pg-500253561",
+        "property_name": "Parkview Apartments",
+        "address": "1 Bukit Batok Street 25, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 998000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500087971",
+        "property_name": "Riversails",
+        "address": "",
+        "old_price": 1318000,
+        "new_price": 1308000,
+        "change_amount": -10000,
+        "change_percent": -0.8
+      }
+    ]
   }
 ]

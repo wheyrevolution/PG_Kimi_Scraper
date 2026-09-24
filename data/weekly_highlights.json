@@ -15119,5 +15119,48 @@
         "change_percent": -0.8
       }
     ]
+  },
+  {
+    "week_start": "2026-09-18",
+    "week_end": "2026-09-24",
+    "new_listings": [
+      {
+        "listing_id": "pg-500259580",
+        "property_name": "Regent Park",
+        "address": "Buona Vista / West Coast / Clementi New Town",
+        "price": 1100000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60167508",
+        "property_name": "Ascent @ 456",
+        "address": "456 Balestier Road, Balestier / Toa Payoh",
+        "last_price": 1248000
+      },
+      {
+        "listing_id": "pg-500232338",
+        "property_name": "Bartley Residences",
+        "address": "5 Lorong How Sun, Hougang / Punggol / Sengkang",
+        "last_price": 1480000
+      },
+      {
+        "listing_id": "pg-500242078",
+        "property_name": "Boathouse Residences",
+        "address": "29 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1220000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500172112",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1270000,
+        "new_price": 1280000,
+        "change_amount": 10000,
+        "change_percent": 0.8
+      }
+    ]
   }
 ]

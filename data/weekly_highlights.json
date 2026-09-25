@@ -15162,5 +15162,68 @@
         "change_percent": 0.8
       }
     ]
+  },
+  {
+    "week_start": "2026-09-19",
+    "week_end": "2026-09-25",
+    "new_listings": [
+      {
+        "listing_id": "pg-500259139",
+        "property_name": "The Lenox",
+        "address": "396 Changi Road, Eunos / Geylang / Paya Lebar",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-500274305",
+        "property_name": "Affinity At Serangoon",
+        "address": "18 Serangoon North Avenue 1, Hougang / Punggol / Sengkang",
+        "price": 1499000
+      },
+      {
+        "listing_id": "pg-500181252",
+        "property_name": "Hillview Regency",
+        "address": "28 Bukit Batok East Avenue 2, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "price": 1380000
+      },
+      {
+        "listing_id": "pg-500219863",
+        "property_name": "Hillview Green",
+        "address": "61 Hume Avenue, Clementi Park / Upper Bukit Timah",
+        "price": 1579000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-25577108",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat, Hougang / Punggol / Sengkang",
+        "last_price": 1298888
+      },
+      {
+        "listing_id": "pg-25520503",
+        "property_name": "Riversails",
+        "address": "24 Upper Serangoon Crescent, Hougang / Punggol / Sengkang",
+        "last_price": 1380000
+      },
+      {
+        "listing_id": "pg-60163671",
+        "property_name": "The Rivervale",
+        "address": "7 Rivervale Link, Hougang / Punggol / Sengkang",
+        "last_price": 1530000
+      },
+      {
+        "listing_id": "pg-500271619",
+        "property_name": "The Hillier",
+        "address": "2 Hillview Rise, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 1400000
+      },
+      {
+        "listing_id": "pg-500024001",
+        "property_name": "Mandarin Gardens",
+        "address": "1 Siglap Road, East Coast / Marine Parade",
+        "last_price": 1400000
+      }
+    ],
+    "price_changes": []
   }
 ]

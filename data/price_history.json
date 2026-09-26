@@ -2914,5 +2914,17 @@
     "change_percent": 0.8,
     "recorded_at": "2026-09-24",
     "notes": "Price changed from S$1,270,000"
+  },
+  {
+    "id": "ph-ba578a32",
+    "listing_id": "pg-500253561",
+    "property_id": "prop-e541ea55",
+    "property_name": "Parkview Apartments",
+    "price": 980000,
+    "psf": 1047.01,
+    "change_amount": -18000,
+    "change_percent": -1.8,
+    "recorded_at": "2026-09-26",
+    "notes": "Price changed from S$998,000"
   }
 ]

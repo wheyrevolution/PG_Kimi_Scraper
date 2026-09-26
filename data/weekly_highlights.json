@@ -15225,5 +15225,90 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-09-20",
+    "week_end": "2026-09-26",
+    "new_listings": [
+      {
+        "listing_id": "pg-500225659",
+        "property_name": "Parkview Apartments",
+        "address": "1 Bukit Batok Street 25, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "price": 1168000
+      },
+      {
+        "listing_id": "pg-500137049",
+        "property_name": "Waterwoods",
+        "address": "Punggol Field Walk, Hougang / Punggol / Sengkang",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-500232357",
+        "property_name": "The Verve",
+        "address": "23 Jalan Rajah Road, Balestier / Toa Payoh",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-500274747",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close, Balestier / Toa Payoh",
+        "price": 1220000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60208994",
+        "property_name": "Parc Somme",
+        "address": "62 Somme Road, Farrer Park / Serangoon Rd",
+        "last_price": 1299000
+      },
+      {
+        "listing_id": "pg-23756461",
+        "property_name": "Leith Grove",
+        "address": "6 Leith Park, Hougang / Punggol / Sengkang",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-24747153",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close, Balestier / Toa Payoh",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-500157594",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close, Balestier / Toa Payoh",
+        "last_price": 1260000
+      },
+      {
+        "listing_id": "pg-500274305",
+        "property_name": "Affinity At Serangoon",
+        "address": "18 Serangoon North Avenue 1, Hougang / Punggol / Sengkang",
+        "last_price": 1499000
+      },
+      {
+        "listing_id": "pg-500181252",
+        "property_name": "Hillview Regency",
+        "address": "28 Bukit Batok East Avenue 2, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 1380000
+      },
+      {
+        "listing_id": "pg-500219863",
+        "property_name": "Hillview Green",
+        "address": "61 Hume Avenue, Clementi Park / Upper Bukit Timah",
+        "last_price": 1579000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500253561",
+        "property_name": "Parkview Apartments",
+        "address": "",
+        "old_price": 998000,
+        "new_price": 980000,
+        "change_amount": -18000,
+        "change_percent": -1.8
+      }
+    ]
   }
 ]

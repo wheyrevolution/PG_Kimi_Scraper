@@ -15310,5 +15310,60 @@
         "change_percent": -1.8
       }
     ]
+  },
+  {
+    "week_start": "2026-09-21",
+    "week_end": "2026-09-27",
+    "new_listings": [
+      {
+        "listing_id": "pg-25282406",
+        "property_name": "Rivervale Crest",
+        "address": "5 Rivervale Crescent, Hougang / Punggol / Sengkang",
+        "price": 1100000
+      },
+      {
+        "listing_id": "pg-500275980",
+        "property_name": "Treasure Mansions",
+        "address": "15 Rosyth Avenue, Hougang / Punggol / Sengkang",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-500221531",
+        "property_name": "Kingsford Waterbay",
+        "address": "78 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "price": 1300000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-25488993",
+        "property_name": "Floraville",
+        "address": "2 Cactus Road, Seletar / Yio Chu Kang",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-500253561",
+        "property_name": "Parkview Apartments",
+        "address": "1 Bukit Batok Street 25, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 980000
+      },
+      {
+        "listing_id": "pg-500259139",
+        "property_name": "The Lenox",
+        "address": "396 Changi Road, Eunos / Geylang / Paya Lebar",
+        "last_price": 1300000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-24640515",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1258888,
+        "new_price": 1238888,
+        "change_amount": -20000,
+        "change_percent": -1.6
+      }
+    ]
   }
 ]

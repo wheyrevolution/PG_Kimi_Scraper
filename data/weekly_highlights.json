@@ -15365,5 +15365,93 @@
         "change_percent": -1.6
       }
     ]
+  },
+  {
+    "week_start": "2026-09-22",
+    "week_end": "2026-09-28",
+    "new_listings": [
+      {
+        "listing_id": "pg-500269690",
+        "property_name": "Regent Grove",
+        "address": "54 Choa Chu Kang North 7, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "price": 1048000
+      },
+      {
+        "listing_id": "pg-500270261",
+        "property_name": "Signature At Yishun",
+        "address": "33 Yishun Street 51, Sembawang / Yishun",
+        "price": 1550000
+      },
+      {
+        "listing_id": "pg-500170765",
+        "property_name": "Residences Botanique",
+        "address": "32 Yio Chu Kang Road, Hougang / Punggol / Sengkang",
+        "price": 1550000
+      },
+      {
+        "listing_id": "pg-60201961",
+        "property_name": "Dairy Farm Residences",
+        "address": "8 Dairy Farm Lane, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "price": 1190000
+      },
+      {
+        "listing_id": "pg-500255471",
+        "property_name": "Parc Vera",
+        "address": "10 Hougang Street 32, Hougang / Punggol / Sengkang",
+        "price": 1280000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500136465",
+        "property_name": "Kingsford Waterbay",
+        "address": "76 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500259580",
+        "property_name": "Regent Park",
+        "address": "Buona Vista / West Coast / Clementi New Town",
+        "last_price": 1100000
+      },
+      {
+        "listing_id": "pg-500219863",
+        "property_name": "Hillview Green",
+        "address": "61 Hume Avenue, Clementi Park / Upper Bukit Timah",
+        "last_price": 1579000
+      },
+      {
+        "listing_id": "pg-500225659",
+        "property_name": "Parkview Apartments",
+        "address": "1 Bukit Batok Street 25, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 1168000
+      },
+      {
+        "listing_id": "pg-25282406",
+        "property_name": "Rivervale Crest",
+        "address": "5 Rivervale Crescent, Hougang / Punggol / Sengkang",
+        "last_price": 1100000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500172112",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1280000,
+        "new_price": 1268000,
+        "change_amount": -12000,
+        "change_percent": -0.9
+      },
+      {
+        "listing_id": "pg-25430133",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1250000,
+        "new_price": 1288888,
+        "change_amount": 38888,
+        "change_percent": 3.1
+      }
+    ]
   }
 ]

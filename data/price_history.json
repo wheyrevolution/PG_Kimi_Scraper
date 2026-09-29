@@ -2962,5 +2962,17 @@
     "change_percent": 3.1,
     "recorded_at": "2026-09-28",
     "notes": "Price changed from S$1,250,000"
+  },
+  {
+    "id": "ph-a20b27e4",
+    "listing_id": "pg-500118309",
+    "property_id": "prop-b5d08400",
+    "property_name": "Casa Cambio",
+    "price": 1278000,
+    "psf": 1447.34,
+    "change_amount": -2000,
+    "change_percent": -0.2,
+    "recorded_at": "2026-09-29",
+    "notes": "Price changed from S$1,280,000"
   }
 ]

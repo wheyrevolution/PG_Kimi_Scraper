@@ -15453,5 +15453,60 @@
         "change_percent": 3.1
       }
     ]
+  },
+  {
+    "week_start": "2026-09-23",
+    "week_end": "2026-09-29",
+    "new_listings": [
+      {
+        "listing_id": "pg-500259481",
+        "property_name": "The Florence Residences",
+        "address": "99 Hougang Avenue 2, Hougang / Punggol / Sengkang",
+        "price": 1490000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500217602",
+        "property_name": "Watercolours",
+        "address": "25 Pasir Ris Link, Pasir Ris / Tampines",
+        "last_price": 1560000
+      },
+      {
+        "listing_id": "pg-23916177",
+        "property_name": "Parc Vera",
+        "address": "2 Hougang Street 32, Hougang / Punggol / Sengkang",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-500253561",
+        "property_name": "Parkview Apartments",
+        "address": "1 Bukit Batok Street 25, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 980000
+      },
+      {
+        "listing_id": "pg-500269690",
+        "property_name": "Regent Grove",
+        "address": "54 Choa Chu Kang North 7, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 1048000
+      },
+      {
+        "listing_id": "pg-60201961",
+        "property_name": "Dairy Farm Residences",
+        "address": "8 Dairy Farm Lane, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 1190000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500118309",
+        "property_name": "Casa Cambio",
+        "address": "",
+        "old_price": 1280000,
+        "new_price": 1278000,
+        "change_amount": -2000,
+        "change_percent": -0.2
+      }
+    ]
   }
 ]

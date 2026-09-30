@@ -15508,5 +15508,72 @@
         "change_percent": -0.2
       }
     ]
+  },
+  {
+    "week_start": "2026-09-24",
+    "week_end": "2026-09-30",
+    "new_listings": [
+      {
+        "listing_id": "pg-500277657",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat, Hougang / Punggol / Sengkang",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-500275793",
+        "property_name": "The Watergardens",
+        "address": "37 Canberra Drive, Sembawang / Yishun",
+        "price": 1220000
+      },
+      {
+        "listing_id": "pg-500279080",
+        "property_name": "Kingsford Waterbay",
+        "address": "76 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-25483987",
+        "property_name": "Kingsford Waterbay",
+        "address": "72 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "price": 1300000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500136309",
+        "property_name": "Gillenia",
+        "address": "35 Rosyth Road, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-60202791",
+        "property_name": "Dover Parkview",
+        "address": "34 Dover Rise, Buona Vista / West Coast / Clementi New Town",
+        "last_price": 1328888
+      },
+      {
+        "listing_id": "pg-500270261",
+        "property_name": "Signature At Yishun",
+        "address": "33 Yishun Street 51, Sembawang / Yishun",
+        "last_price": 1550000
+      },
+      {
+        "listing_id": "pg-500259481",
+        "property_name": "The Florence Residences",
+        "address": "99 Hougang Avenue 2, Hougang / Punggol / Sengkang",
+        "last_price": 1490000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-23756461",
+        "property_name": "Leith Grove",
+        "address": "",
+        "old_price": 1180000,
+        "new_price": 1179668,
+        "change_amount": -332,
+        "change_percent": -0.0
+      }
+    ]
   }
 ]

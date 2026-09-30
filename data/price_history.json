@@ -2974,5 +2974,17 @@
     "change_percent": -0.2,
     "recorded_at": "2026-09-29",
     "notes": "Price changed from S$1,280,000"
+  },
+  {
+    "id": "ph-9979cb43",
+    "listing_id": "pg-23756461",
+    "property_id": "prop-966c90a7",
+    "property_name": "Leith Grove",
+    "price": 1179668,
+    "psf": 1480.14,
+    "change_amount": -332,
+    "change_percent": -0.0,
+    "recorded_at": "2026-09-30",
+    "notes": "Price changed from S$1,180,000"
   }
 ]

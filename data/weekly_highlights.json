@@ -15575,5 +15575,66 @@
         "change_percent": -0.0
       }
     ]
+  },
+  {
+    "week_start": "2026-09-25",
+    "week_end": "2026-10-01",
+    "new_listings": [
+      {
+        "listing_id": "pg-500280065",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close, Balestier / Toa Payoh",
+        "price": 1200000
+      },
+      {
+        "listing_id": "pg-500278616",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "price": 1300000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500137049",
+        "property_name": "Waterwoods",
+        "address": "Punggol Field Walk, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500275793",
+        "property_name": "The Watergardens",
+        "address": "37 Canberra Drive, Sembawang / Yishun",
+        "last_price": 1220000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500239927",
+        "property_name": "Mont Botanik Residence",
+        "address": "",
+        "old_price": 1330000,
+        "new_price": 1300000,
+        "change_amount": -30000,
+        "change_percent": -2.3
+      },
+      {
+        "listing_id": "pg-25402646",
+        "property_name": "Normanton Park",
+        "address": "",
+        "old_price": 1358000,
+        "new_price": 1348000,
+        "change_amount": -10000,
+        "change_percent": -0.7
+      },
+      {
+        "listing_id": "pg-500095686",
+        "property_name": "Eight Courtyards",
+        "address": "",
+        "old_price": 1100000,
+        "new_price": 1138888,
+        "change_amount": 38888,
+        "change_percent": 3.5
+      }
+    ]
   }
 ]

@@ -2986,5 +2986,41 @@
     "change_percent": -0.0,
     "recorded_at": "2026-09-30",
     "notes": "Price changed from S$1,180,000"
+  },
+  {
+    "id": "ph-7f4ac7f7",
+    "listing_id": "pg-500239927",
+    "property_id": "prop-f85a3a79",
+    "property_name": "Mont Botanik Residence",
+    "price": 1300000,
+    "psf": 1886.79,
+    "change_amount": -30000,
+    "change_percent": -2.3,
+    "recorded_at": "2026-10-01",
+    "notes": "Price changed from S$1,330,000"
+  },
+  {
+    "id": "ph-ea5d5a6b",
+    "listing_id": "pg-25402646",
+    "property_id": "prop-23b890b9",
+    "property_name": "Normanton Park",
+    "price": 1348000,
+    "psf": 1953.62,
+    "change_amount": -10000,
+    "change_percent": -0.7,
+    "recorded_at": "2026-10-01",
+    "notes": "Price changed from S$1,358,000"
+  },
+  {
+    "id": "ph-016b1af1",
+    "listing_id": "pg-500095686",
+    "property_id": "prop-714c25d9",
+    "property_name": "Eight Courtyards",
+    "price": 1138888,
+    "psf": 1322.75,
+    "change_amount": 38888,
+    "change_percent": 3.5,
+    "recorded_at": "2026-10-01",
+    "notes": "Price changed from S$1,100,000"
   }
 ]

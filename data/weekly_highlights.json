@@ -15636,5 +15636,38 @@
         "change_percent": 3.5
       }
     ]
+  },
+  {
+    "week_start": "2026-09-26",
+    "week_end": "2026-10-02",
+    "new_listings": [
+      {
+        "listing_id": "pg-500151864",
+        "property_name": "Lilydale",
+        "address": "556 Yishun Ave 6, Sembawang / Yishun",
+        "price": 1188000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500274305",
+        "property_name": "Affinity At Serangoon",
+        "address": "18 Serangoon North Avenue 1, Hougang / Punggol / Sengkang",
+        "last_price": 1499000
+      },
+      {
+        "listing_id": "pg-500170765",
+        "property_name": "Residences Botanique",
+        "address": "32 Yio Chu Kang Road, Hougang / Punggol / Sengkang",
+        "last_price": 1550000
+      },
+      {
+        "listing_id": "pg-500277657",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat, Hougang / Punggol / Sengkang",
+        "last_price": 1250000
+      }
+    ],
+    "price_changes": []
   }
 ]

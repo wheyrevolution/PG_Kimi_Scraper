@@ -15669,5 +15669,60 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-09-27",
+    "week_end": "2026-10-03",
+    "new_listings": [
+      {
+        "listing_id": "pg-500276588",
+        "property_name": "Waterview",
+        "address": "91 Tampines Avenue 1, Pasir Ris / Tampines",
+        "price": 1195000
+      },
+      {
+        "listing_id": "pg-500281243",
+        "property_name": "The Greenwich",
+        "address": "1 Seletar Road, Seletar / Yio Chu Kang",
+        "price": 1160000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500095686",
+        "property_name": "Eight Courtyards",
+        "address": "6 Canberra Drive, Sembawang / Yishun",
+        "last_price": 1138888
+      },
+      {
+        "listing_id": "pg-500181792",
+        "property_name": "Parc Vera",
+        "address": "Hougang Street 32, Hougang / Punggol / Sengkang",
+        "last_price": 1199999
+      },
+      {
+        "listing_id": "pg-500010094",
+        "property_name": "Viva Vista",
+        "address": "3 South Buona Vista Road, Buona Vista / West Coast / Clementi New Town",
+        "last_price": 1299999
+      },
+      {
+        "listing_id": "pg-500137049",
+        "property_name": "Waterwoods",
+        "address": "Punggol Field Walk, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500172112",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1268000,
+        "new_price": 1288000,
+        "change_amount": 20000,
+        "change_percent": 1.6
+      }
+    ]
   }
 ]

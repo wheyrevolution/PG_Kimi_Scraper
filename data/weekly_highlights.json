@@ -15724,5 +15724,48 @@
         "change_percent": 1.6
       }
     ]
+  },
+  {
+    "week_start": "2026-09-28",
+    "week_end": "2026-10-04",
+    "new_listings": [
+      {
+        "listing_id": "pg-60178031",
+        "property_name": "Maysprings",
+        "address": "2 Petir Road, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "price": 1050000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-25402646",
+        "property_name": "Normanton Park",
+        "address": "55 Normanton Park, Buona Vista / West Coast / Clementi New Town",
+        "last_price": 1348000
+      },
+      {
+        "listing_id": "pg-500239927",
+        "property_name": "Mont Botanik Residence",
+        "address": "2L Jalan Remaja, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500276588",
+        "property_name": "Waterview",
+        "address": "91 Tampines Avenue 1, Pasir Ris / Tampines",
+        "last_price": 1195000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500045832",
+        "property_name": "Astoria Park",
+        "address": "",
+        "old_price": 1308000,
+        "new_price": 1300000,
+        "change_amount": -8000,
+        "change_percent": -0.6
+      }
+    ]
   }
 ]

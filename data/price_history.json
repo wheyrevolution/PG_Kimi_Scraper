@@ -3034,5 +3034,17 @@
     "change_percent": 1.6,
     "recorded_at": "2026-10-03",
     "notes": "Price changed from S$1,268,000"
+  },
+  {
+    "id": "ph-4680551e",
+    "listing_id": "pg-500045832",
+    "property_id": "prop-fe7ec637",
+    "property_name": "Astoria Park",
+    "price": 1300000,
+    "psf": 1509.87,
+    "change_amount": -8000,
+    "change_percent": -0.6,
+    "recorded_at": "2026-10-04",
+    "notes": "Price changed from S$1,308,000"
   }
 ]

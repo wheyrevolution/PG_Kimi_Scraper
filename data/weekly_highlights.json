@@ -15767,5 +15767,44 @@
         "change_percent": -0.6
       }
     ]
+  },
+  {
+    "week_start": "2026-09-29",
+    "week_end": "2026-10-05",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500259481",
+        "property_name": "The Florence Residences",
+        "address": "99 Hougang Avenue 2, Hougang / Punggol / Sengkang",
+        "last_price": 1490000
+      },
+      {
+        "listing_id": "pg-60178031",
+        "property_name": "Maysprings",
+        "address": "2 Petir Road, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 1050000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500172112",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1288000,
+        "new_price": 1260000,
+        "change_amount": -28000,
+        "change_percent": -2.2
+      },
+      {
+        "listing_id": "pg-500275980",
+        "property_name": "Treasure Mansions",
+        "address": "",
+        "old_price": 1250000,
+        "new_price": 1292000,
+        "change_amount": 42000,
+        "change_percent": 3.4
+      }
+    ]
   }
 ]

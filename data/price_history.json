@@ -3046,5 +3046,29 @@
     "change_percent": -0.6,
     "recorded_at": "2026-10-04",
     "notes": "Price changed from S$1,308,000"
+  },
+  {
+    "id": "ph-beeffda4",
+    "listing_id": "pg-500172112",
+    "property_id": "prop-159de89b",
+    "property_name": "Kingsford Waterbay",
+    "price": 1260000,
+    "psf": 1463.41,
+    "change_amount": -28000,
+    "change_percent": -2.2,
+    "recorded_at": "2026-10-05",
+    "notes": "Price changed from S$1,288,000"
+  },
+  {
+    "id": "ph-1f9296f4",
+    "listing_id": "pg-500275980",
+    "property_id": "prop-6c23c608",
+    "property_name": "Treasure Mansions",
+    "price": 1292000,
+    "psf": 1500.58,
+    "change_amount": 42000,
+    "change_percent": 3.4,
+    "recorded_at": "2026-10-05",
+    "notes": "Price changed from S$1,250,000"
   }
 ]

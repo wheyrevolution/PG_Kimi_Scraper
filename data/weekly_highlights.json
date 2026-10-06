@@ -15806,5 +15806,42 @@
         "change_percent": 3.4
       }
     ]
+  },
+  {
+    "week_start": "2026-09-30",
+    "week_end": "2026-10-06",
+    "new_listings": [
+      {
+        "listing_id": "pg-500284198",
+        "property_name": "River Isles",
+        "address": "Punggol Central, Hougang / Punggol / Sengkang",
+        "price": 1288000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500045832",
+        "property_name": "Astoria Park",
+        "address": "30 Lorong Mydin, Eunos / Geylang / Paya Lebar",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500024001",
+        "property_name": "Mandarin Gardens",
+        "address": "1 Siglap Road, East Coast / Marine Parade",
+        "last_price": 1400000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500234821",
+        "property_name": "Boathouse Residences",
+        "address": "",
+        "old_price": 1299999,
+        "new_price": 1298888,
+        "change_amount": -1111,
+        "change_percent": -0.1
+      }
+    ]
   }
 ]

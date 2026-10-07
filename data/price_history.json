@@ -3082,5 +3082,41 @@
     "change_percent": -0.1,
     "recorded_at": "2026-10-06",
     "notes": "Price changed from S$1,299,999"
+  },
+  {
+    "id": "ph-36b2e10e",
+    "listing_id": "pg-500249723",
+    "property_id": "prop-7b9a8efa",
+    "property_name": "Vibes @ Upper Serangoon",
+    "price": 1040000,
+    "psf": 1223.53,
+    "change_amount": -28000,
+    "change_percent": -2.6,
+    "recorded_at": "2026-10-07",
+    "notes": "Price changed from S$1,068,000"
+  },
+  {
+    "id": "ph-6ceb57f2",
+    "listing_id": "pg-500117267",
+    "property_id": "prop-321094bb",
+    "property_name": "North Gaia",
+    "price": 1530000,
+    "psf": 1578.95,
+    "change_amount": -20000,
+    "change_percent": -1.3,
+    "recorded_at": "2026-10-07",
+    "notes": "Price changed from S$1,550,000"
+  },
+  {
+    "id": "ph-d8192c23",
+    "listing_id": "pg-500177721",
+    "property_id": "prop-e8215b3f",
+    "property_name": "Yew Mei Green",
+    "price": 1245000,
+    "psf": 1101.77,
+    "change_amount": -13000,
+    "change_percent": -1.0,
+    "recorded_at": "2026-10-07",
+    "notes": "Price changed from S$1,258,000"
   }
 ]

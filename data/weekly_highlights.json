@@ -15843,5 +15843,40 @@
         "change_percent": -0.1
       }
     ]
+  },
+  {
+    "week_start": "2026-10-01",
+    "week_end": "2026-10-07",
+    "new_listings": [],
+    "went_inactive": [],
+    "price_changes": [
+      {
+        "listing_id": "pg-500249723",
+        "property_name": "Vibes @ Upper Serangoon",
+        "address": "",
+        "old_price": 1068000,
+        "new_price": 1040000,
+        "change_amount": -28000,
+        "change_percent": -2.6
+      },
+      {
+        "listing_id": "pg-500117267",
+        "property_name": "North Gaia",
+        "address": "",
+        "old_price": 1550000,
+        "new_price": 1530000,
+        "change_amount": -20000,
+        "change_percent": -1.3
+      },
+      {
+        "listing_id": "pg-500177721",
+        "property_name": "Yew Mei Green",
+        "address": "",
+        "old_price": 1258000,
+        "new_price": 1245000,
+        "change_amount": -13000,
+        "change_percent": -1.0
+      }
+    ]
   }
 ]

@@ -15878,5 +15878,42 @@
         "change_percent": -1.0
       }
     ]
+  },
+  {
+    "week_start": "2026-10-02",
+    "week_end": "2026-10-08",
+    "new_listings": [
+      {
+        "listing_id": "pg-500112842",
+        "property_name": "Hillion Residences",
+        "address": "Jelebu Road, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "price": 1389888
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500151864",
+        "property_name": "Lilydale",
+        "address": "556 Yishun Ave 6, Sembawang / Yishun",
+        "last_price": 1188000
+      },
+      {
+        "listing_id": "pg-500284198",
+        "property_name": "River Isles",
+        "address": "Punggol Central, Hougang / Punggol / Sengkang",
+        "last_price": 1288000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500099612",
+        "property_name": "Riversails",
+        "address": "",
+        "old_price": 1318000,
+        "new_price": 1308000,
+        "change_amount": -10000,
+        "change_percent": -0.8
+      }
+    ]
   }
 ]

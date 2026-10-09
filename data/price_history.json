@@ -3130,5 +3130,17 @@
     "change_percent": -0.8,
     "recorded_at": "2026-10-08",
     "notes": "Price changed from S$1,318,000"
+  },
+  {
+    "id": "ph-3b34ee03",
+    "listing_id": "pg-500058515",
+    "property_id": "prop-6bb14c57",
+    "property_name": "The Greenwich",
+    "price": 1200000,
+    "psf": 1359.0,
+    "change_amount": 20000,
+    "change_percent": 1.7,
+    "recorded_at": "2026-10-09",
+    "notes": "Price changed from S$1,180,000"
   }
 ]

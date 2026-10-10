@@ -15958,5 +15958,50 @@
         "change_percent": 1.7
       }
     ]
+  },
+  {
+    "week_start": "2026-10-04",
+    "week_end": "2026-10-10",
+    "new_listings": [
+      {
+        "listing_id": "pg-18419796",
+        "property_name": "Viva Vista",
+        "address": "3 South Buona Vista Road, Buona Vista / West Coast / Clementi New Town",
+        "price": 1299999
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500063149",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road, Balestier / Toa Payoh",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500161278",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1290000
+      },
+      {
+        "listing_id": "pg-500177721",
+        "property_name": "Yew Mei Green",
+        "address": "50 Choa Chu Kang North 6, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 1245000
+      },
+      {
+        "listing_id": "pg-60163737",
+        "property_name": "Carlyx Residence",
+        "address": "39 Carlisle Road, Farrer Park / Serangoon Rd",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500137049",
+        "property_name": "Waterwoods",
+        "address": "Punggol Field Walk, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      }
+    ],
+    "price_changes": []
   }
 ]

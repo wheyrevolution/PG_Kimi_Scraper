@@ -16003,5 +16003,32 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-10-05",
+    "week_end": "2026-10-11",
+    "new_listings": [
+      {
+        "listing_id": "pg-500219208",
+        "property_name": "1 Canberra",
+        "address": "7 Canberra Drive, Sembawang / Yishun",
+        "price": 1350000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60205966",
+        "property_name": "M66",
+        "address": "66 Moonstone Lane, Balestier / Toa Payoh",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500234596",
+        "property_name": "Affinity At Serangoon",
+        "address": "22 Serangoon North Avenue 1, Hougang / Punggol / Sengkang",
+        "last_price": 1400000
+      }
+    ],
+    "price_changes": []
   }
 ]

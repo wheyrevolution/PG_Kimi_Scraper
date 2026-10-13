@@ -16118,5 +16118,387 @@
         "change_percent": -1.5
       }
     ]
+  },
+  {
+    "week_start": "2026-10-07",
+    "week_end": "2026-10-13",
+    "new_listings": [
+      {
+        "listing_id": "pg-500286995",
+        "property_name": "Riversails",
+        "address": "24 Upper Serangoon Crescent, Hougang / Punggol / Sengkang",
+        "price": 1288888
+      },
+      {
+        "listing_id": "pg-500248161",
+        "property_name": "Sea Esta",
+        "address": "20 Pasir Ris Link, Pasir Ris / Tampines",
+        "price": 1300000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60071647",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close, Balestier / Toa Payoh",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-500116449",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-25430133",
+        "property_name": "Kingsford Waterbay",
+        "address": "64 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1270000
+      },
+      {
+        "listing_id": "pg-60063956",
+        "property_name": "UNDERVALUED FREEHOLD SPACIOUS 2BR Leith Grove | D19 | Serangoon Gardens | Landed | Rosyth School",
+        "address": "Hougang / Punggol / Sengkang",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-60084976",
+        "property_name": "Leith Grove",
+        "address": "6 Leith Park, Hougang / Punggol / Sengkang",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-25400322",
+        "property_name": "Leith Grove",
+        "address": "6 Leith Park, Hougang / Punggol / Sengkang",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-23756461",
+        "property_name": "Leith Grove",
+        "address": "6 Leith Park, Hougang / Punggol / Sengkang",
+        "last_price": 1179668
+      },
+      {
+        "listing_id": "pg-24824844",
+        "property_name": "Kingsford Waterbay",
+        "address": "68 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-20127981",
+        "property_name": "Riversails",
+        "address": "8 Upper Serangoon Crescent, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-11633776",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close, Balestier / Toa Payoh",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500027440",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close, Balestier / Toa Payoh",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500087971",
+        "property_name": "Riversails",
+        "address": "16 Upper Serangoon Crescent, Hougang / Punggol / Sengkang",
+        "last_price": 1308000
+      },
+      {
+        "listing_id": "pg-500099612",
+        "property_name": "Riversails",
+        "address": "8 Upper Serangoon Crescent, Hougang / Punggol / Sengkang",
+        "last_price": 1308000
+      },
+      {
+        "listing_id": "pg-500076963",
+        "property_name": "Boathouse Residences",
+        "address": "33 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-21773522",
+        "property_name": "Vibes @ Kovan",
+        "address": "93 Kovan Road, Hougang / Punggol / Sengkang",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-60243064",
+        "property_name": "Riversails",
+        "address": "22 Upper Serangoon Crescent, Hougang / Punggol / Sengkang",
+        "last_price": 1268000
+      },
+      {
+        "listing_id": "pg-500124651",
+        "property_name": "Kingsford Waterbay",
+        "address": "66 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1299000
+      },
+      {
+        "listing_id": "pg-500080776",
+        "property_name": "iSuites @ Palm",
+        "address": "24 GLASGOW ROAD, Hougang / Punggol / Sengkang",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-60167508",
+        "property_name": "Ascent @ 456",
+        "address": "456 Balestier Road, Balestier / Toa Payoh",
+        "last_price": 1248000
+      },
+      {
+        "listing_id": "pg-60234628",
+        "property_name": "Treasure Mansions",
+        "address": "15 Rosyth Avenue, Hougang / Punggol / Sengkang",
+        "last_price": 1188888
+      },
+      {
+        "listing_id": "pg-21597527",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat, Hougang / Punggol / Sengkang",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-21050612",
+        "property_name": "Alexis",
+        "address": "356 Alexandra Road, Alexandra / Commonwealth",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-20093925",
+        "property_name": "Carlyx Residence",
+        "address": "39 Carlisle Road, Farrer Park / Serangoon Rd",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500063001",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road, Balestier / Toa Payoh",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500120092",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road, Balestier / Toa Payoh",
+        "last_price": 1260000
+      },
+      {
+        "listing_id": "pg-24747153",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close, Balestier / Toa Payoh",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-23947178",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close, Balestier / Toa Payoh",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500143895",
+        "property_name": "Kingsford Waterbay",
+        "address": "70 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1298000
+      },
+      {
+        "listing_id": "pg-60202087",
+        "property_name": "Kovan Grandeur",
+        "address": "118 Tampines Road, Hougang / Punggol / Sengkang",
+        "last_price": 1055000
+      },
+      {
+        "listing_id": "pg-500157594",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close, Balestier / Toa Payoh",
+        "last_price": 1260000
+      },
+      {
+        "listing_id": "pg-500174632",
+        "property_name": "Kingsford Waterbay",
+        "address": "68 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-500181792",
+        "property_name": "Parc Vera",
+        "address": "Hougang Street 32, Hougang / Punggol / Sengkang",
+        "last_price": 1199999
+      },
+      {
+        "listing_id": "pg-500184457",
+        "property_name": "Floraville",
+        "address": "2 Cactus Road, Seletar / Yio Chu Kang",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500199486",
+        "property_name": "RiverBay",
+        "address": "23 Mar Thoma Road, Balestier / Toa Payoh",
+        "last_price": 1249000
+      },
+      {
+        "listing_id": "pg-500218205",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close, Balestier / Toa Payoh",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500234300",
+        "property_name": "Parc Vera",
+        "address": "Hougang Street 32, Hougang / Punggol / Sengkang",
+        "last_price": 1298000
+      },
+      {
+        "listing_id": "pg-500234821",
+        "property_name": "Boathouse Residences",
+        "address": "27 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1298888
+      },
+      {
+        "listing_id": "pg-25014023",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500246543",
+        "property_name": "The Verve",
+        "address": "23 Jalan Rajah Road, Balestier / Toa Payoh",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500253405",
+        "property_name": "Seletar Park Residence",
+        "address": "21 Seletar Road, Seletar / Yio Chu Kang",
+        "last_price": 1320000
+      },
+      {
+        "listing_id": "pg-500262363",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-60163737",
+        "property_name": "Carlyx Residence",
+        "address": "39 Carlisle Road, Farrer Park / Serangoon Rd",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500255750",
+        "property_name": "Ritz @ Farrer",
+        "address": "142 Race Course Road, Farrer Park / Serangoon Rd",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500267012",
+        "property_name": "Ascent @ 456",
+        "address": "456 Balestier Road, Balestier / Toa Payoh",
+        "last_price": 1248000
+      },
+      {
+        "listing_id": "pg-500224382",
+        "property_name": "Kingsford Waterbay",
+        "address": "78 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500232357",
+        "property_name": "The Verve",
+        "address": "23 Jalan Rajah Road, Balestier / Toa Payoh",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500274747",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close, Balestier / Toa Payoh",
+        "last_price": 1220000
+      },
+      {
+        "listing_id": "pg-500275980",
+        "property_name": "Treasure Mansions",
+        "address": "15 Rosyth Avenue, Hougang / Punggol / Sengkang",
+        "last_price": 1292000
+      },
+      {
+        "listing_id": "pg-500221531",
+        "property_name": "Kingsford Waterbay",
+        "address": "78 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500255471",
+        "property_name": "Parc Vera",
+        "address": "10 Hougang Street 32, Hougang / Punggol / Sengkang",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-500279080",
+        "property_name": "Kingsford Waterbay",
+        "address": "76 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-25483987",
+        "property_name": "Kingsford Waterbay",
+        "address": "72 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500280065",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close, Balestier / Toa Payoh",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500278616",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500284605",
+        "property_name": "The Terrace",
+        "address": "100 Edgedale Plains, Hougang / Punggol / Sengkang",
+        "last_price": 1530000
+      },
+      {
+        "listing_id": "pg-500288809",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1258800
+      },
+      {
+        "listing_id": "pg-500260440",
+        "property_name": "Treasure",
+        "address": "39 Tampines Lane, Pasir Ris / Tampines",
+        "last_price": 1100000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500225659",
+        "property_name": "Parkview Apartments",
+        "address": "",
+        "old_price": 1168000,
+        "new_price": 1150000,
+        "change_amount": -18000,
+        "change_percent": -1.5
+      },
+      {
+        "listing_id": "pg-500201003",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1230000,
+        "new_price": 1199000,
+        "change_amount": -31000,
+        "change_percent": -2.5
+      }
+    ]
   }
 ]

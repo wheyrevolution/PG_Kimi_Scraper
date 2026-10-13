@@ -3166,5 +3166,29 @@
     "change_percent": -1.5,
     "recorded_at": "2026-10-12",
     "notes": "Price changed from S$1,288,888"
+  },
+  {
+    "id": "ph-c9ae41b1",
+    "listing_id": "pg-500225659",
+    "property_id": "prop-502f21d2",
+    "property_name": "Parkview Apartments",
+    "price": 1150000,
+    "psf": 1017.7,
+    "change_amount": -18000,
+    "change_percent": -1.5,
+    "recorded_at": "2026-10-13",
+    "notes": "Price changed from S$1,168,000"
+  },
+  {
+    "id": "ph-da32a65c",
+    "listing_id": "pg-500201003",
+    "property_id": "prop-8466acf2",
+    "property_name": "Kingsford Waterbay",
+    "price": 1199000,
+    "psf": 1410.59,
+    "change_amount": -31000,
+    "change_percent": -2.5,
+    "recorded_at": "2026-10-13",
+    "notes": "Price changed from S$1,230,000"
   }
 ]

@@ -16500,5 +16500,62 @@
         "change_percent": -2.5
       }
     ]
+  },
+  {
+    "week_start": "2026-10-08",
+    "week_end": "2026-10-14",
+    "new_listings": [
+      {
+        "listing_id": "pg-500292816",
+        "property_name": "Austville Residences",
+        "address": "13 Sengkang East Avenue, Hougang / Punggol / Sengkang",
+        "price": 1180000
+      },
+      {
+        "listing_id": "pg-500292792",
+        "property_name": "Skies Miltonia",
+        "address": "35 Miltonia Close, Sembawang / Yishun",
+        "price": 1368000
+      },
+      {
+        "listing_id": "pg-500290359",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "price": 1318000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60171918",
+        "property_name": "Kingsford Waterbay",
+        "address": "70 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1310000
+      },
+      {
+        "listing_id": "pg-500117267",
+        "property_name": "North Gaia",
+        "address": "27 Yishun Close, Sembawang / Yishun",
+        "last_price": 1530000
+      },
+      {
+        "listing_id": "pg-500267608",
+        "property_name": "The Tre Ver",
+        "address": "60 Potong Pasir Avenue 1, Macpherson / Potong Pasir",
+        "last_price": 1490000
+      },
+      {
+        "listing_id": "pg-500270291",
+        "property_name": "Hillview Regency",
+        "address": "26 Bukit Batok East Avenue 2, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 1428000
+      },
+      {
+        "listing_id": "pg-500248161",
+        "property_name": "Sea Esta",
+        "address": "20 Pasir Ris Link, Pasir Ris / Tampines",
+        "last_price": 1300000
+      }
+    ],
+    "price_changes": []
   }
 ]

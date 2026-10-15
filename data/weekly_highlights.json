@@ -16557,5 +16557,80 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-10-09",
+    "week_end": "2026-10-15",
+    "new_listings": [
+      {
+        "listing_id": "pg-500293258",
+        "property_name": "Regentville",
+        "address": "10 Hougang Street 92, Hougang / Punggol / Sengkang",
+        "price": 1390000
+      },
+      {
+        "listing_id": "pg-500071110",
+        "property_name": "Riversails",
+        "address": "18 Upper Serangoon Crescent, Hougang / Punggol / Sengkang",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-500071124",
+        "property_name": "Riversails",
+        "address": "18 Upper Serangoon Crescent, Hougang / Punggol / Sengkang",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-500293991",
+        "property_name": "Kingsford Waterbay",
+        "address": "68 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "price": 1318000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500063001",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road, Balestier / Toa Payoh",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500120092",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road, Balestier / Toa Payoh",
+        "last_price": 1260000
+      },
+      {
+        "listing_id": "pg-500255750",
+        "property_name": "Ritz @ Farrer",
+        "address": "142 Race Course Road, Farrer Park / Serangoon Rd",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500225659",
+        "property_name": "Parkview Apartments",
+        "address": "1 Bukit Batok Street 25, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 1150000
+      },
+      {
+        "listing_id": "pg-500219208",
+        "property_name": "1 Canberra",
+        "address": "7 Canberra Drive, Sembawang / Yishun",
+        "last_price": 1350000
+      },
+      {
+        "listing_id": "pg-500260440",
+        "property_name": "Treasure",
+        "address": "39 Tampines Lane, Pasir Ris / Tampines",
+        "last_price": 1100000
+      },
+      {
+        "listing_id": "pg-500290359",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1318000
+      }
+    ],
+    "price_changes": []
   }
 ]

@@ -16632,5 +16632,42 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-10-10",
+    "week_end": "2026-10-16",
+    "new_listings": [
+      {
+        "listing_id": "pg-500246373",
+        "property_name": "Foresque Residences",
+        "address": "101 Petir Road, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "price": 1250000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500128248",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500292792",
+        "property_name": "Skies Miltonia",
+        "address": "35 Miltonia Close, Sembawang / Yishun",
+        "last_price": 1368000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500293258",
+        "property_name": "Regentville",
+        "address": "",
+        "old_price": 1390000,
+        "new_price": 1418000,
+        "change_amount": 28000,
+        "change_percent": 2.0
+      }
+    ]
   }
 ]

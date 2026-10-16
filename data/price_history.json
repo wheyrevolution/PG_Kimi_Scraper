@@ -3190,5 +3190,17 @@
     "change_percent": -2.5,
     "recorded_at": "2026-10-13",
     "notes": "Price changed from S$1,230,000"
+  },
+  {
+    "id": "ph-0b23930e",
+    "listing_id": "pg-500293258",
+    "property_id": "prop-07152c71",
+    "property_name": "Regentville",
+    "price": 1418000,
+    "psf": 1230.9,
+    "change_amount": 28000,
+    "change_percent": 2.0,
+    "recorded_at": "2026-10-16",
+    "notes": "Price changed from S$1,390,000"
   }
 ]

@@ -3202,5 +3202,17 @@
     "change_percent": 2.0,
     "recorded_at": "2026-10-16",
     "notes": "Price changed from S$1,390,000"
+  },
+  {
+    "id": "ph-d5e72170",
+    "listing_id": "pg-500284198",
+    "property_id": "prop-ef39dbdb",
+    "property_name": "River Isles",
+    "price": 1238000,
+    "psf": 1644.09,
+    "change_amount": -50000,
+    "change_percent": -3.9,
+    "recorded_at": "2026-10-17",
+    "notes": "Price changed from S$1,288,000"
   }
 ]

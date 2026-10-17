@@ -16669,5 +16669,48 @@
         "change_percent": 2.0
       }
     ]
+  },
+  {
+    "week_start": "2026-10-11",
+    "week_end": "2026-10-17",
+    "new_listings": [
+      {
+        "listing_id": "pg-500296308",
+        "property_name": "Kingsford Waterbay",
+        "address": "68 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "price": 1260000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60231831",
+        "property_name": "Riversails",
+        "address": "18 Upper Serangoon Crescent, Hougang / Punggol / Sengkang",
+        "last_price": 1199999
+      },
+      {
+        "listing_id": "pg-500076963",
+        "property_name": "Boathouse Residences",
+        "address": "33 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-500246373",
+        "property_name": "Foresque Residences",
+        "address": "101 Petir Road, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 1250000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500284198",
+        "property_name": "River Isles",
+        "address": "",
+        "old_price": 1288000,
+        "new_price": 1238000,
+        "change_amount": -50000,
+        "change_percent": -3.9
+      }
+    ]
   }
 ]

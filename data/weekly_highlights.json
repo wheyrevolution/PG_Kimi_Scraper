@@ -16712,5 +16712,38 @@
         "change_percent": -3.9
       }
     ]
+  },
+  {
+    "week_start": "2026-10-12",
+    "week_end": "2026-10-18",
+    "new_listings": [
+      {
+        "listing_id": "pg-500226616",
+        "property_name": "Arc",
+        "address": "21 Tampines Avenue 8, Pasir Ris / Tampines",
+        "price": 1398000
+      },
+      {
+        "listing_id": "pg-500297140",
+        "property_name": "Kingsford Waterbay",
+        "address": "74 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "price": 1249999
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-25402646",
+        "property_name": "Normanton Park",
+        "address": "55 Normanton Park, Buona Vista / West Coast / Clementi New Town",
+        "last_price": 1348000
+      },
+      {
+        "listing_id": "pg-500292816",
+        "property_name": "Austville Residences",
+        "address": "13 Sengkang East Avenue, Hougang / Punggol / Sengkang",
+        "last_price": 1180000
+      }
+    ],
+    "price_changes": []
   }
 ]

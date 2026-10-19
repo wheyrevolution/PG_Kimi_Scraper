@@ -16745,5 +16745,56 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-10-13",
+    "week_end": "2026-10-19",
+    "new_listings": [
+      {
+        "listing_id": "pg-500281915",
+        "property_name": "Watercolours",
+        "address": "25 Pasir Ris Link, Pasir Ris / Tampines",
+        "price": 1259999
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500095686",
+        "property_name": "Eight Courtyards",
+        "address": "6 Canberra Drive, Sembawang / Yishun",
+        "last_price": 1138888
+      },
+      {
+        "listing_id": "pg-500181935",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat, Hougang / Punggol / Sengkang",
+        "last_price": 1288000
+      },
+      {
+        "listing_id": "pg-21343635",
+        "property_name": "Boathouse Residences",
+        "address": "21 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1230000
+      },
+      {
+        "listing_id": "pg-500112842",
+        "property_name": "Hillion Residences",
+        "address": "Jelebu Road, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 1389888
+      },
+      {
+        "listing_id": "pg-500288481",
+        "property_name": "Seletar Park Residence",
+        "address": "21 Seletar Road, Seletar / Yio Chu Kang",
+        "last_price": 1150000
+      },
+      {
+        "listing_id": "pg-500226616",
+        "property_name": "Arc",
+        "address": "21 Tampines Avenue 8, Pasir Ris / Tampines",
+        "last_price": 1398000
+      }
+    ],
+    "price_changes": []
   }
 ]

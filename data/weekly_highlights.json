@@ -16796,5 +16796,68 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-10-14",
+    "week_end": "2026-10-20",
+    "new_listings": [
+      {
+        "listing_id": "pg-500298315",
+        "property_name": "Eco Sanctuary",
+        "address": "63 Chestnut Avenue, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "price": 1350000
+      },
+      {
+        "listing_id": "pg-500229227",
+        "property_name": "Kingsford Waterbay",
+        "address": "70 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-60102358",
+        "property_name": "NV Residences",
+        "address": "91 Pasir Ris Grove, Pasir Ris / Tampines",
+        "price": 1085000
+      },
+      {
+        "listing_id": "pg-500298777",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "price": 1300000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-25487761",
+        "property_name": "Riversails",
+        "address": "24 Upper Serangoon Crescent, Hougang / Punggol / Sengkang",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-23947178",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close, Balestier / Toa Payoh",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500267012",
+        "property_name": "Ascent @ 456",
+        "address": "456 Balestier Road, Balestier / Toa Payoh",
+        "last_price": 1248000
+      },
+      {
+        "listing_id": "pg-500284198",
+        "property_name": "River Isles",
+        "address": "Punggol Central, Hougang / Punggol / Sengkang",
+        "last_price": 1238000
+      },
+      {
+        "listing_id": "pg-500281915",
+        "property_name": "Watercolours",
+        "address": "25 Pasir Ris Link, Pasir Ris / Tampines",
+        "last_price": 1259999
+      }
+    ],
+    "price_changes": []
   }
 ]

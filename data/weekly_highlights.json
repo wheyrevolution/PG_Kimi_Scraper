@@ -16859,5 +16859,50 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-10-15",
+    "week_end": "2026-10-21",
+    "new_listings": [
+      {
+        "listing_id": "pg-500276422",
+        "property_name": "Regentville",
+        "address": "2 Hougang Street 92, Hougang / Punggol / Sengkang",
+        "price": 1328888
+      },
+      {
+        "listing_id": "pg-500300204",
+        "property_name": "RiverBay",
+        "address": "23 Mar Thoma Road, Balestier / Toa Payoh",
+        "price": 1248000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500284605",
+        "property_name": "The Terrace",
+        "address": "100 Edgedale Plains, Hougang / Punggol / Sengkang",
+        "last_price": 1530000
+      },
+      {
+        "listing_id": "pg-500292792",
+        "property_name": "Skies Miltonia",
+        "address": "35 Miltonia Close, Sembawang / Yishun",
+        "last_price": 1368000
+      },
+      {
+        "listing_id": "pg-500298315",
+        "property_name": "Eco Sanctuary",
+        "address": "63 Chestnut Avenue, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 1350000
+      },
+      {
+        "listing_id": "pg-60102358",
+        "property_name": "NV Residences",
+        "address": "91 Pasir Ris Grove, Pasir Ris / Tampines",
+        "last_price": 1085000
+      }
+    ],
+    "price_changes": []
   }
 ]

@@ -3214,5 +3214,17 @@
     "change_percent": -3.9,
     "recorded_at": "2026-10-17",
     "notes": "Price changed from S$1,288,000"
+  },
+  {
+    "id": "ph-836a51fb",
+    "listing_id": "pg-500124651",
+    "property_id": "prop-6d7fb058",
+    "property_name": "Kingsford Waterbay",
+    "price": 1280000,
+    "psf": 1505.88,
+    "change_amount": -19000,
+    "change_percent": -1.5,
+    "recorded_at": "2026-10-22",
+    "notes": "Price changed from S$1,299,000"
   }
 ]

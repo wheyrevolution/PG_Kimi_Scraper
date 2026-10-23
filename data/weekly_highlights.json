@@ -16959,5 +16959,44 @@
         "change_percent": -1.5
       }
     ]
+  },
+  {
+    "week_start": "2026-10-17",
+    "week_end": "2026-10-23",
+    "new_listings": [
+      {
+        "listing_id": "pg-500160684",
+        "property_name": "The Visionaire",
+        "address": "178 Canberra Drive, Sembawang / Yishun",
+        "price": 1568999
+      },
+      {
+        "listing_id": "pg-500109546",
+        "property_name": "Lilydale",
+        "address": "552 Yishun Ave 6, Sembawang / Yishun",
+        "price": 1130000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500063001",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road, Balestier / Toa Payoh",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500292816",
+        "property_name": "Austville Residences",
+        "address": "13 Sengkang East Avenue, Hougang / Punggol / Sengkang",
+        "last_price": 1180000
+      },
+      {
+        "listing_id": "pg-500298315",
+        "property_name": "Eco Sanctuary",
+        "address": "63 Chestnut Avenue, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 1350000
+      }
+    ],
+    "price_changes": []
   }
 ]

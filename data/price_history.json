@@ -3226,5 +3226,17 @@
     "change_percent": -1.5,
     "recorded_at": "2026-10-22",
     "notes": "Price changed from S$1,299,000"
+  },
+  {
+    "id": "ph-bf2be3ca",
+    "listing_id": "pg-500259580",
+    "property_id": "prop-aab16324",
+    "property_name": "Regent Park",
+    "price": 1150000,
+    "psf": 1425.03,
+    "change_amount": 50000,
+    "change_percent": 4.5,
+    "recorded_at": "2026-10-24",
+    "notes": "Price changed from S$1,100,000"
   }
 ]

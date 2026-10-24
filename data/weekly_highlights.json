@@ -16998,5 +16998,84 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-10-18",
+    "week_end": "2026-10-24",
+    "new_listings": [
+      {
+        "listing_id": "pg-500290022",
+        "property_name": "Palm Isles",
+        "address": "34 Flora Drive, Changi Airport / Changi Village",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-500288879",
+        "property_name": "Rivercove Residences EC",
+        "address": "20 Anchorvale Ln, Hougang / Punggol / Sengkang",
+        "price": 1520000
+      },
+      {
+        "listing_id": "pg-500302922",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "price": 1300000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500234300",
+        "property_name": "Parc Vera",
+        "address": "Hougang Street 32, Hougang / Punggol / Sengkang",
+        "last_price": 1298000
+      },
+      {
+        "listing_id": "pg-500117267",
+        "property_name": "North Gaia",
+        "address": "27 Yishun Close, Sembawang / Yishun",
+        "last_price": 1530000
+      },
+      {
+        "listing_id": "pg-500292792",
+        "property_name": "Skies Miltonia",
+        "address": "35 Miltonia Close, Sembawang / Yishun",
+        "last_price": 1368000
+      },
+      {
+        "listing_id": "pg-60102358",
+        "property_name": "NV Residences",
+        "address": "91 Pasir Ris Grove, Pasir Ris / Tampines",
+        "last_price": 1085000
+      },
+      {
+        "listing_id": "pg-500276422",
+        "property_name": "Regentville",
+        "address": "2 Hougang Street 92, Hougang / Punggol / Sengkang",
+        "last_price": 1328888
+      },
+      {
+        "listing_id": "pg-500219622",
+        "property_name": "Edelweiss Park Condo",
+        "address": "84 Flora Road, Changi Airport / Changi Village",
+        "last_price": 1320000
+      },
+      {
+        "listing_id": "pg-500109546",
+        "property_name": "Lilydale",
+        "address": "552 Yishun Ave 6, Sembawang / Yishun",
+        "last_price": 1130000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500259580",
+        "property_name": "Regent Park",
+        "address": "",
+        "old_price": 1100000,
+        "new_price": 1150000,
+        "change_amount": 50000,
+        "change_percent": 4.5
+      }
+    ]
   }
 ]

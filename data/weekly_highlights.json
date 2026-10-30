@@ -17420,5 +17420,126 @@
         "change_percent": -1.5
       }
     ]
+  },
+  {
+    "week_start": "2026-10-24",
+    "week_end": "2026-10-30",
+    "new_listings": [
+      {
+        "listing_id": "pg-500307454",
+        "property_name": "Rezi 3Two",
+        "address": "48 Lorong 32 Geylang, Eunos / Geylang / Paya Lebar",
+        "price": 1488888
+      },
+      {
+        "listing_id": "pg-500172800",
+        "property_name": "The Minton",
+        "address": "10C Hougang Street 11, Hougang / Punggol / Sengkang",
+        "price": 1515000
+      },
+      {
+        "listing_id": "pg-500253070",
+        "property_name": "Verdale",
+        "address": "12 De Souza Avenue, Clementi Park / Upper Bukit Timah",
+        "price": 1438000
+      },
+      {
+        "listing_id": "pg-24815451",
+        "property_name": "The Callista",
+        "address": "22 Mar Thoma Road, Balestier / Toa Payoh",
+        "price": 1300000
+      },
+      {
+        "listing_id": "pg-500276040",
+        "property_name": "Alexis",
+        "address": "356 Alexandra Road, Alexandra / Commonwealth",
+        "price": 1190000
+      },
+      {
+        "listing_id": "pg-500309176",
+        "property_name": "Kingsford Waterbay",
+        "address": "76 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "price": 1300000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60208994",
+        "property_name": "Parc Somme",
+        "address": "62 Somme Road, Farrer Park / Serangoon Rd",
+        "last_price": 1299000
+      },
+      {
+        "listing_id": "pg-24689517",
+        "property_name": "Kovan Grandeur",
+        "address": "118 Tampines Road, Hougang / Punggol / Sengkang",
+        "last_price": 990000
+      },
+      {
+        "listing_id": "pg-500045832",
+        "property_name": "Astoria Park",
+        "address": "30 Lorong Mydin, Eunos / Geylang / Paya Lebar",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-500117267",
+        "property_name": "North Gaia",
+        "address": "27 Yishun Close, Sembawang / Yishun",
+        "last_price": 1530000
+      },
+      {
+        "listing_id": "pg-500259580",
+        "property_name": "Regent Park",
+        "address": "Buona Vista / West Coast / Clementi New Town",
+        "last_price": 1150000
+      },
+      {
+        "listing_id": "pg-500286995",
+        "property_name": "Riversails",
+        "address": "24 Upper Serangoon Crescent, Hougang / Punggol / Sengkang",
+        "last_price": 1288888
+      },
+      {
+        "listing_id": "pg-500290022",
+        "property_name": "Palm Isles",
+        "address": "34 Flora Drive, Changi Airport / Changi Village",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500288879",
+        "property_name": "Rivercove Residences EC",
+        "address": "20 Anchorvale Ln, Hougang / Punggol / Sengkang",
+        "last_price": 1520000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500118309",
+        "property_name": "Casa Cambio",
+        "address": "",
+        "old_price": 1278000,
+        "new_price": 1250000,
+        "change_amount": -28000,
+        "change_percent": -2.2
+      },
+      {
+        "listing_id": "pg-500292816",
+        "property_name": "Austville Residences",
+        "address": "",
+        "old_price": 1180000,
+        "new_price": 1177888,
+        "change_amount": -2112,
+        "change_percent": -0.2
+      },
+      {
+        "listing_id": "pg-500087971",
+        "property_name": "Riversails",
+        "address": "",
+        "old_price": 1308000,
+        "new_price": 1280000,
+        "change_amount": -28000,
+        "change_percent": -2.1
+      }
+    ]
   }
 ]

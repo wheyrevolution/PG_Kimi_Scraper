@@ -17541,5 +17541,66 @@
         "change_percent": -2.1
       }
     ]
+  },
+  {
+    "week_start": "2026-10-25",
+    "week_end": "2026-10-31",
+    "new_listings": [
+      {
+        "listing_id": "pg-60012681",
+        "property_name": "Parkview Apartments",
+        "address": "3 Bukit Batok Street 25, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "price": 1199000
+      },
+      {
+        "listing_id": "pg-500309993",
+        "property_name": "The Luxurie",
+        "address": "11 Compassvale Road, Hougang / Punggol / Sengkang",
+        "price": 1569890
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500157594",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close, Balestier / Toa Payoh",
+        "last_price": 1260000
+      },
+      {
+        "listing_id": "pg-500246543",
+        "property_name": "The Verve",
+        "address": "23 Jalan Rajah Road, Balestier / Toa Payoh",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500292816",
+        "property_name": "Austville Residences",
+        "address": "13 Sengkang East Avenue, Hougang / Punggol / Sengkang",
+        "last_price": 1177888
+      },
+      {
+        "listing_id": "pg-500200874",
+        "property_name": "Affinity At Serangoon",
+        "address": "30 Serangoon North Avenue 1, Hougang / Punggol / Sengkang",
+        "last_price": 1580000
+      },
+      {
+        "listing_id": "pg-500307454",
+        "property_name": "Rezi 3Two",
+        "address": "48 Lorong 32 Geylang, Eunos / Geylang / Paya Lebar",
+        "last_price": 1488888
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500099612",
+        "property_name": "Riversails",
+        "address": "",
+        "old_price": 1308000,
+        "new_price": 1280000,
+        "change_amount": -28000,
+        "change_percent": -2.1
+      }
+    ]
   }
 ]

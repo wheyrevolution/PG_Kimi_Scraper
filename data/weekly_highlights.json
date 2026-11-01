@@ -17602,5 +17602,50 @@
         "change_percent": -2.1
       }
     ]
+  },
+  {
+    "week_start": "2026-10-26",
+    "week_end": "2026-11-01",
+    "new_listings": [
+      {
+        "listing_id": "pg-500310873",
+        "property_name": "The Greenwich",
+        "address": "1 Seletar Road, Seletar / Yio Chu Kang",
+        "price": 1200000
+      },
+      {
+        "listing_id": "pg-500310728",
+        "property_name": "The Greenwich",
+        "address": "7 Seletar Road, Seletar / Yio Chu Kang",
+        "price": 1200000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-23756461",
+        "property_name": "Leith Grove",
+        "address": "6 Leith Park, Hougang / Punggol / Sengkang",
+        "last_price": 1179668
+      },
+      {
+        "listing_id": "pg-500232357",
+        "property_name": "The Verve",
+        "address": "23 Jalan Rajah Road, Balestier / Toa Payoh",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-25483987",
+        "property_name": "Kingsford Waterbay",
+        "address": "72 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-60012681",
+        "property_name": "Parkview Apartments",
+        "address": "3 Bukit Batok Street 25, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 1199000
+      }
+    ],
+    "price_changes": []
   }
 ]

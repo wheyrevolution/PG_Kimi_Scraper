@@ -17647,5 +17647,26 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-10-27",
+    "week_end": "2026-11-02",
+    "new_listings": [
+      {
+        "listing_id": "pg-500229692",
+        "property_name": "NV Residences",
+        "address": "89 Pasir Ris Grove, Pasir Ris / Tampines",
+        "price": 1147000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500253070",
+        "property_name": "Verdale",
+        "address": "12 De Souza Avenue, Clementi Park / Upper Bukit Timah",
+        "last_price": 1438000
+      }
+    ],
+    "price_changes": []
   }
 ]

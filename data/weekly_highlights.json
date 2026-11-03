@@ -17668,5 +17668,44 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-10-28",
+    "week_end": "2026-11-03",
+    "new_listings": [
+      {
+        "listing_id": "pg-500303203",
+        "property_name": "Regentville",
+        "address": "2 Hougang Street 92, Hougang / Punggol / Sengkang",
+        "price": 1280000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500280065",
+        "property_name": "Bliss Loft",
+        "address": "25 Kim Keat Close, Balestier / Toa Payoh",
+        "last_price": 1200000
+      },
+      {
+        "listing_id": "pg-500284605",
+        "property_name": "The Terrace",
+        "address": "100 Edgedale Plains, Hougang / Punggol / Sengkang",
+        "last_price": 1530000
+      },
+      {
+        "listing_id": "pg-500172800",
+        "property_name": "The Minton",
+        "address": "10C Hougang Street 11, Hougang / Punggol / Sengkang",
+        "last_price": 1515000
+      },
+      {
+        "listing_id": "pg-500229692",
+        "property_name": "NV Residences",
+        "address": "89 Pasir Ris Grove, Pasir Ris / Tampines",
+        "last_price": 1147000
+      }
+    ],
+    "price_changes": []
   }
 ]

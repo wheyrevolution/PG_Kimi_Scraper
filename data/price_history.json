@@ -3298,5 +3298,29 @@
     "change_percent": -2.1,
     "recorded_at": "2026-10-31",
     "notes": "Price changed from S$1,308,000"
+  },
+  {
+    "id": "ph-56cb8de9",
+    "listing_id": "pg-500110236",
+    "property_id": "prop-14f464dd",
+    "property_name": "The Rivervale",
+    "price": 1520000,
+    "psf": 1167.43,
+    "change_amount": -30000,
+    "change_percent": -1.9,
+    "recorded_at": "2026-11-06",
+    "notes": "Price changed from S$1,550,000"
+  },
+  {
+    "id": "ph-824ec599",
+    "listing_id": "pg-500278616",
+    "property_id": "prop-c8182616",
+    "property_name": "Kingsford Waterbay",
+    "price": 1270000,
+    "psf": 1494.12,
+    "change_amount": -30000,
+    "change_percent": -2.3,
+    "recorded_at": "2026-11-06",
+    "notes": "Price changed from S$1,300,000"
   }
 ]

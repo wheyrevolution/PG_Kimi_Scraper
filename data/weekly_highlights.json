@@ -17707,5 +17707,105 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-10-31",
+    "week_end": "2026-11-06",
+    "new_listings": [
+      {
+        "listing_id": "pg-500299933",
+        "property_name": "Austville Residences",
+        "address": "11 Sengkang East Avenue, Hougang / Punggol / Sengkang",
+        "price": 1180000
+      },
+      {
+        "listing_id": "pg-500316454",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-500315459",
+        "property_name": "Flora View",
+        "address": "1 Ang Mo Kio Street 66, Ang Mo Kio / Bishan / Thomson",
+        "price": 1188000
+      },
+      {
+        "listing_id": "pg-500314358",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "price": 1280000
+      },
+      {
+        "listing_id": "pg-500248516",
+        "property_name": "Floraville",
+        "address": "2 Cactus Road, Seletar / Yio Chu Kang",
+        "price": 1300000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-24824844",
+        "property_name": "Kingsford Waterbay",
+        "address": "68 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-500174632",
+        "property_name": "Kingsford Waterbay",
+        "address": "68 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-500181792",
+        "property_name": "Parc Vera",
+        "address": "Hougang Street 32, Hougang / Punggol / Sengkang",
+        "last_price": 1199999
+      },
+      {
+        "listing_id": "pg-500275980",
+        "property_name": "Treasure Mansions",
+        "address": "15 Rosyth Avenue, Hougang / Punggol / Sengkang",
+        "last_price": 1292000
+      },
+      {
+        "listing_id": "pg-500292816",
+        "property_name": "Austville Residences",
+        "address": "13 Sengkang East Avenue, Hougang / Punggol / Sengkang",
+        "last_price": 1177888
+      },
+      {
+        "listing_id": "pg-500253070",
+        "property_name": "Verdale",
+        "address": "12 De Souza Avenue, Clementi Park / Upper Bukit Timah",
+        "last_price": 1438000
+      },
+      {
+        "listing_id": "pg-500303203",
+        "property_name": "Regentville",
+        "address": "2 Hougang Street 92, Hougang / Punggol / Sengkang",
+        "last_price": 1280000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500110236",
+        "property_name": "The Rivervale",
+        "address": "",
+        "old_price": 1550000,
+        "new_price": 1520000,
+        "change_amount": -30000,
+        "change_percent": -1.9
+      },
+      {
+        "listing_id": "pg-500278616",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1270000,
+        "change_amount": -30000,
+        "change_percent": -2.3
+      }
+    ]
   }
 ]

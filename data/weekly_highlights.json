@@ -17807,5 +17807,44 @@
         "change_percent": -2.3
       }
     ]
+  },
+  {
+    "week_start": "2026-11-01",
+    "week_end": "2026-11-07",
+    "new_listings": [
+      {
+        "listing_id": "pg-500311956",
+        "property_name": "The Visionaire",
+        "address": "174 Canberra Drive, Sembawang / Yishun",
+        "price": 1445000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500110236",
+        "property_name": "The Rivervale",
+        "address": "3 Rivervale Link, Hougang / Punggol / Sengkang",
+        "last_price": 1520000
+      },
+      {
+        "listing_id": "pg-500181252",
+        "property_name": "Hillview Regency",
+        "address": "28 Bukit Batok East Avenue 2, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 1380000
+      },
+      {
+        "listing_id": "pg-500309993",
+        "property_name": "The Luxurie",
+        "address": "11 Compassvale Road, Hougang / Punggol / Sengkang",
+        "last_price": 1569890
+      },
+      {
+        "listing_id": "pg-500299933",
+        "property_name": "Austville Residences",
+        "address": "11 Sengkang East Avenue, Hougang / Punggol / Sengkang",
+        "last_price": 1180000
+      }
+    ],
+    "price_changes": []
   }
 ]

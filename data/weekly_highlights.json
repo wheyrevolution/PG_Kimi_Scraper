@@ -17846,5 +17846,56 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-11-02",
+    "week_end": "2026-11-08",
+    "new_listings": [
+      {
+        "listing_id": "pg-500244955",
+        "property_name": "Riverparc Residence",
+        "address": "100 Punggol Drive, Hougang / Punggol / Sengkang",
+        "price": 1278000
+      },
+      {
+        "listing_id": "pg-500065768",
+        "property_name": "Beacon Heights",
+        "address": "8 Mar Thoma Road, Balestier / Toa Payoh",
+        "price": 1570000
+      },
+      {
+        "listing_id": "pg-500289670",
+        "property_name": "Alexis",
+        "address": "356 Alexandra Road, Alexandra / Commonwealth",
+        "price": 1190000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500272444",
+        "property_name": "3 @ Phillips",
+        "address": "3 Phillips Avenue, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500284198",
+        "property_name": "River Isles",
+        "address": "Punggol Central, Hougang / Punggol / Sengkang",
+        "last_price": 1238000
+      },
+      {
+        "listing_id": "pg-500071124",
+        "property_name": "Riversails",
+        "address": "18 Upper Serangoon Crescent, Hougang / Punggol / Sengkang",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500311956",
+        "property_name": "The Visionaire",
+        "address": "174 Canberra Drive, Sembawang / Yishun",
+        "last_price": 1445000
+      }
+    ],
+    "price_changes": []
   }
 ]

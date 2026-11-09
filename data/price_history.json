@@ -3322,5 +3322,17 @@
     "change_percent": -2.3,
     "recorded_at": "2026-11-06",
     "notes": "Price changed from S$1,300,000"
+  },
+  {
+    "id": "ph-9c75d220",
+    "listing_id": "pg-500186280",
+    "property_id": "prop-1b033100",
+    "property_name": "Presto @ Upper Serangoon",
+    "price": 1199999,
+    "psf": 1447.53,
+    "change_amount": -1,
+    "change_percent": -0.0,
+    "recorded_at": "2026-11-09",
+    "notes": "Price changed from S$1,200,000"
   }
 ]

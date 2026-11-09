@@ -17897,5 +17897,42 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-11-03",
+    "week_end": "2026-11-09",
+    "new_listings": [
+      {
+        "listing_id": "pg-24304608",
+        "property_name": "D'Nest",
+        "address": "137 Pasir Ris Grove, Pasir Ris / Tampines",
+        "price": 1180000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500303203",
+        "property_name": "Regentville",
+        "address": "2 Hougang Street 92, Hougang / Punggol / Sengkang",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-500065768",
+        "property_name": "Beacon Heights",
+        "address": "8 Mar Thoma Road, Balestier / Toa Payoh",
+        "last_price": 1570000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500186280",
+        "property_name": "Presto @ Upper Serangoon",
+        "address": "",
+        "old_price": 1200000,
+        "new_price": 1199999,
+        "change_amount": -1,
+        "change_percent": -0.0
+      }
+    ]
   }
 ]

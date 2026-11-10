@@ -17934,5 +17934,44 @@
         "change_percent": -0.0
       }
     ]
+  },
+  {
+    "week_start": "2026-11-04",
+    "week_end": "2026-11-10",
+    "new_listings": [
+      {
+        "listing_id": "pg-500318453",
+        "property_name": "Coastal Cabana",
+        "address": "32 Jalan Loyang Besar, Changi Airport / Changi Village",
+        "price": 1575000
+      },
+      {
+        "listing_id": "pg-60148735",
+        "property_name": "Regent Residences",
+        "address": "1091 Serangoon Road, Balestier / Toa Payoh",
+        "price": 1490000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500255750",
+        "property_name": "Ritz @ Farrer",
+        "address": "142 Race Course Road, Farrer Park / Serangoon Rd",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500259481",
+        "property_name": "The Florence Residences",
+        "address": "99 Hougang Avenue 2, Hougang / Punggol / Sengkang",
+        "last_price": 1490000
+      },
+      {
+        "listing_id": "pg-500229227",
+        "property_name": "Kingsford Waterbay",
+        "address": "70 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      }
+    ],
+    "price_changes": []
   }
 ]

@@ -18006,5 +18006,53 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-11-06",
+    "week_end": "2026-11-12",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500110236",
+        "property_name": "The Rivervale",
+        "address": "3 Rivervale Link, Hougang / Punggol / Sengkang",
+        "last_price": 1520000
+      },
+      {
+        "listing_id": "pg-500284605",
+        "property_name": "The Terrace",
+        "address": "100 Edgedale Plains, Hougang / Punggol / Sengkang",
+        "last_price": 1530000
+      },
+      {
+        "listing_id": "pg-18419796",
+        "property_name": "Viva Vista",
+        "address": "3 South Buona Vista Road, Buona Vista / West Coast / Clementi New Town",
+        "last_price": 1299999
+      },
+      {
+        "listing_id": "pg-500289670",
+        "property_name": "Alexis",
+        "address": "356 Alexandra Road, Alexandra / Commonwealth",
+        "last_price": 1190000
+      },
+      {
+        "listing_id": "pg-24304608",
+        "property_name": "D'Nest",
+        "address": "137 Pasir Ris Grove, Pasir Ris / Tampines",
+        "last_price": 1180000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-25430133",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1270000,
+        "new_price": 1250000,
+        "change_amount": -20000,
+        "change_percent": -1.6
+      }
+    ]
   }
 ]

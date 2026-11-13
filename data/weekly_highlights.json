@@ -18054,5 +18054,42 @@
         "change_percent": -1.6
       }
     ]
+  },
+  {
+    "week_start": "2026-11-07",
+    "week_end": "2026-11-13",
+    "new_listings": [
+      {
+        "listing_id": "pg-60179827",
+        "property_name": "Prive",
+        "address": "37 Punggol Field, Hougang / Punggol / Sengkang",
+        "price": 1500000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-21050612",
+        "property_name": "Alexis",
+        "address": "356 Alexandra Road, Alexandra / Commonwealth",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500253070",
+        "property_name": "Verdale",
+        "address": "12 De Souza Avenue, Clementi Park / Upper Bukit Timah",
+        "last_price": 1438000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500234821",
+        "property_name": "Boathouse Residences",
+        "address": "",
+        "old_price": 1298888,
+        "new_price": 1288888,
+        "change_amount": -10000,
+        "change_percent": -0.8
+      }
+    ]
   }
 ]

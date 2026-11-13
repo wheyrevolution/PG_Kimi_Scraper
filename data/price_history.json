@@ -3346,5 +3346,17 @@
     "change_percent": -1.6,
     "recorded_at": "2026-11-12",
     "notes": "Price changed from S$1,270,000"
+  },
+  {
+    "id": "ph-bfa07155",
+    "listing_id": "pg-500234821",
+    "property_id": "prop-4afa1323",
+    "property_name": "Boathouse Residences",
+    "price": 1288888,
+    "psf": 1534.39,
+    "change_amount": -10000,
+    "change_percent": -0.8,
+    "recorded_at": "2026-11-13",
+    "notes": "Price changed from S$1,298,888"
   }
 ]

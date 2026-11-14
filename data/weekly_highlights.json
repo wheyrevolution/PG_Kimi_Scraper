@@ -18091,5 +18091,41 @@
         "change_percent": -0.8
       }
     ]
+  },
+  {
+    "week_start": "2026-11-08",
+    "week_end": "2026-11-14",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60243064",
+        "property_name": "Riversails",
+        "address": "22 Upper Serangoon Crescent, Hougang / Punggol / Sengkang",
+        "last_price": 1268000
+      },
+      {
+        "listing_id": "pg-500231163",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat, Hougang / Punggol / Sengkang",
+        "last_price": 1222688
+      },
+      {
+        "listing_id": "pg-500242078",
+        "property_name": "Boathouse Residences",
+        "address": "29 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1220000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500316454",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1250000,
+        "new_price": 1229999,
+        "change_amount": -20001,
+        "change_percent": -1.6
+      }
+    ]
   }
 ]

@@ -18127,5 +18127,50 @@
         "change_percent": -1.6
       }
     ]
+  },
+  {
+    "week_start": "2026-11-09",
+    "week_end": "2026-11-15",
+    "new_listings": [
+      {
+        "listing_id": "pg-500307357",
+        "property_name": "8 @ Woodleigh",
+        "address": "2 Woodleigh Close, Macpherson / Potong Pasir",
+        "price": 1580000
+      },
+      {
+        "listing_id": "pg-500323271",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "price": 1280000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60080493",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat, Hougang / Punggol / Sengkang",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-25612296",
+        "property_name": "Kingsford Waterbay",
+        "address": "Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500276422",
+        "property_name": "Regentville",
+        "address": "2 Hougang Street 92, Hougang / Punggol / Sengkang",
+        "last_price": 1328888
+      },
+      {
+        "listing_id": "pg-500244955",
+        "property_name": "Riverparc Residence",
+        "address": "100 Punggol Drive, Hougang / Punggol / Sengkang",
+        "last_price": 1278000
+      }
+    ],
+    "price_changes": []
   }
 ]

@@ -18172,5 +18172,50 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-11-10",
+    "week_end": "2026-11-16",
+    "new_listings": [
+      {
+        "listing_id": "pg-500297682",
+        "property_name": "Parc Sophia",
+        "address": "8 Adis Road, Orchard / River Valley",
+        "price": 1250000
+      },
+      {
+        "listing_id": "pg-500221221",
+        "property_name": "The Palette",
+        "address": "101 Pasir Ris Grove, Pasir Ris / Tampines",
+        "price": 1190000
+      },
+      {
+        "listing_id": "pg-500323443",
+        "property_name": "Eastpoint Green",
+        "address": "5 Simei Street 3, Pasir Ris / Tampines",
+        "price": 1338000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60171918",
+        "property_name": "Kingsford Waterbay",
+        "address": "70 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1310000
+      },
+      {
+        "listing_id": "pg-60179827",
+        "property_name": "Prive",
+        "address": "37 Punggol Field, Hougang / Punggol / Sengkang",
+        "last_price": 1500000
+      },
+      {
+        "listing_id": "pg-500307357",
+        "property_name": "8 @ Woodleigh",
+        "address": "2 Woodleigh Close, Macpherson / Potong Pasir",
+        "last_price": 1580000
+      }
+    ],
+    "price_changes": []
   }
 ]

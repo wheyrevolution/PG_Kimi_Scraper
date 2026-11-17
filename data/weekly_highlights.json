@@ -18217,5 +18217,25 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-11-11",
+    "week_end": "2026-11-17",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500297682",
+        "property_name": "Parc Sophia",
+        "address": "8 Adis Road, Orchard / River Valley",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500221221",
+        "property_name": "The Palette",
+        "address": "101 Pasir Ris Grove, Pasir Ris / Tampines",
+        "last_price": 1190000
+      }
+    ],
+    "price_changes": []
   }
 ]

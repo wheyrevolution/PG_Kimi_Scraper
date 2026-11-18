@@ -18237,5 +18237,60 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-11-12",
+    "week_end": "2026-11-18",
+    "new_listings": [
+      {
+        "listing_id": "pg-500290548",
+        "property_name": "The Watergardens",
+        "address": "37 Canberra Drive, Sembawang / Yishun",
+        "price": 1510000
+      },
+      {
+        "listing_id": "pg-500326428",
+        "property_name": "Kingsford Waterbay",
+        "address": "70 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "price": 1300000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500039855",
+        "property_name": "Sol Acres",
+        "address": "14 Choa Chu Kang Grove, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "last_price": 1145000
+      },
+      {
+        "listing_id": "pg-500221531",
+        "property_name": "Kingsford Waterbay",
+        "address": "78 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500307357",
+        "property_name": "8 @ Woodleigh",
+        "address": "2 Woodleigh Close, Macpherson / Potong Pasir",
+        "last_price": 1580000
+      },
+      {
+        "listing_id": "pg-500323443",
+        "property_name": "Eastpoint Green",
+        "address": "5 Simei Street 3, Pasir Ris / Tampines",
+        "last_price": 1338000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500124651",
+        "property_name": "Kingsford Waterbay",
+        "address": "",
+        "old_price": 1280000,
+        "new_price": 1260000,
+        "change_amount": -20000,
+        "change_percent": -1.6
+      }
+    ]
   }
 ]

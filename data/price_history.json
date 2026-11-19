@@ -3382,5 +3382,17 @@
     "change_percent": -1.6,
     "recorded_at": "2026-11-18",
     "notes": "Price changed from S$1,280,000"
+  },
+  {
+    "id": "ph-ae2f153f",
+    "listing_id": "pg-500109546",
+    "property_id": "prop-4e28f83e",
+    "property_name": "Lilydale",
+    "price": 1099000,
+    "psf": 919.67,
+    "change_amount": -31000,
+    "change_percent": -2.7,
+    "recorded_at": "2026-11-19",
+    "notes": "Price changed from S$1,130,000"
   }
 ]

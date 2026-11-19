@@ -18292,5 +18292,78 @@
         "change_percent": -1.6
       }
     ]
+  },
+  {
+    "week_start": "2026-11-13",
+    "week_end": "2026-11-19",
+    "new_listings": [
+      {
+        "listing_id": "pg-500305353",
+        "property_name": "Twin Waterfalls",
+        "address": "110 Punggol Walk, Hougang / Punggol / Sengkang",
+        "price": 1515000
+      },
+      {
+        "listing_id": "pg-500246737",
+        "property_name": "Carissa Park Condo",
+        "address": "2 Flora Drive, Changi Airport / Changi Village",
+        "price": 1168000
+      },
+      {
+        "listing_id": "pg-500327494",
+        "property_name": "Treasure Mansions",
+        "address": "15 Rosyth Avenue, Hougang / Punggol / Sengkang",
+        "price": 1188888
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60234628",
+        "property_name": "Treasure Mansions",
+        "address": "15 Rosyth Avenue, Hougang / Punggol / Sengkang",
+        "last_price": 1188888
+      },
+      {
+        "listing_id": "pg-500120092",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road, Balestier / Toa Payoh",
+        "last_price": 1260000
+      },
+      {
+        "listing_id": "pg-500284198",
+        "property_name": "River Isles",
+        "address": "Punggol Central, Hougang / Punggol / Sengkang",
+        "last_price": 1238000
+      },
+      {
+        "listing_id": "pg-500253070",
+        "property_name": "Verdale",
+        "address": "12 De Souza Avenue, Clementi Park / Upper Bukit Timah",
+        "last_price": 1438000
+      },
+      {
+        "listing_id": "pg-60148735",
+        "property_name": "Regent Residences",
+        "address": "1091 Serangoon Road, Balestier / Toa Payoh",
+        "last_price": 1490000
+      },
+      {
+        "listing_id": "pg-500221221",
+        "property_name": "The Palette",
+        "address": "101 Pasir Ris Grove, Pasir Ris / Tampines",
+        "last_price": 1190000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500109546",
+        "property_name": "Lilydale",
+        "address": "",
+        "old_price": 1130000,
+        "new_price": 1099000,
+        "change_amount": -31000,
+        "change_percent": -2.7
+      }
+    ]
   }
 ]

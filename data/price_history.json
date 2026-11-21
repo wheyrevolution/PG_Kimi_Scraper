@@ -3394,5 +3394,17 @@
     "change_percent": -2.7,
     "recorded_at": "2026-11-19",
     "notes": "Price changed from S$1,130,000"
+  },
+  {
+    "id": "ph-b59f31c7",
+    "listing_id": "pg-500281915",
+    "property_id": "prop-ee6a67eb",
+    "property_name": "Watercolours",
+    "price": 1250000,
+    "psf": 1210.07,
+    "change_amount": -9999,
+    "change_percent": -0.8,
+    "recorded_at": "2026-11-21",
+    "notes": "Price changed from S$1,259,999"
   }
 ]

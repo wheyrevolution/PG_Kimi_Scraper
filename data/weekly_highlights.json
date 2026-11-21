@@ -18440,5 +18440,41 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-11-15",
+    "week_end": "2026-11-21",
+    "new_listings": [],
+    "went_inactive": [
+      {
+        "listing_id": "pg-60208994",
+        "property_name": "Parc Somme",
+        "address": "62 Somme Road, Farrer Park / Serangoon Rd",
+        "last_price": 1299000
+      },
+      {
+        "listing_id": "pg-24689517",
+        "property_name": "Kovan Grandeur",
+        "address": "118 Tampines Road, Hougang / Punggol / Sengkang",
+        "last_price": 990000
+      },
+      {
+        "listing_id": "pg-500318453",
+        "property_name": "Coastal Cabana",
+        "address": "32 Jalan Loyang Besar, Changi Airport / Changi Village",
+        "last_price": 1575000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500281915",
+        "property_name": "Watercolours",
+        "address": "",
+        "old_price": 1259999,
+        "new_price": 1250000,
+        "change_amount": -9999,
+        "change_percent": -0.8
+      }
+    ]
   }
 ]

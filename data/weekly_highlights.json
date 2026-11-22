@@ -18476,5 +18476,56 @@
         "change_percent": -0.8
       }
     ]
+  },
+  {
+    "week_start": "2026-11-16",
+    "week_end": "2026-11-22",
+    "new_listings": [
+      {
+        "listing_id": "pg-500329721",
+        "property_name": "The Promenade @ Pelikat",
+        "address": "183 Jalan Pelikat, Hougang / Punggol / Sengkang",
+        "price": 1320000
+      },
+      {
+        "listing_id": "pg-500329952",
+        "property_name": "Boathouse Residences",
+        "address": "33 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "price": 1200000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-20127981",
+        "property_name": "Riversails",
+        "address": "8 Upper Serangoon Crescent, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500120092",
+        "property_name": "Riviera 38",
+        "address": "38 Mar Thoma Road, Balestier / Toa Payoh",
+        "last_price": 1260000
+      },
+      {
+        "listing_id": "pg-500255750",
+        "property_name": "Ritz @ Farrer",
+        "address": "142 Race Course Road, Farrer Park / Serangoon Rd",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500281915",
+        "property_name": "Watercolours",
+        "address": "25 Pasir Ris Link, Pasir Ris / Tampines",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-60014352",
+        "property_name": "Cassia Edge",
+        "address": "343 Guillemard Road, Eunos / Geylang / Paya Lebar",
+        "last_price": 1020000
+      }
+    ],
+    "price_changes": []
   }
 ]

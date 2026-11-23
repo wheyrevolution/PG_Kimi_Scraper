@@ -3406,5 +3406,17 @@
     "change_percent": -0.8,
     "recorded_at": "2026-11-21",
     "notes": "Price changed from S$1,259,999"
+  },
+  {
+    "id": "ph-d1cd9377",
+    "listing_id": "pg-500290022",
+    "property_id": "prop-3cfeb34d",
+    "property_name": "Palm Isles",
+    "price": 1280000,
+    "psf": 1292.93,
+    "change_amount": -20000,
+    "change_percent": -1.5,
+    "recorded_at": "2026-11-23",
+    "notes": "Price changed from S$1,300,000"
   }
 ]

@@ -18527,5 +18527,54 @@
       }
     ],
     "price_changes": []
+  },
+  {
+    "week_start": "2026-11-17",
+    "week_end": "2026-11-23",
+    "new_listings": [
+      {
+        "listing_id": "pg-24446787",
+        "property_name": "Normanton Park",
+        "address": "45 Normanton Park, Buona Vista / West Coast / Clementi New Town",
+        "price": 1448000
+      },
+      {
+        "listing_id": "pg-500328075",
+        "property_name": "The Sen",
+        "address": "De Souza Avenue, Clementi Park / Upper Bukit Timah",
+        "price": 1546000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-500298777",
+        "property_name": "Kingsford Waterbay",
+        "address": "84 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500318453",
+        "property_name": "Coastal Cabana",
+        "address": "32 Jalan Loyang Besar, Changi Airport / Changi Village",
+        "last_price": 1575000
+      },
+      {
+        "listing_id": "pg-25173320",
+        "property_name": "The Palette",
+        "address": "117 Pasir Ris Grove, Pasir Ris / Tampines",
+        "last_price": 1288000
+      }
+    ],
+    "price_changes": [
+      {
+        "listing_id": "pg-500290022",
+        "property_name": "Palm Isles",
+        "address": "",
+        "old_price": 1300000,
+        "new_price": 1280000,
+        "change_amount": -20000,
+        "change_percent": -1.5
+      }
+    ]
   }
 ]

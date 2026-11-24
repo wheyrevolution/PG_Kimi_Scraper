@@ -18576,5 +18576,80 @@
         "change_percent": -1.5
       }
     ]
+  },
+  {
+    "week_start": "2026-11-18",
+    "week_end": "2026-11-24",
+    "new_listings": [
+      {
+        "listing_id": "pg-500106521",
+        "property_name": "The Rivervale",
+        "address": "3 Rivervale Link, Hougang / Punggol / Sengkang",
+        "price": 1338000
+      },
+      {
+        "listing_id": "pg-500316129",
+        "property_name": "Palm Gardens",
+        "address": "2D Hong San Walk, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "price": 1088000
+      },
+      {
+        "listing_id": "pg-25514876",
+        "property_name": "Phoenix Residences",
+        "address": "81 Phoenix Avenue, Dairy Farm / Bukit Panjang / Choa Chu Kang",
+        "price": 1200000
+      },
+      {
+        "listing_id": "pg-500250844",
+        "property_name": "Cavendish Park",
+        "address": "16 Pine Grove, Clementi Park / Upper Bukit Timah",
+        "price": 1498000
+      }
+    ],
+    "went_inactive": [
+      {
+        "listing_id": "pg-20093925",
+        "property_name": "Carlyx Residence",
+        "address": "39 Carlisle Road, Farrer Park / Serangoon Rd",
+        "last_price": 1250000
+      },
+      {
+        "listing_id": "pg-500259481",
+        "property_name": "The Florence Residences",
+        "address": "99 Hougang Avenue 2, Hougang / Punggol / Sengkang",
+        "last_price": 1490000
+      },
+      {
+        "listing_id": "pg-500290022",
+        "property_name": "Palm Isles",
+        "address": "34 Flora Drive, Changi Airport / Changi Village",
+        "last_price": 1280000
+      },
+      {
+        "listing_id": "pg-500309176",
+        "property_name": "Kingsford Waterbay",
+        "address": "76 Upper Serangoon View, Hougang / Punggol / Sengkang",
+        "last_price": 1300000
+      },
+      {
+        "listing_id": "pg-500305353",
+        "property_name": "Twin Waterfalls",
+        "address": "110 Punggol Walk, Hougang / Punggol / Sengkang",
+        "last_price": 1515000
+      },
+      {
+        "listing_id": "pg-24446787",
+        "property_name": "Normanton Park",
+        "address": "45 Normanton Park, Buona Vista / West Coast / Clementi New Town",
+        "last_price": 1448000
+      },
+      {
+        "listing_id": "pg-500328075",
+        "property_name": "The Sen",
+        "address": "De Souza Avenue, Clementi Park / Upper Bukit Timah",
+        "last_price": 1546000
+      }
+    ],
+    "price_changes": []
   }
 ]
